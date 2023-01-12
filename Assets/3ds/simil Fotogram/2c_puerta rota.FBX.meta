@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 8ea11e09e825b634bae91bc1c18c74d8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 2P_Puerta_Marco_agujero1
+    100004: 2P_Puerta_Marco_agujero2
+    100006: 2P_Puerta_Marco_Ext1
+    100008: 2P_Puerta_Marco_Ext2
+    100010: 2P_Puerta_Marco_Ext3
+    100012: 2P_Puerta_Marco_Int002
+    100014: 2P_Puerta_Marco_Int1
+    100016: 2P_Puerta_Marco_Int3
+    100018: ADENTRO
+    100020: AFUERA
+    100022: cerradura_picaporte
+    100024: cerradura_picaporte1
+    100026: cerradura_portapico001
+    100028: cerradura_portapico003
+    100030: Hindge_1
+    100032: Hindge_2
+    100034: Hindge_3
+    100036: lookhole001
+    100038: Manija
+    100040: P2_C
+    100042: Picaporte
+    100044: PUERTA
+    100046: PUERTA_entrada
+    100048: tornillo018
+    100050: tornillo019
+    400000: //RootNode
+    400002: 2P_Puerta_Marco_agujero1
+    400004: 2P_Puerta_Marco_agujero2
+    400006: 2P_Puerta_Marco_Ext1
+    400008: 2P_Puerta_Marco_Ext2
+    400010: 2P_Puerta_Marco_Ext3
+    400012: 2P_Puerta_Marco_Int002
+    400014: 2P_Puerta_Marco_Int1
+    400016: 2P_Puerta_Marco_Int3
+    400018: ADENTRO
+    400020: AFUERA
+    400022: cerradura_picaporte
+    400024: cerradura_picaporte1
+    400026: cerradura_portapico001
+    400028: cerradura_portapico003
+    400030: Hindge_1
+    400032: Hindge_2
+    400034: Hindge_3
+    400036: lookhole001
+    400038: Manija
+    400040: P2_C
+    400042: Picaporte
+    400044: PUERTA
+    400046: PUERTA_entrada
+    400048: tornillo018
+    400050: tornillo019
+    2100000: No Name
+    2300000: 2P_Puerta_Marco_agujero1
+    2300002: 2P_Puerta_Marco_agujero2
+    2300004: 2P_Puerta_Marco_Ext1
+    2300006: 2P_Puerta_Marco_Ext2
+    2300008: 2P_Puerta_Marco_Ext3
+    2300010: 2P_Puerta_Marco_Int002
+    2300012: 2P_Puerta_Marco_Int1
+    2300014: 2P_Puerta_Marco_Int3
+    2300016: cerradura_picaporte
+    2300018: cerradura_picaporte1
+    2300020: cerradura_portapico001
+    2300022: cerradura_portapico003
+    2300024: Hindge_1
+    2300026: Hindge_2
+    2300028: Hindge_3
+    2300030: lookhole001
+    2300032: Manija
+    2300034: PUERTA
+    2300036: tornillo018
+    2300038: tornillo019
+    3300000: 2P_Puerta_Marco_agujero1
+    3300002: 2P_Puerta_Marco_agujero2
+    3300004: 2P_Puerta_Marco_Ext1
+    3300006: 2P_Puerta_Marco_Ext2
+    3300008: 2P_Puerta_Marco_Ext3
+    3300010: 2P_Puerta_Marco_Int002
+    3300012: 2P_Puerta_Marco_Int1
+    3300014: 2P_Puerta_Marco_Int3
+    3300016: cerradura_picaporte
+    3300018: cerradura_picaporte1
+    3300020: cerradura_portapico001
+    3300022: cerradura_portapico003
+    3300024: Hindge_1
+    3300026: Hindge_2
+    3300028: Hindge_3
+    3300030: lookhole001
+    3300032: Manija
+    3300034: PUERTA
+    3300036: tornillo018
+    3300038: tornillo019
+    4300000: PUERTA
+    4300002: Manija
+    4300004: lookhole001
+    4300006: cerradura_portapico003
+    4300008: tornillo019
+    4300010: tornillo018
+    4300012: cerradura_portapico001
+    4300014: cerradura_picaporte1
+    4300016: cerradura_picaporte
+    4300018: 2P_Puerta_Marco_Ext3
+    4300020: 2P_Puerta_Marco_Ext2
+    4300022: Hindge_3
+    4300024: 2P_Puerta_Marco_Int3
+    4300026: 2P_Puerta_Marco_Int002
+    4300028: 2P_Puerta_Marco_Int1
+    4300030: 2P_Puerta_Marco_agujero2
+    4300032: 2P_Puerta_Marco_agujero1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

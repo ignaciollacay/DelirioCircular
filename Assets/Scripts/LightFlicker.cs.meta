@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c70c573affa7a5044b04468f3fa9ac08
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MaterialPantallaPrendida: {fileID: 2100000, guid: 2ec00a46ea4056c43aadc5efbbfd3071,
+      type: 2}
+  - MaterialPantallaFlicker: {fileID: 2100000, guid: 3c29e150f2eae7945b1f791539887edb,
+      type: 2}
+  - MaterialPantallaApagada: {fileID: 2100000, guid: b8400b3319563054990249f91cf745a3,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

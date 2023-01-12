@@ -1,0 +1,419 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.243586452)
+
+newmtl Esc
+kd 1 1 1
+illum 1
+
+newmtl F3
+kd 1 1 1
+illum 1
+
+newmtl F4
+kd 1 1 1
+illum 1
+
+newmtl ctrl
+kd 1 1 1
+illum 1
+
+newmtl tab
+kd 1 1 1
+illum 1
+
+newmtl caps
+kd 1 1 1
+illum 1
+
+newmtl shift
+kd 1 1 1
+illum 1
+
+newmtl dizuo
+kd 0 0 0
+illum 1
+
+newmtl windowsbiaoshi
+kd 1 1 1
+illum 1
+
+newmtl alt
+kd 1 1 1
+illum 1
+
+newmtl youjian
+kd 1 1 1
+illum 1
+
+newmtl F1
+kd 1 1 1
+illum 1
+
+newmtl F2
+kd 1 1 1
+illum 1
+
+newmtl F5
+kd 1 1 1
+illum 1
+
+newmtl F6
+kd 1 1 1
+illum 1
+
+newmtl F7
+kd 1 1 1
+illum 1
+
+newmtl F8
+kd 1 1 1
+illum 1
+
+newmtl F9
+kd 1 1 1
+illum 1
+
+newmtl F10
+kd 1 1 1
+illum 1
+
+newmtl F11
+kd 1 1 1
+illum 1
+
+newmtl F12
+kd 1 1 1
+illum 1
+
+newmtl jiangehao
+kd 1 1 1
+illum 1
+
+newmtl da1
+kd 1 1 1
+illum 1
+
+newmtl da2
+kd 1 1 1
+illum 1
+
+newmtl da3
+kd 1 1 1
+illum 1
+
+newmtl da4
+kd 1 1 1
+illum 1
+
+newmtl da5
+kd 1 1 1
+illum 1
+
+newmtl da6
+kd 1 1 1
+illum 1
+
+newmtl da7
+kd 1 1 1
+illum 1
+
+newmtl da8
+kd 1 1 1
+illum 1
+
+newmtl da9
+kd 1 1 1
+illum 1
+
+newmtl da10
+kd 1 1 1
+illum 1
+
+newmtl jianhao
+kd 1 1 1
+illum 1
+
+newmtl jiahao
+kd 1 1 1
+illum 1
+
+newmtl gang
+kd 1 1 1
+illum 1
+
+newmtl shanchu
+kd 1 1 1
+illum 1
+
+newmtl Q
+kd 1 1 1
+illum 1
+
+newmtl W
+kd 1 1 1
+illum 1
+
+newmtl E
+kd 1 1 1
+illum 1
+
+newmtl R
+kd 1 1 1
+illum 1
+
+newmtl T
+kd 1 1 1
+illum 1
+
+newmtl Y
+kd 1 1 1
+illum 1
+
+newmtl U
+kd 1 1 1
+illum 1
+
+newmtl I
+kd 1 1 1
+illum 1
+
+newmtl O
+kd 1 1 1
+illum 1
+
+newmtl P
+kd 1 1 1
+illum 1
+
+newmtl zhongkuohao1
+kd 1 1 1
+illum 1
+
+newmtl zhongkuohao2
+kd 1 1 1
+illum 1
+
+newmtl A
+kd 1 1 1
+illum 1
+
+newmtl S
+kd 1 1 1
+illum 1
+
+newmtl D
+kd 1 1 1
+illum 1
+
+newmtl F
+kd 1 1 1
+illum 1
+
+newmtl G
+kd 1 1 1
+illum 1
+
+newmtl H
+kd 1 1 1
+illum 1
+
+newmtl J
+kd 1 1 1
+illum 1
+
+newmtl K
+kd 1 1 1
+illum 1
+
+newmtl L
+kd 1 1 1
+illum 1
+
+newmtl maohao
+kd 1 1 1
+illum 1
+
+newmtl yinhao
+kd 1 1 1
+illum 1
+
+newmtl z
+kd 1 1 1
+illum 1
+
+newmtl X
+kd 1 1 1
+illum 1
+
+newmtl C
+kd 1 1 1
+illum 1
+
+newmtl V
+kd 1 1 1
+illum 1
+
+newmtl B
+kd 1 1 1
+illum 1
+
+newmtl N
+kd 1 1 1
+illum 1
+
+newmtl M
+kd 1 1 1
+illum 1
+
+newmtl zuoshuminghao
+kd 1 1 1
+illum 1
+
+newmtl youshuminghao
+kd 1 1 1
+illum 1
+
+newmtl wenhao
+kd 1 1 1
+illum 1
+
+newmtl print
+kd 1 1 1
+illum 1
+
+newmtl scroll
+kd 1 1 1
+illum 1
+
+newmtl pause
+kd 1 1 1
+illum 1
+
+newmtl insert
+kd 1 1 1
+illum 1
+
+newmtl home
+kd 1 1 1
+illum 1
+
+newmtl page
+kd 1 1 1
+illum 1
+
+newmtl delete
+kd 1 1 1
+illum 1
+
+newmtl end
+kd 1 1 1
+illum 1
+
+newmtl pagedowm
+kd 1 1 1
+illum 1
+
+newmtl shangjiantou
+kd 1 1 1
+illum 1
+
+newmtl youjiantou
+kd 1 1 1
+illum 1
+
+newmtl xiajiantou
+kd 1 1 1
+illum 1
+
+newmtl zuojiantou
+kd 1 1 1
+illum 1
+
+newmtl unmlock
+kd 1 1 1
+illum 1
+
+newmtl xiegang
+kd 1 1 1
+illum 1
+
+newmtl xinghao
+kd 1 1 1
+illum 1
+
+newmtl xiao7
+kd 1 1 1
+illum 1
+
+newmtl xiao8
+kd 1 1 1
+illum 1
+
+newmtl xiao9
+kd 1 1 1
+illum 1
+
+newmtl xiao4
+kd 1 1 1
+illum 1
+
+newmtl xiao5
+kd 1 1 1
+illum 1
+
+newmtl xiao6
+kd 1 1 1
+illum 1
+
+newmtl xiao1
+kd 1 1 1
+illum 1
+
+newmtl xiao2
+kd 1 1 1
+illum 1
+
+newmtl xiao3
+kd 1 1 1
+illum 1
+
+newmtl del
+kd 1 1 1
+illum 1
+
+newmtl jian
+kd 1 1 1
+illum 1
+
+newmtl xiao0
+kd 1 1 1
+illum 1
+
+newmtl enter
+kd 1 1 1
+illum 1
+
+newmtl jia
+kd 1 1 1
+illum 1
+
+newmtl wakeup
+kd 1 1 1
+illum 1
+
+newmtl sleep
+kd 1 1 1
+illum 1
+
+newmtl power
+kd 1 1 1
+illum 1
+
+newmtl huiche
+kd 1 1 1
+illum 1
+
+newmtl blinn2
+kd 0 1 0
+illum 1
+

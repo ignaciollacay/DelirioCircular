@@ -1,0 +1,13 @@
+# Blender MTL File: 'LivingRemediosVaro37.blend'
+# Material Count: 1
+
+newmtl Escritorio_vhigh
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd I:\\FADU 2\\PAV4\\fotogram cam\\dpto\\r\\Escritorio\\Escritorio_vhigh.png

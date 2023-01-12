@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 3131043360c19b14a8579d3a287c0774
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box008
+    100002: Box009
+    100004: Box011
+    100006: Box012
+    100008: cama
+    100010: //RootNode
+    100012: Cerradura
+    100014: Cocina
+    100016: Cocina 1
+    100018: Cocina001
+    100020: Cuarto
+    100022: Cylinder002
+    100024: Cylinder003
+    100026: Cylinder004
+    100028: Cylinder005
+    100030: Cylinder006
+    100032: Cylinder007
+    100034: Cylinder008
+    100036: Cylinder009
+    100038: Cylinder010
+    100040: Cylinder011
+    100042: Cylinder012
+    100044: Cylinder013
+    100046: Cylinder014
+    100048: Cylinder015
+    100050: Cylinder016
+    100052: Cylinder017
+    100054: Cylinder018
+    100056: Cylinder019
+    100058: Escritorio
+    100060: Escritorio001
+    100062: Jardin
+    100064: modulo techo fotogram
+    100066: modulo techo fotogram001
+    100068: "Pared_Ba\xF1o"
+    100070: "Pared_Ba\xF1o (basic)"
+    100072: Pared_Cocina
+    100074: Pared_Pasillo_1
+    100076: Pared_Pasillo_2
+    100078: Pared_Tele
+    100080: Pared_Ventana
+    100082: Paredes
+    100084: Paredes 1
+    100086: Pasillo
+    100088: Piso_Cuarto
+    100090: Piso_Pasillo
+    100092: "Puerta_Ba\xF1o"
+    100094: "Puerta_Ba\xF1o (basic)"
+    100096: Puerta_Cocina
+    100098: Reja
+    100100: reja
+    100102: Reja H
+    100104: Reja H 1
+    100106: reja001
+    100108: reja002
+    100110: reja003
+    100112: reja004
+    100114: reja005
+    100116: reja006
+    100118: reja007
+    100120: reja008
+    100122: Reja_h
+    100124: Reja_V
+    100126: Screen
+    100128: Techo
+    100130: techo fotogram
+    100132: techo fotogram001
+    100134: Techo002
+    100136: Techo004
+    100138: TV
+    100140: TV001
+    100142: Yggdrasil
+    400000: Box008
+    400002: Box009
+    400004: Box011
+    400006: Box012
+    400008: cama
+    400010: //RootNode
+    400012: Cerradura
+    400014: Cocina
+    400016: Cocina 1
+    400018: Cocina001
+    400020: Cuarto
+    400022: Cylinder002
+    400024: Cylinder003
+    400026: Cylinder004
+    400028: Cylinder005
+    400030: Cylinder006
+    400032: Cylinder007
+    400034: Cylinder008
+    400036: Cylinder009
+    400038: Cylinder010
+    400040: Cylinder011
+    400042: Cylinder012
+    400044: Cylinder013
+    400046: Cylinder014
+    400048: Cylinder015
+    400050: Cylinder016
+    400052: Cylinder017
+    400054: Cylinder018
+    400056: Cylinder019
+    400058: Escritorio
+    400060: Escritorio001
+    400062: Jardin
+    400064: modulo techo fotogram
+    400066: modulo techo fotogram001
+    400068: "Pared_Ba\xF1o"
+    400070: "Pared_Ba\xF1o (basic)"
+    400072: Pared_Cocina
+    400074: Pared_Pasillo_1
+    400076: Pared_Pasillo_2
+    400078: Pared_Tele
+    400080: Pared_Ventana
+    400082: Paredes
+    400084: Paredes 1
+    400086: Pasillo
+    400088: Piso_Cuarto
+    400090: Piso_Pasillo
+    400092: "Puerta_Ba\xF1o"
+    400094: "Puerta_Ba\xF1o (basic)"
+    400096: Puerta_Cocina
+    400098: Reja
+    400100: reja
+    400102: Reja H
+    400104: Reja H 1
+    400106: reja001
+    400108: reja002
+    400110: reja003
+    400112: reja004
+    400114: reja005
+    400116: reja006
+    400118: reja007
+    400120: reja008
+    400122: Reja_h
+    400124: Reja_V
+    400126: Screen
+    400128: Techo
+    400130: techo fotogram
+    400132: techo fotogram001
+    400134: Techo002
+    400136: Techo004
+    400138: TV
+    400140: TV001
+    400142: Yggdrasil
+    2100000: No Name
+    2100002: Trunk
+    2100004: Branch0
+    2100006: Branch1
+    2100008: Leaves
+    2300000: Box008
+    2300002: Box009
+    2300004: Box011
+    2300006: Box012
+    2300008: cama
+    2300010: Cerradura
+    2300012: Cocina 1
+    2300014: Cocina001
+    2300016: Cylinder002
+    2300018: Cylinder003
+    2300020: Cylinder004
+    2300022: Cylinder005
+    2300024: Cylinder006
+    2300026: Cylinder007
+    2300028: Cylinder008
+    2300030: Cylinder009
+    2300032: Cylinder010
+    2300034: Cylinder011
+    2300036: Cylinder012
+    2300038: Cylinder013
+    2300040: Cylinder014
+    2300042: Cylinder015
+    2300044: Cylinder016
+    2300046: Cylinder017
+    2300048: Cylinder018
+    2300050: Cylinder019
+    2300052: Escritorio
+    2300054: Escritorio001
+    2300056: modulo techo fotogram
+    2300058: modulo techo fotogram001
+    2300060: "Pared_Ba\xF1o"
+    2300062: "Pared_Ba\xF1o (basic)"
+    2300064: Pared_Cocina
+    2300066: Pared_Pasillo_1
+    2300068: Pared_Pasillo_2
+    2300070: Pared_Tele
+    2300072: Pared_Ventana
+    2300074: Piso_Cuarto
+    2300076: Piso_Pasillo
+    2300078: "Puerta_Ba\xF1o"
+    2300080: "Puerta_Ba\xF1o (basic)"
+    2300082: Puerta_Cocina
+    2300084: reja
+    2300086: Reja H 1
+    2300088: reja001
+    2300090: reja002
+    2300092: reja003
+    2300094: reja004
+    2300096: reja005
+    2300098: reja006
+    2300100: reja007
+    2300102: reja008
+    2300104: Reja_h
+    2300106: Screen
+    2300108: Techo
+    2300110: techo fotogram
+    2300112: techo fotogram001
+    2300114: Techo002
+    2300116: Techo004
+    2300118: TV
+    2300120: TV001
+    2300122: Yggdrasil
+    3300000: Box008
+    3300002: Box009
+    3300004: Box011
+    3300006: Box012
+    3300008: cama
+    3300010: Cerradura
+    3300012: Cocina 1
+    3300014: Cocina001
+    3300016: Cylinder002
+    3300018: Cylinder003
+    3300020: Cylinder004
+    3300022: Cylinder005
+    3300024: Cylinder006
+    3300026: Cylinder007
+    3300028: Cylinder008
+    3300030: Cylinder009
+    3300032: Cylinder010
+    3300034: Cylinder011
+    3300036: Cylinder012
+    3300038: Cylinder013
+    3300040: Cylinder014
+    3300042: Cylinder015
+    3300044: Cylinder016
+    3300046: Cylinder017
+    3300048: Cylinder018
+    3300050: Cylinder019
+    3300052: Escritorio
+    3300054: Escritorio001
+    3300056: modulo techo fotogram
+    3300058: modulo techo fotogram001
+    3300060: "Pared_Ba\xF1o"
+    3300062: "Pared_Ba\xF1o (basic)"
+    3300064: Pared_Cocina
+    3300066: Pared_Pasillo_1
+    3300068: Pared_Pasillo_2
+    3300070: Pared_Tele
+    3300072: Pared_Ventana
+    3300074: Piso_Cuarto
+    3300076: Piso_Pasillo
+    3300078: "Puerta_Ba\xF1o"
+    3300080: "Puerta_Ba\xF1o (basic)"
+    3300082: Puerta_Cocina
+    3300084: reja
+    3300086: Reja H 1
+    3300088: reja001
+    3300090: reja002
+    3300092: reja003
+    3300094: reja004
+    3300096: reja005
+    3300098: reja006
+    3300100: reja007
+    3300102: reja008
+    3300104: Reja_h
+    3300106: Screen
+    3300108: Techo
+    3300110: techo fotogram
+    3300112: techo fotogram001
+    3300114: Techo002
+    3300116: Techo004
+    3300118: TV
+    3300120: TV001
+    3300122: Yggdrasil
+    4300000: Pared_Pasillo_2
+    4300002: Pared_Pasillo_1
+    4300004: Piso_Pasillo
+    4300006: Techo004
+    4300008: "Pared_Ba\xF1o"
+    4300010: "Pared_Ba\xF1o (basic)"
+    4300012: Pared_Cocina
+    4300014: Pared_Tele
+    4300016: Pared_Ventana
+    4300018: Piso_Cuarto
+    4300020: Puerta_Cocina
+    4300022: Cerradura
+    4300024: Reja H
+    4300026: Box011
+    4300028: reja001
+    4300030: Cylinder004
+    4300032: TV
+    4300034: Screen
+    4300036: "Puerta_Ba\xF1o"
+    4300038: "Puerta_Ba\xF1o (basic)"
+    4300040: Escritorio
+    4300042: Escritorio001
+    4300044: cama
+    4300046: TV001
+    4300048: Cocina001
+    4300050: Cocina
+    4300052: modulo techo fotogram
+    4300054: modulo techo fotogram001
+    4300056: techo fotogram
+    4300058: techo fotogram001
+    4300060: Yggdrasil
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

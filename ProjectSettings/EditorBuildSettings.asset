@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 3db1837cc97a95e4c98610966fac2b0b
+  - enabled: 0
+    path: Assets/Scenes/TitleSceneTest4.unity
+    guid: 9b4878f66eacdd34593d113a3880159f
+  - enabled: 0
+    path: Assets/Scenes/TitleSceneTest4c.unity
+    guid: 93f9428f8a10a09479df4f27e4bb2bb0
+  - enabled: 0
+    path: Assets/Scenes/BerutiSceneTest1.unity
+    guid: c90505ae187c44b42bd077526b5d3f51
+  - enabled: 0
+    path: Assets/Scenes/Borradores/BerutiLaberinto_Scene1-Mirada.unity
+    guid: f483fc80cf74a684bb0e6af343f5a3d0
+  - enabled: 0
+    path: Assets/Scenes/Borradores/PrototipoMiradaA/Loop2-3.unity
+    guid: a3760cfcea975ca4e854c87e118a0b7d
+  - enabled: 0
+    path: Assets/Scenes/Borradores/PrototipoMiradaA/Loop2-2.unity
+    guid: bba6849491b6eec47aa867c4aa47cd0a
+  - enabled: 0
+    path: Assets/Scenes/Borradores/PrototipoMiradaA/Loop3-1.unity
+    guid: 3b5e19e08c38fe842884ed01fc131002
+  - enabled: 0
+    path: Assets/Scenes/DelirioCircular.unity
+    guid: 8757daafde1748840969a64b034af482
+  - enabled: 0
+    path: Assets/Scenes/Borradores/PrototipoMiradaB/PrototipoMiradaB-1.unity
+    guid: 5206dcd70bac5c14d8f96f52563ed15c
+  - enabled: 0
+    path: Assets/Scenes/Borradores/PrototipoMiradaB/PrototipoMiradaB-2.unity
+    guid: a563f77f8e92b9440b9ba9360f877049
+  - enabled: 0
+    path: Assets/Scenes/Borradores/PrototipoMiradaB/PrototipoMiradaB-5.unity
+    guid: eb99b68db90bb3f45a94633f713271c9
+  - enabled: 0
+    path: Assets/Scenes/Borradores/PrototipoMiradaB/PrototipoMiradaB-4.unity
+    guid: c10eee97d1a02dd43a9488caacb170e2
+  - enabled: 0
+    path: Assets/Scenes/Borradores/PrototipoHuecos/PH_Loop1-04 FinProvisorio2.unity
+    guid: f6956974cdd49174bbefff71404184ce
+  - enabled: 0
+    path: Assets/Scenes/Borradores/PrototipoHuecos/PH_Loop1-04 FinProvisorio3.unity
+    guid: ad949f5477401f24e899a4a34f049cbc
+  - enabled: 0
+    path: Assets/Scenes/Borradores/PrototipoMiradaB/PrototipoHuecoLoops1a4.unity
+    guid: 5d6e31b27599dd34c90e1ebad86efa77
+  - enabled: 0
+    path: Assets/Scenes/Borradores/PrototipoHuecos/PH-Loop3b-08.unity
+    guid: e195065ecac4fa2459420808df423716
+  - enabled: 0
+    path: Assets/Scenes/ExpoTesteo04.unity
+    guid: 2ab59cfdfbada294baa8ae59bc6fd886
+  - enabled: 0
+    path: Assets/Scenes/ExpoTesteo05.unity
+    guid: 726ea1f3ab5830f4699e43f87cd595f3
+  - enabled: 0
+    path: Assets/Scenes/ExpoTesteo05Part1.unity
+    guid: 063f444df6bcda444b38a2db715880a1
+  - enabled: 0
+    path: Assets/Scenes/ExpoTesteo05Part2.unity
+    guid: 32d551b75aa4b1c40b75e549653ff627
+  - enabled: 0
+    path: Assets/Scenes/ExpoTesteo06.unity
+    guid: cc000d1f730cde84e8466a39aaaeaa6e
+  - enabled: 0
+    path: Assets/Scenes/ExpoTesteo06b.unity
+    guid: 2377589f8b15cfd439d252ac2996616d
+  - enabled: 0
+    path: Assets/Scenes/Preentrega01low.unity
+    guid: de1b7db06adf2fb49b2e66d4cb9428fb
+  - enabled: 0
+    path: Assets/Scenes/Preentrega02_P0.unity
+    guid: 6b3760aa76323c84aadc5626d1ea12b9
+  - enabled: 0
+    path: Assets/Scenes/Entrega02_P1.unity
+    guid: eaf02fcc564d52c45b25d924d48ae034
+  - enabled: 0
+    path: Assets/Scenes/Preentrega02_P2.unity
+    guid: 2cb3d48d049651648b7b2d3fa3ecd62b
+  - enabled: 0
+    path: Assets/Scenes/Magma01_P0.unity
+    guid: ff508bb7af6a9594cbc34505954de709
+  - enabled: 1
+    path: Assets/Scenes/Magma01PC_P0.unity
+    guid: 6f3c10516e5aee0478da4e54c8914bee
+  - enabled: 1
+    path: Assets/Scenes/Magma01_P1.unity
+    guid: c3ba6e6bd2ab40f4ba12fc3e3555c709
+  - enabled: 1
+    path: Assets/Scenes/Magma01_P2.unity
+    guid: c660d6a5d7ff6fd41bb3694f0bbb7ff9
+  m_configObjects: {}

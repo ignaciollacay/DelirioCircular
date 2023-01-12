@@ -1,0 +1,5456 @@
+fileFormatVersion: 2
+guid: c397eabcc91b5c14fa95a11e0ce11fc6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 2C_Armario
+    100002: "2C_Ba\xF1o"
+    100004: "2C_Ba\xF1o-Cuarto_Pared"
+    100006: "2C_Ba\xF1o_Pared"
+    100008: "2C_Ba\xF1o_Pared_E"
+    100010: "2C_Ba\xF1o_Pared_E001"
+    100012: "2C_Ba\xF1o_Pared_W"
+    100014: "2C_Ba\xF1o_Puerta"
+    100016: 2C_Cocina
+    100018: 2C_Cocina_Pared_002
+    100020: 2C_Cocina_Pared_003
+    100022: 2C_Cocina_Pared_1
+    100024: 2C_Cocina_Puerta
+    100026: 2C_Contrafrente
+    100028: 2C_Contrafrente_E
+    100030: 2C_Contrafrente_Pared_N
+    100032: 2C_Contrafrente_Pared_S
+    100034: 2C_Cuarto
+    100036: 2C_Cuarto_Pared_Armario
+    100038: 2C_Cuarto_Pared_S
+    100040: 2C_Cuarto_Puerta_Marco_Ext004
+    100042: 2C_Cuarto_Puerta_Marco_Ext005
+    100044: 2C_Cuarto_Puerta_Marco_Ext006
+    100046: 2C_Cuarto_Puerta_Marco_Ext010
+    100048: 2C_Cuarto_Puerta_Marco_Ext011
+    100050: 2C_Cuarto_Puerta_Marco_Ext012
+    100052: 2C_Cuarto_Puerta_Marco_Ext013
+    100054: 2C_Cuarto_Puerta_Marco_Ext014
+    100056: 2C_Cuarto_Puerta_Marco_Ext015
+    100058: 2C_Cuarto_Puerta_Marco_Ext016
+    100060: 2C_Cuarto_Puerta_Marco_Ext017
+    100062: 2C_Cuarto_Puerta_Marco_Ext018
+    100064: 2C_Cuarto_Puerta_Marco_Int016
+    100066: 2C_Cuarto_Puerta_Marco_Int017
+    100068: 2C_Cuarto_Puerta_Marco_Int018
+    100070: 2C_Cuarto_Puerta_Marco_Int022
+    100072: 2C_Cuarto_Puerta_Marco_Int023
+    100074: 2C_Cuarto_Puerta_Marco_Int024
+    100076: 2C_Cuarto_Puerta_Marco_Int025
+    100078: 2C_Cuarto_Puerta_Marco_Int026
+    100080: 2C_Cuarto_Puerta_Marco_Int027
+    100082: 2C_Cuarto_Puerta_Marco_Int028
+    100084: 2C_Cuarto_Puerta_Marco_Int029
+    100086: 2C_Cuarto_Puerta_Marco_Int030
+    100088: 2C_Cuarto_Puerta_Picaporte
+    100090: 2C_Cuarto_Puerta_Picaporte001
+    100092: 2C_Lavadero_Pared_1
+    100094: 2C_Lavadero_Pared_2
+    100096: 2C_Lavadero_Pared_3
+    100098: 2C_Lavadero_Ventana
+    100100: 2C_Lavadero_Ventana_Vidrio
+    100102: 2C_Living
+    100104: 2C_Living-Cocina_Pared_O
+    100106: 2C_Living-Cuarto_Pared
+    100108: 2C_Living_Mesa
+    100110: 2C_Living_Pared_N
+    100112: 2C_Living_Ventana_Barrote01
+    100114: 2C_Living_Ventana_Barrote02
+    100116: 2C_Living_Ventana_Barrote03
+    100118: 2C_Living_Ventana_Barrote04
+    100120: 2C_Living_Ventana_Barrote05
+    100122: 2C_Living_Ventana_Barrote06
+    100124: 2C_Living_Ventana_Barrote07
+    100126: 2C_Living_Ventana_Barrote08
+    100128: 2C_Living_Ventana_Barrote09
+    100130: 2C_Living_Ventana_Barrote10
+    100132: 2C_Living_Ventana_Barrote11
+    100134: 2C_Living_Ventana_Barrote12
+    100136: 2C_Living_Ventana_Barrote13
+    100138: 2C_Living_Ventana_Barrote14
+    100140: 2C_Living_Ventana_Barrote15
+    100142: 2C_Living_Ventana_Barrote16
+    100144: 2C_Living_Ventana_Barrote17
+    100146: 2C_Living_Ventana_Barrote18
+    100148: 2C_Living_Ventana_Barrote19
+    100150: 2C_Living_Ventana_Barrote20
+    100152: 2C_Living_Ventana_Reja
+    100154: 2C_Luz
+    100156: 2C_Pared
+    100158: 2C_Pared_E
+    100160: 2C_Piso
+    100162: 2C_Techo
+    100164: 2P_Puerta_Marco_agujero1
+    100166: 2P_Puerta_Marco_agujero2
+    100168: 2P_Puerta_Marco_Ext1
+    100170: 2P_Puerta_Marco_Ext2
+    100172: 2P_Puerta_Marco_Ext3
+    100174: 2P_Puerta_Marco_Int002
+    100176: 2P_Puerta_Marco_Int1
+    100178: 2P_Puerta_Marco_Int3
+    100180: ADENTRO
+    100182: ADENTRO001
+    100184: ADENTRO003
+    100186: ADENTRO004
+    100188: ADENTRO005
+    100190: AFUERA
+    100192: AFUERA001
+    100194: AFUERA003
+    100196: AFUERA004
+    100198: AFUERA020
+    100200: almohada
+    100202: Armario_Puerta
+    100204: Armario_Puerta_Der_1
+    100206: Armario_Puerta_Der_1 1
+    100208: Armario_Puerta_Der_2
+    100210: Armario_Puerta_Der_2 1
+    100212: Armario_Puerta_Izq_1
+    100214: Armario_Puerta_Izq_1 1
+    100216: Armario_Puerta_Izq_2
+    100218: Armario_Puerta_Izq_2 1
+    100220: Asensor.
+    100222: Asensor. 1
+    100224: Asensor. 2
+    100226: Asensor_agujero
+    100228: Asensor_Base
+    100230: Asensor_boton
+    100232: Asensor_Boton.
+    100234: Asensor_Boton. 1
+    100236: Asensor_Boton. 2
+    100238: Asensor_Boton_Marco.
+    100240: Asensor_Boton_Marco. 1
+    100242: Asensor_Boton_Marco. 2
+    100244: Asensor_Lookhole_Ext.
+    100246: Asensor_Lookhole_Ext. 1
+    100248: Asensor_Lookhole_Ext. 2
+    100250: Asensor_Lookhole_Int.
+    100252: Asensor_Lookhole_Int. 1
+    100254: Asensor_Lookhole_Int. 2
+    100256: Asensor_manija
+    100258: Asensor_manija_base
+    100260: Asensor_Panel.
+    100262: Asensor_Panel. 1
+    100264: Asensor_Panel. 2
+    100266: Asensor_Panel. 3
+    100268: Asensor_Panel. 4
+    100270: Asensor_Panel. 5
+    100272: Asensor_Pantalla
+    100274: Asensor_Pantalla.
+    100276: Asensor_Pantalla. 1
+    100278: Asensor_Pantalla. 2
+    100280: Asensor_puerta_base
+    100282: Asensor_Puerta_Ext.
+    100284: Asensor_Puerta_Ext. 1
+    100286: Asensor_Puerta_Ext. 2
+    100288: Asensor_Puerta_Ext. 3
+    100290: Asensor_Puerta_Ext. 4
+    100292: Asensor_Puerta_Ext. 5
+    100294: Asensor_Puerta_Ext_01.
+    100296: Asensor_Puerta_Ext_01. 1
+    100298: Asensor_Puerta_Ext_01. 2
+    100300: Asensor_Puerta_Ext_02.
+    100302: Asensor_Puerta_Ext_02. 1
+    100304: Asensor_Puerta_Ext_02. 10
+    100306: Asensor_Puerta_Ext_02. 11
+    100308: Asensor_Puerta_Ext_02. 12
+    100310: Asensor_Puerta_Ext_02. 13
+    100312: Asensor_Puerta_Ext_02. 14
+    100314: Asensor_Puerta_Ext_02. 2
+    100316: Asensor_Puerta_Ext_02. 3
+    100318: Asensor_Puerta_Ext_02. 4
+    100320: Asensor_Puerta_Ext_02. 5
+    100322: Asensor_Puerta_Ext_02. 6
+    100324: Asensor_Puerta_Ext_02. 7
+    100326: Asensor_Puerta_Ext_02. 8
+    100328: Asensor_Puerta_Ext_02. 9
+    100330: Asensor_Puerta_Ext_Manija.
+    100332: Asensor_Puerta_Ext_Manija. 1
+    100334: Asensor_Puerta_Ext_Manija. 2
+    100336: Asensor_Puerta_Ext_Manija_01.
+    100338: Asensor_Puerta_Ext_Manija_01. 1
+    100340: Asensor_Puerta_Ext_Manija_01. 2
+    100342: Asensor_Puerta_Ext_Manija_02.
+    100344: Asensor_Puerta_Ext_Manija_02. 1
+    100346: Asensor_Puerta_Ext_Manija_02. 2
+    100348: Asensor_Puerta_Ext_Manija_03.
+    100350: Asensor_Puerta_Ext_Manija_03. 1
+    100352: Asensor_Puerta_Ext_Manija_03. 2
+    100354: Asensor_Puerta_Ext_Nexo.
+    100356: Asensor_Puerta_Ext_Nexo. 1
+    100358: Asensor_Puerta_Ext_Nexo. 10
+    100360: Asensor_Puerta_Ext_Nexo. 11
+    100362: Asensor_Puerta_Ext_Nexo. 12
+    100364: Asensor_Puerta_Ext_Nexo. 13
+    100366: Asensor_Puerta_Ext_Nexo. 14
+    100368: Asensor_Puerta_Ext_Nexo. 15
+    100370: Asensor_Puerta_Ext_Nexo. 16
+    100372: Asensor_Puerta_Ext_Nexo. 17
+    100374: Asensor_Puerta_Ext_Nexo. 18
+    100376: Asensor_Puerta_Ext_Nexo. 19
+    100378: Asensor_Puerta_Ext_Nexo. 2
+    100380: Asensor_Puerta_Ext_Nexo. 20
+    100382: Asensor_Puerta_Ext_Nexo. 21
+    100384: Asensor_Puerta_Ext_Nexo. 22
+    100386: Asensor_Puerta_Ext_Nexo. 23
+    100388: Asensor_Puerta_Ext_Nexo. 24
+    100390: Asensor_Puerta_Ext_Nexo. 25
+    100392: Asensor_Puerta_Ext_Nexo. 26
+    100394: Asensor_Puerta_Ext_Nexo. 27
+    100396: Asensor_Puerta_Ext_Nexo. 28
+    100398: Asensor_Puerta_Ext_Nexo. 29
+    100400: Asensor_Puerta_Ext_Nexo. 3
+    100402: Asensor_Puerta_Ext_Nexo. 30
+    100404: Asensor_Puerta_Ext_Nexo. 31
+    100406: Asensor_Puerta_Ext_Nexo. 32
+    100408: Asensor_Puerta_Ext_Nexo. 4
+    100410: Asensor_Puerta_Ext_Nexo. 5
+    100412: Asensor_Puerta_Ext_Nexo. 6
+    100414: Asensor_Puerta_Ext_Nexo. 7
+    100416: Asensor_Puerta_Ext_Nexo. 8
+    100418: Asensor_Puerta_Ext_Nexo. 9
+    100420: Asensor_Puerta_Int.
+    100422: Asensor_Puerta_Int. 1
+    100424: Asensor_Puerta_Int. 2
+    100426: Asensor_Puerta_Int. 3
+    100428: Asensor_Puerta_Int. 4
+    100430: Asensor_Puerta_Int. 5
+    100432: Asensor_Puerta_Int_01.
+    100434: Asensor_Puerta_Int_01. 1
+    100436: Asensor_Puerta_Int_01. 2
+    100438: Asensor_Puerta_Int_02.
+    100440: Asensor_Puerta_Int_02. 1
+    100442: Asensor_Puerta_Int_02. 10
+    100444: Asensor_Puerta_Int_02. 11
+    100446: Asensor_Puerta_Int_02. 12
+    100448: Asensor_Puerta_Int_02. 13
+    100450: Asensor_Puerta_Int_02. 14
+    100452: Asensor_Puerta_Int_02. 2
+    100454: Asensor_Puerta_Int_02. 3
+    100456: Asensor_Puerta_Int_02. 4
+    100458: Asensor_Puerta_Int_02. 5
+    100460: Asensor_Puerta_Int_02. 6
+    100462: Asensor_Puerta_Int_02. 7
+    100464: Asensor_Puerta_Int_02. 8
+    100466: Asensor_Puerta_Int_02. 9
+    100468: Asensor_Puerta_Marco.
+    100470: Asensor_Puerta_Marco. 1
+    100472: Asensor_Puerta_Marco. 2
+    100474: Base_base
+    100476: Base_nexo
+    100478: "Ba\xF1o_Bidet"
+    100480: "Ba\xF1o_Lavamanos"
+    100482: "Ba\xF1o_Lavamanos_Canilla"
+    100484: "Ba\xF1o_Llavamanos"
+    100486: "Ba\xF1o_Mesada"
+    100488: //RootNode
+    100490: Cama
+    100492: cama
+    100494: cerradura1_agujero
+    100496: Cerradura1_agujero.
+    100498: Cerradura1_agujero. 1
+    100500: Cerradura1_agujero. 2
+    100502: Cerradura1_agujero. 3
+    100504: Cerradura1_agujero. 4
+    100506: Cerradura1_agujero. 5
+    100508: Cerradura1_agujero. 6
+    100510: Cerradura1_agujero. 7
+    100512: cerradura1_base
+    100514: Cerradura1_base.
+    100516: Cerradura1_base. 1
+    100518: Cerradura1_base. 2
+    100520: Cerradura1_base. 3
+    100522: Cerradura1_base. 4
+    100524: Cerradura1_base. 5
+    100526: Cerradura1_base. 6
+    100528: Cerradura1_base. 7
+    100530: cerradura2_agujero
+    100532: cerradura2_agujero 1
+    100534: cerradura2_agujero 2
+    100536: Cerradura2_agujero.
+    100538: Cerradura2_agujero. 1
+    100540: Cerradura2_agujero. 2
+    100542: Cerradura2_agujero. 3
+    100544: Cerradura2_agujero. 4
+    100546: Cerradura2_agujero. 5
+    100548: Cerradura2_agujero. 6
+    100550: Cerradura2_agujero. 7
+    100552: cerradura2_agujero001
+    100554: cerradura2_base
+    100556: Cerradura2_base.
+    100558: Cerradura2_base. 1
+    100560: Cerradura2_base. 2
+    100562: Cerradura2_base. 3
+    100564: Cerradura2_base. 4
+    100566: Cerradura2_base. 5
+    100568: Cerradura2_base. 6
+    100570: Cerradura2_base. 7
+    100572: cerradura2_base001
+    100574: Cerradura_1.
+    100576: Cerradura_1. 1
+    100578: Cerradura_1. 2
+    100580: Cerradura_1. 3
+    100582: Cerradura_1. 4
+    100584: Cerradura_1. 5
+    100586: Cerradura_1. 6
+    100588: Cerradura_1. 7
+    100590: Cerradura_2.
+    100592: Cerradura_2. 1
+    100594: Cerradura_2. 2
+    100596: Cerradura_2. 3
+    100598: Cerradura_2. 4
+    100600: Cerradura_2. 5
+    100602: Cerradura_2. 6
+    100604: Cerradura_2. 7
+    100606: cerradura_A_1_base001
+    100608: cerradura_A_1_base002
+    100610: cerradura_A_1_base006
+    100612: cerradura_A_1_base007
+    100614: cerradura_A_1_base010
+    100616: cerradura_A_1_base011
+    100618: cerradura_A_1_base012
+    100620: cerradura_A_1_base013
+    100622: cerradura_A_1_base014
+    100624: cerradura_A_1_base015
+    100626: cerradura_A_2_agujero001
+    100628: cerradura_B_2_agujero002
+    100630: cerradura_picaporte
+    100632: cerradura_picaporte002
+    100634: cerradura_picaporte004
+    100636: cerradura_picaporte005
+    100638: cerradura_picaporte006
+    100640: cerradura_picaporte007
+    100642: cerradura_picaporte008
+    100644: cerradura_picaporte011
+    100646: cerradura_picaporte012
+    100648: cerradura_picaporte013
+    100650: cerradura_picaporte014
+    100652: cerradura_picaporte015
+    100654: cerradura_picaporte016
+    100656: cerradura_picaporte1
+    100658: cerradura_portapico001
+    100660: cerradura_portapico003
+    100662: cerradura_portapico004
+    100664: cerradura_portapico006
+    100666: cerradura_portapico007
+    100668: cerradura_portapico008
+    100670: ChamferCyl01
+    100672: Cocina_Pared
+    100674: Cuarto_Luz
+    100676: Cuarto_Luz_Base
+    100678: Cuarto_Luz_Pantalla
+    100680: Cuarto_Ventana
+    100682: Cuarto_Ventana 1
+    100684: Cuarto_Ventana_L
+    100686: Cuarto_Ventana_Marco
+    100688: Cuarto_Ventana_R
+    100690: Cylinder001
+    100692: Cylinder004
+    100694: Cylinder005
+    100696: Cylinder083
+    100698: Ducha
+    100700: Ducha 1
+    100702: "Ducha_Ba\xF1adera"
+    100704: Ducha_Canilla
+    100706: Ellipse01
+    100708: Ellipse02
+    100710: Entrada_Luz
+    100712: Entrada_Pared
+    100714: Entrada_Pared 1
+    100716: Entrada_Pared_Zocalo
+    100718: Entrada_Puerta
+    100720: Entrada_Puerta 1
+    100722: Entrada_Puerta 2
+    100724: Entrada_Puerta_Cerradura
+    100726: Entrada_Puerta_Manija
+    100728: Entrada_Puerta_Marco
+    100730: Entrada_Puerta_Vidrios
+    100732: Escalera_1
+    100734: escalera_2
+    100736: escalera_2 1
+    100738: escalera_2 2
+    100740: Escalera_box
+    100742: Escalera_Closed
+    100744: Escalera_Closed 1
+    100746: Escalera_Closed 2
+    100748: Escalera_Panel
+    100750: Escalera_Pared
+    100752: Escalera_Pared 1
+    100754: Escalera_Pared 2
+    100756: Escalon
+    100758: Escritorio
+    100760: Ext_Picaporte004
+    100762: Ext_Picaporte006
+    100764: Ext_Picaporte007
+    100766: Ext_Picaporte008
+    100768: Hindge_007
+    100770: Hindge_008
+    100772: Hindge_009
+    100774: Hindge_013
+    100776: Hindge_014
+    100778: Hindge_015
+    100780: Hindge_016
+    100782: Hindge_017
+    100784: Hindge_018
+    100786: Hindge_019
+    100788: Hindge_020
+    100790: Hindge_021
+    100792: Hindge_1
+    100794: Hindge_2
+    100796: Hindge_3
+    100798: Inodoro
+    100800: Int_Picaporte003
+    100802: Int_Picaporte005
+    100804: Int_Picaporte006
+    100806: Int_Picaporte007
+    100808: keyboardMouse_001xx66
+    100810: keyboardMouse_001xx66 1
+    100812: keyboardMouse_001xx66 2
+    100814: "keyboardMouse_3D\u6E9C\u6E9C\u7F51-\u6A21\u578B\u4E0D\u96BE\u627E"
+    100816: keyboardMouse_cgaxis_electronics_25_01
+    100818: keyboardMouse_cgaxis_electronics_25_02
+    100820: keyboardMouse_cgaxis_electronics_25_03
+    100822: keyboardMouse_Object01
+    100824: keyboardMouse_Object02
+    100826: Lavadero_Pared
+    100828: Living_Luz_Base
+    100830: Living_Luz_Pantalla
+    100832: Living_uz
+    100834: Living_Ventana
+    100836: Living_Ventana 1
+    100838: Lookhole.
+    100840: Lookhole. 1
+    100842: Lookhole. 2
+    100844: Lookhole. 3
+    100846: Lookhole. 4
+    100848: Lookhole. 5
+    100850: Lookhole. 6
+    100852: Lookhole. 7
+    100854: lookhole001
+    100856: lookhole002
+    100858: lookhole004
+    100860: lookhole005
+    100862: lookhole007
+    100864: lookhole_A_agujero
+    100866: Lookhole_B.
+    100868: Lookhole_B. 1
+    100870: Lookhole_B. 2
+    100872: Lookhole_B. 3
+    100874: Lookhole_B. 4
+    100876: Lookhole_B. 5
+    100878: Lookhole_B. 6
+    100880: Lookhole_B. 7
+    100882: Lookhole_B_agujero.
+    100884: Lookhole_B_agujero. 1
+    100886: Lookhole_B_agujero. 2
+    100888: Lookhole_B_agujero. 3
+    100890: Lookhole_B_agujero. 4
+    100892: Lookhole_B_agujero. 5
+    100894: Lookhole_B_agujero. 6
+    100896: Lookhole_B_agujero. 7
+    100898: lookhole_B_agujero001
+    100900: lookhole_B_agujero002
+    100902: LR
+    100904: Luz
+    100906: MANIJA AFUERA
+    100908: MANIJA AFUERA001
+    100910: Manija Afuera_Base.
+    100912: Manija Afuera_Base. 1
+    100914: Manija Afuera_Base. 10
+    100916: Manija Afuera_Base. 11
+    100918: Manija Afuera_Base. 12
+    100920: Manija Afuera_Base. 13
+    100922: Manija Afuera_Base. 14
+    100924: Manija Afuera_Base. 15
+    100926: Manija Afuera_Base. 16
+    100928: Manija Afuera_Base. 17
+    100930: Manija Afuera_Base. 18
+    100932: Manija Afuera_Base. 19
+    100934: Manija Afuera_Base. 2
+    100936: Manija Afuera_Base. 20
+    100938: Manija Afuera_Base. 21
+    100940: Manija Afuera_Base. 22
+    100942: Manija Afuera_Base. 23
+    100944: Manija Afuera_Base. 24
+    100946: Manija Afuera_Base. 25
+    100948: Manija Afuera_Base. 3
+    100950: Manija Afuera_Base. 4
+    100952: Manija Afuera_Base. 5
+    100954: Manija Afuera_Base. 6
+    100956: Manija Afuera_Base. 7
+    100958: Manija Afuera_Base. 8
+    100960: Manija Afuera_Base. 9
+    100962: MANIJA AFUERA_BASE002
+    100964: MANIJA AFUERA_BASE004
+    100966: Manija Afuera_Base_01.
+    100968: Manija Afuera_Base_01. 1
+    100970: Manija Afuera_Base_02.
+    100972: Manija Afuera_Base_02. 1
+    100974: Manija Afuera_Base_03.
+    100976: Manija Afuera_Base_03. 1
+    100978: Manija_A
+    100980: Manija_A003
+    100982: Manija_A004
+    100984: Manija_A007
+    100986: Manija_A008
+    100988: Manija_A009
+    100990: Manija_A010
+    100992: Manija_A011
+    100994: Manija_A012
+    100996: Manija_A_base
+    100998: Manija_A_base002
+    101000: Manija_A_base003
+    101002: Manija_A_base010
+    101004: Manija_A_base012
+    101006: Manija_A_base014
+    101008: Manija_A_base015
+    101010: Manija_A_base020
+    101012: Manija_A_base021
+    101014: Manija_A_base022
+    101016: Manija_A_base023
+    101018: Manija_A_base024
+    101020: Manija_A_base025
+    101022: Manija_A_base026
+    101024: Manija_A_base027
+    101026: Manija_A_base028
+    101028: Manija_A_base029
+    101030: Manija_A_base030
+    101032: Manija_A_base031
+    101034: Manija_A_manija
+    101036: Manija_A_manija003
+    101038: Manija_A_manija004
+    101040: Manija_A_manija007
+    101042: Manija_A_manija008
+    101044: Manija_A_manija009
+    101046: Manija_A_manija010
+    101048: Manija_A_manija011
+    101050: Manija_A_manija012
+    101052: Marco_Luz
+    101054: Marco_Luz 1
+    101056: Marco_Luz 2
+    101058: P1
+    101060: P1_Asensor.
+    101062: P1_Escalera
+    101064: P1_Pared
+    101066: P1_Pasillo_Luz
+    101068: P1_Piso
+    101070: P1_Puerta_A.
+    101072: P1_Puerta_B.
+    101074: P1_Puerta_C.
+    101076: P1_Puerta_x
+    101078: P1_Techo
+    101080: P2
+    101082: P2_Asensor.
+    101084: P2_C
+    101086: P2_Escalera
+    101088: P2_Pared
+    101090: P2_Pasillo_Luz
+    101092: P2_Piso
+    101094: P2_Puerta_A.
+    101096: P2_Puerta_B.
+    101098: P2_Puerta_x
+    101100: P2_Techo
+    101102: P3
+    101104: P3_Asensor.
+    101106: P3_Escalera
+    101108: P3_Pared
+    101110: P3_Pasillo_Luz
+    101112: P3_Piso
+    101114: P3_Puerta_A.
+    101116: P3_Puerta_B.
+    101118: P3_Puerta_C.
+    101120: P3_Puerta_x
+    101122: P3_Techo
+    101124: Panel_N
+    101126: Panel_S
+    101128: Panel_Tornillo
+    101130: Panel_Tornillo 1
+    101132: Panel_Tornillo 10
+    101134: Panel_Tornillo 11
+    101136: Panel_Tornillo 12
+    101138: Panel_Tornillo 13
+    101140: Panel_Tornillo 14
+    101142: Panel_Tornillo 15
+    101144: Panel_Tornillo 16
+    101146: Panel_Tornillo 17
+    101148: Panel_Tornillo 18
+    101150: Panel_Tornillo 19
+    101152: Panel_Tornillo 2
+    101154: Panel_Tornillo 20
+    101156: Panel_Tornillo 21
+    101158: Panel_Tornillo 22
+    101160: Panel_Tornillo 23
+    101162: Panel_Tornillo 24
+    101164: Panel_Tornillo 25
+    101166: Panel_Tornillo 26
+    101168: Panel_Tornillo 27
+    101170: Panel_Tornillo 28
+    101172: Panel_Tornillo 29
+    101174: Panel_Tornillo 3
+    101176: Panel_Tornillo 30
+    101178: Panel_Tornillo 31
+    101180: Panel_Tornillo 32
+    101182: Panel_Tornillo 33
+    101184: Panel_Tornillo 34
+    101186: Panel_Tornillo 35
+    101188: Panel_Tornillo 36
+    101190: Panel_Tornillo 37
+    101192: Panel_Tornillo 38
+    101194: Panel_Tornillo 39
+    101196: Panel_Tornillo 4
+    101198: Panel_Tornillo 40
+    101200: Panel_Tornillo 41
+    101202: Panel_Tornillo 42
+    101204: Panel_Tornillo 43
+    101206: Panel_Tornillo 44
+    101208: Panel_Tornillo 45
+    101210: Panel_Tornillo 46
+    101212: Panel_Tornillo 47
+    101214: Panel_Tornillo 48
+    101216: Panel_Tornillo 49
+    101218: Panel_Tornillo 5
+    101220: Panel_Tornillo 50
+    101222: Panel_Tornillo 51
+    101224: Panel_Tornillo 52
+    101226: Panel_Tornillo 53
+    101228: Panel_Tornillo 54
+    101230: Panel_Tornillo 55
+    101232: Panel_Tornillo 56
+    101234: Panel_Tornillo 57
+    101236: Panel_Tornillo 58
+    101238: Panel_Tornillo 59
+    101240: Panel_Tornillo 6
+    101242: Panel_Tornillo 60
+    101244: Panel_Tornillo 61
+    101246: Panel_Tornillo 62
+    101248: Panel_Tornillo 63
+    101250: Panel_Tornillo 64
+    101252: Panel_Tornillo 65
+    101254: Panel_Tornillo 66
+    101256: Panel_Tornillo 67
+    101258: Panel_Tornillo 68
+    101260: Panel_Tornillo 69
+    101262: Panel_Tornillo 7
+    101264: Panel_Tornillo 70
+    101266: Panel_Tornillo 71
+    101268: Panel_Tornillo 72
+    101270: Panel_Tornillo 73
+    101272: Panel_Tornillo 8
+    101274: Panel_Tornillo 9
+    101276: Panels_E
+    101278: Panels_N
+    101280: Panels_S
+    101282: Pared
+    101284: Pared 1
+    101286: Pared_ConVentana
+    101288: Pared_E
+    101290: Pared_E 1
+    101292: Pared_E 2
+    101294: Pared_E 3
+    101296: Pared_E 4
+    101298: Pared_E 5
+    101300: Pared_E 6
+    101302: Pared_E_Extrude
+    101304: Pared_E_Extrude 1
+    101306: Pared_E_Extrude 2
+    101308: Pared_extrude
+    101310: Pared_extrude 1
+    101312: Pared_medio
+    101314: Pared_medio 1
+    101316: Pared_N
+    101318: Pared_N 1
+    101320: Pared_N 2
+    101322: Pared_N 3
+    101324: Pared_N_extrude
+    101326: Pared_N_medio
+    101328: Pared_N_Ventana
+    101330: Pared_N_Ventana 1
+    101332: Pared_N_Zocalo
+    101334: Pared_O
+    101336: Pared_O 1
+    101338: Pared_O 2
+    101340: Pared_O 3
+    101342: Pared_O_Extrude
+    101344: Pared_O_Extrude 1
+    101346: Pared_O_Extrude 2
+    101348: Pared_O_Pared
+    101350: Pared_O_Pared 1
+    101352: Pared_O_Pared 2
+    101354: Pared_O_Zocalos
+    101356: Pared_O_Zocalos 1
+    101358: Pared_O_Zocalos 2
+    101360: Pared_S
+    101362: Pared_S 1
+    101364: Pared_S 2
+    101366: Pared_S 3
+    101368: Pared_S 4
+    101370: Pared_S 5
+    101372: Pared_S_01
+    101374: Pared_S_01 1
+    101376: Pared_S_01_Zocalo
+    101378: Pared_S_02
+    101380: Pared_S_02 1
+    101382: Pared_S_02_Zocalo
+    101384: Pared_S_Extrude
+    101386: Pared_S_Extrude 1
+    101388: Pared_S_Extrude 2
+    101390: Pared_S_Pared
+    101392: Pared_S_Pared 1
+    101394: Pared_S_Pared 2
+    101396: Pared_S_Zocalos
+    101398: Pared_S_Zocalos 1
+    101400: Pared_S_Zocalos 2
+    101402: Pared_Zocalo
+    101404: Pared_Zocalo 1
+    101406: Parlante_marco
+    101408: Parlante_parlante
+    101410: Parlante_tela
+    101412: Parlantes
+    101414: Parlantes 1
+    101416: Pasillo_Luz
+    101418: Pasillo_Luz 1
+    101420: Pasillo_Luz 2
+    101422: Pasillo_Luz 3
+    101424: Pasillo_Luz 4
+    101426: Pasillo_Luz 5
+    101428: Pasillo_Luz 6
+    101430: Pasillo_Luz002
+    101432: Pasillo_Luz003
+    101434: Pasillo_Luz004
+    101436: Pasillo_Luz005
+    101438: Pasillo_Luz_003
+    101440: Pasillo_Luz_004
+    101442: Pasillo_Luz_1
+    101444: Pasillo_Luz_1 1
+    101446: Pasillo_Luz_2
+    101448: Pasillo_Luz_2 1
+    101450: Pasillo_Luz_Base
+    101452: Pasillo_Luz_Base 1
+    101454: Pasillo_Luz_Base 2
+    101456: Pasillo_Luz_Base005
+    101458: Pasillo_Luz_Base006
+    101460: Pasillo_Luz_Base007
+    101462: Pasillo_Luz_Base008
+    101464: Pasillo_Luz_Pantalla
+    101466: Pasillo_Luz_Pantalla 1
+    101468: Pasillo_Luz_Pantalla 2
+    101470: Pasillo_Luz_Pantalla 3
+    101472: Pasillo_Luz_Pantalla 4
+    101474: Pasillo_Luz_Pantalla 5
+    101476: Pasillo_Luz_Pantalla 6
+    101478: Pasillo_Luz_Pantalla 7
+    101480: Pasillo_Luz_Pantalla 8
+    101482: Pasillo_Luz_Pantalla 9
+    101484: Pasillo_Luz_Pantalla003
+    101486: Pasillo_Luz_Pantalla004
+    101488: Pasillo_Luz_Pantalla005
+    101490: Pasillo_Luz_Pantalla006
+    101492: Pasillo_Luz_Pantalla007
+    101494: Pasillo_Luz_Pantalla008
+    101496: Pasillo_Luz_Pantalla009
+    101498: Pasillo_Luz_Pantalla01
+    101500: Pasillo_Luz_Pantalla010
+    101502: Pasillo_Luz_Pantalla011
+    101504: Pasillo_Luz_Pantalla02
+    101506: Pasillo_Luz_Tornillo
+    101508: Pasillo_Luz_Tornillo 1
+    101510: Pasillo_Luz_Tornillo 2
+    101512: Pasillo_Luz_Tornillo 3
+    101514: Pasillo_Luz_Tornillo 4
+    101516: Pasillo_Luz_Tornillo 5
+    101518: Pasillo_Luz_Tornillo 6
+    101520: Pasillo_Luz_Tornillo 7
+    101522: Pasillo_Luz_Tornillo 8
+    101524: Pasillo_Luz_Tornillo004
+    101526: Pasillo_Luz_Tornillo005
+    101528: Pasillo_Luz_Tornillo006
+    101530: Pasillo_Luz_Tornillo007
+    101532: Pasillo_Luz_Tornillo008
+    101534: Pasillo_Luz_Tornillo009
+    101536: Pasillo_Luz_Tornillo01
+    101538: Pasillo_Luz_Tornillo010
+    101540: Pasillo_Luz_Tornillo011
+    101542: Pasillo_Luz_Tornillo012
+    101544: Pasillo_Luz_Tornillo02
+    101546: Pasillo_Luz_Tornillo03
+    101548: Pasillo_Luz_Tornillos
+    101550: Pasillo_Luz_Tornillos 1
+    101552: Pasillo_Luz_Tornillos 2
+    101554: Pasillo_Luz_Tornillos 3
+    101556: Pasillo_Luz_Tornillos001
+    101558: Pasillo_Luz_Tornillos002
+    101560: Pasillo_Luz_Tornillos003
+    101562: Pasillo_Ventana_Marco
+    101564: Pasillo_Ventana_Reja
+    101566: Pasillo_Ventana_Vidrio
+    101568: PB
+    101570: PB_Asensor
+    101572: PB_Asensor_Puerta
+    101574: PB_E_Panel_01
+    101576: PB_E_Panel_02
+    101578: PB_E_Puerta_Marco
+    101580: PB_E_Puerta_Marco001
+    101582: PB_E_Puerta_Marco002
+    101584: PB_Entrada_Luz
+    101586: PB_Entrada_Luz 1
+    101588: PB_Entrada_Luz 2
+    101590: PB_Entrada_Luz 3
+    101592: PB_Entrada_Luz_Base_1.
+    101594: PB_Entrada_Luz_Base_1. 1
+    101596: PB_Entrada_Luz_Base_1. 2
+    101598: PB_Entrada_Luz_Base_1. 3
+    101600: PB_Entrada_Luz_Base_2.
+    101602: PB_Entrada_Luz_Base_2. 1
+    101604: PB_Entrada_Luz_Base_2. 2
+    101606: PB_Entrada_Luz_Base_2. 3
+    101608: PB_Entrada_Luz_Pantalla
+    101610: PB_Entrada_Luz_Pantalla 1
+    101612: PB_Entrada_Luz_Pantalla 2
+    101614: PB_Entrada_Luz_Pantalla 3
+    101616: PB_Entrada_Pared_E
+    101618: PB_Entrada_Pared_E_Espejo
+    101620: PB_Entrada_Pared_E_Zocalo
+    101622: PB_Entrada_Pared_S
+    101624: PB_Entrada_Pared_S_Espejo
+    101626: PB_Entrada_Pared_S_Zocalo
+    101628: PB_Entrada_Piso
+    101630: PB_Entrada_Puerta_Marco
+    101632: PB_Entrada_Vidrios
+    101634: PB_Escalera
+    101636: PB_Escalera_Pared
+    101638: PB_Escalon_!
+    101640: PB_Escalon_2
+    101642: PB_Luces
+    101644: PB_Luz_Base_1.
+    101646: PB_Luz_Base_1. 1
+    101648: PB_Luz_Base_1. 2
+    101650: PB_Luz_Base_2.
+    101652: PB_Luz_Base_2. 1
+    101654: PB_Luz_Base_2. 2
+    101656: PB_Luz_Pantalla
+    101658: PB_Luz_Pantalla 1
+    101660: PB_Luz_Pantalla 2
+    101662: PB_Marco01
+    101664: PB_Marco02
+    101666: PB_Marco03
+    101668: PB_Marco04
+    101670: PB_Marco_base
+    101672: PB_Marco_Luz_Base
+    101674: PB_Marco_Luz_Base 1
+    101676: PB_Marco_Luz_Pantalla
+    101678: PB_Marco_Luz_Pantalla 1
+    101680: PB_N_Cuadro
+    101682: PB_N_Panel_01
+    101684: PB_N_Panel_02
+    101686: PB_N_Panel_03
+    101688: PB_N_Panel_04
+    101690: PB_N_Panel_05
+    101692: PB_N_Panel_06
+    101694: PB_N_Panel_07
+    101696: PB_N_Panel_08
+    101698: PB_N_Panel_09_bot
+    101700: PB_N_Panel_09_top
+    101702: PB_N_Panel_10_bot
+    101704: PB_N_Panel_10_top
+    101706: PB_N_Panel_11
+    101708: PB_N_Panel_12
+    101710: PB_Paredes
+    101712: PB_Pasillo_Luz
+    101714: PB_Pasillo_Luz 1
+    101716: PB_Pasillo_Luz 2
+    101718: PB_Pasillo_Pared_N
+    101720: PB_Pasillo_Pared_N 1
+    101722: PB_Pasillo_Pared_N_Zocalo
+    101724: PB_Pasillo_Piso
+    101726: PB_Pasillo_Puerta
+    101728: PB_Pasillo_Puerta_marco
+    101730: PB_Piso
+    101732: PB_Puerta_A
+    101734: PB_S_Panel_013
+    101736: PB_S_Panel_014
+    101738: PB_S_Panel_015
+    101740: PB_S_Panel_016
+    101742: PB_S_Panel_017
+    101744: PB_S_Panel_018
+    101746: PB_S_Panel_019
+    101748: PB_S_Panel_020
+    101750: PB_S_Panel_023
+    101752: PB_S_Panel_024
+    101754: PB_S_Panel_025
+    101756: PB_S_Panel_026
+    101758: PB_S_Puerta
+    101760: PB_S_Puerta_1
+    101762: PB_S_Puerta_2
+    101764: PB_S_Puerta_Marco
+    101766: PB_S_Puerta_Marco001
+    101768: PB_S_Puerta_Marco002
+    101770: PB_S_Puerta_Marco003
+    101772: PB_Techo
+    101774: PC
+    101776: PC_obj_01
+    101778: PC_obj_02
+    101780: PC_obj_03
+    101782: Picaporte
+    101784: Picaporte002
+    101786: Picaporte003
+    101788: Pole
+    101790: Pole 1
+    101792: Pole 2
+    101794: Pole 3
+    101796: pole C
+    101798: pole C_1
+    101800: pole C_1 1
+    101802: pole C_1 2
+    101804: pole C_2
+    101806: pole C_2 1
+    101808: pole C_2 2
+    101810: pole L
+    101812: pole L 1
+    101814: pole L 2
+    101816: pole L 3
+    101818: pole R
+    101820: pole R 1
+    101822: pole R 2
+    101824: pole R 3
+    101826: PUERTA
+    101828: Puerta manija_base
+    101830: Puerta manija_cerradura
+    101832: Puerta.
+    101834: Puerta. 1
+    101836: Puerta. 10
+    101838: Puerta. 11
+    101840: Puerta. 12
+    101842: Puerta. 13
+    101844: Puerta. 14
+    101846: Puerta. 15
+    101848: Puerta. 16
+    101850: Puerta. 17
+    101852: Puerta. 18
+    101854: Puerta. 19
+    101856: Puerta. 2
+    101858: Puerta. 20
+    101860: Puerta. 21
+    101862: Puerta. 22
+    101864: Puerta. 23
+    101866: Puerta. 3
+    101868: Puerta. 4
+    101870: Puerta. 5
+    101872: Puerta. 6
+    101874: Puerta. 7
+    101876: Puerta. 8
+    101878: Puerta. 9
+    101880: PUERTA002
+    101882: PUERTA004
+    101884: PUERTA005
+    101886: PUERTA036
+    101888: PUERTA_cuarto
+    101890: PUERTA_cuartoBeruti-cuartoCasa
+    101892: PUERTA_entrada
+    101894: Puerta_manija001
+    101896: Puerta_Marco
+    101898: Puerta_Marco.
+    101900: Puerta_Marco. 1
+    101902: Puerta_Marco. 2
+    101904: Puerta_Marco. 3
+    101906: Puerta_Marco. 4
+    101908: Puerta_Marco. 5
+    101910: Puerta_Marco. 6
+    101912: Puerta_Marco. 7
+    101914: Puerta_Marco_Ext_01.
+    101916: Puerta_Marco_Ext_01. 1
+    101918: Puerta_Marco_Ext_01. 2
+    101920: Puerta_Marco_Ext_01. 3
+    101922: Puerta_Marco_Ext_01. 4
+    101924: Puerta_Marco_Ext_01. 5
+    101926: Puerta_Marco_Ext_01. 6
+    101928: Puerta_Marco_Ext_01. 7
+    101930: Puerta_Marco_Ext_02.
+    101932: Puerta_Marco_Ext_02. 1
+    101934: Puerta_Marco_Ext_02. 2
+    101936: Puerta_Marco_Ext_02. 3
+    101938: Puerta_Marco_Ext_02. 4
+    101940: Puerta_Marco_Ext_02. 5
+    101942: Puerta_Marco_Ext_02. 6
+    101944: Puerta_Marco_Ext_02. 7
+    101946: Puerta_Marco_Ext_03.
+    101948: Puerta_Marco_Ext_03. 1
+    101950: Puerta_Marco_Ext_03. 2
+    101952: Puerta_Marco_Ext_03. 3
+    101954: Puerta_Marco_Ext_03. 4
+    101956: Puerta_Marco_Ext_03. 5
+    101958: Puerta_Marco_Ext_03. 6
+    101960: Puerta_Marco_Ext_03. 7
+    101962: Puerta_Picaportes.
+    101964: Puerta_Picaportes. 1
+    101966: Puerta_Picaportes. 2
+    101968: Puerta_Picaportes. 3
+    101970: Puerta_Picaportes. 4
+    101972: Puerta_Picaportes. 5
+    101974: Puerta_Picaportes. 6
+    101976: Puerta_Picaportes. 7
+    101978: Puerta_x
+    101980: Puerta_x 1
+    101982: Puerta_x 2
+    101984: Puerta_x 3
+    101986: Puerta_x 4
+    101988: Puerta_x 5
+    101990: Puerta_x_Manija
+    101992: Puerta_x_Manija 1
+    101994: Puerta_x_Manija 2
+    101996: Puerta_x_Manija_01
+    101998: Puerta_x_Manija_01 1
+    102000: Puerta_x_Manija_01 2
+    102002: Puerta_x_Manija_02
+    102004: Puerta_x_Manija_02 1
+    102006: Puerta_x_Manija_02 2
+    102008: Puerta_x_Marco
+    102010: Puerta_x_Marco 1
+    102012: Puerta_x_Marco 2
+    102014: Puerta_x_Marco_Ext_01
+    102016: Puerta_x_Marco_Ext_01 1
+    102018: Puerta_x_Marco_Ext_01 2
+    102020: Puerta_x_Marco_Ext_02
+    102022: Puerta_x_Marco_Ext_02 1
+    102024: Puerta_x_Marco_Ext_02 2
+    102026: Puerta_x_Marco_Ext_03
+    102028: Puerta_x_Marco_Ext_03 1
+    102030: Puerta_x_Marco_Ext_03 2
+    102032: Rectangle01
+    102034: Rectangle02
+    102036: Reja_Barrote_1_01
+    102038: Reja_Barrote_1_02
+    102040: Reja_Barrote_1_03
+    102042: Reja_Barrote_1_04
+    102044: Reja_Barrote_1_05
+    102046: Reja_Barrote_1_06
+    102048: Reja_Barrote_1_07
+    102050: Reja_Barrote_1_08
+    102052: Reja_Barrote_2_01
+    102054: Reja_Barrote_2_02
+    102056: Reja_Barrote_2_03
+    102058: Reja_Barrote_2_04
+    102060: Reja_Barrote_2_05
+    102062: Reja_Barrote_2_06
+    102064: Reja_Barrote_2_07
+    102066: Reja_Barrote_2_08
+    102068: Riel
+    102070: Riel 1
+    102072: Riel 2
+    102074: Riel 3
+    102076: riel_bot
+    102078: riel_bot 1
+    102080: riel_bot 2
+    102082: riel_bot 3
+    102084: riel_mid
+    102086: riel_mid 1
+    102088: riel_mid 2
+    102090: riel_mid 3
+    102092: riel_top
+    102094: riel_top 1
+    102096: riel_top 2
+    102098: riel_top 3
+    102100: Screen
+    102102: Shape01
+    102104: Silla
+    102106: Silla 1
+    102108: Silla_ChamferBox01
+    102110: Silla_ChamferBox015
+    102112: Silla_ChamferBox016
+    102114: Silla_ChamferBox017
+    102116: Silla_ChamferBox02
+    102118: Silla_ChamferBox05
+    102120: Silla_ChamferBox06
+    102122: Silla_Circle03
+    102124: Silla_Circle04
+    102126: Silla_Circle05
+    102128: Silla_Circle06
+    102130: Silla_Circle07
+    102132: Silla_Cylinder012
+    102134: Silla_Cylinder013
+    102136: Silla_Cylinder014
+    102138: Silla_Cylinder015
+    102140: Silla_Cylinder016
+    102142: Silla_Cylinder02
+    102144: Silla_Cylinder06
+    102146: Silla_Cylinder07
+    102148: Silla_Cylinder08
+    102150: Silla_Cylinder09
+    102152: Silla_Cylinder10
+    102154: Silla_Cylinder12
+    102156: Silla_Cylinder13
+    102158: Silla_Cylinder14
+    102160: Silla_Cylinder15
+    102162: Silla_Cylinder16
+    102164: Silla_Cylinder17
+    102166: Silla_Cylinder18
+    102168: Silla_Line01
+    102170: Silla_Line02
+    102172: Silla_Line03
+    102174: Silla_Line04
+    102176: Silla_Line05
+    102178: Silla_Loft005
+    102180: Silla_Loft006
+    102182: Silla_Loft03
+    102184: Silla_Loft04
+    102186: Silla_OilTank01
+    102188: Silla_OilTank02
+    102190: Silla_OilTank03
+    102192: Silla_OilTank04
+    102194: Silla_OilTank05
+    102196: Silla_OilTank06
+    102198: Silla_OilTank07
+    102200: Silla_OilTank08
+    102202: Silla_OilTank09
+    102204: Silla_OilTank10
+    102206: Silla_Rectangle011
+    102208: Silla_Rectangle03
+    102210: Silla_Sphere01
+    102212: Stringer_box
+    102214: Sub
+    102216: Sub 1
+    102218: Sub_base
+    102220: Switch
+    102222: Switch_001
+    102224: Switch_002
+    102226: Switch_003
+    102228: Switch_1_botones
+    102230: Switch_1_botones001
+    102232: Switch_1_botones002
+    102234: tornillo
+    102236: tornillo001
+    102238: tornillo002
+    102240: tornillo003
+    102242: tornillo004
+    102244: tornillo005
+    102246: tornillo007
+    102248: tornillo008
+    102250: tornillo009
+    102252: tornillo010
+    102254: tornillo011
+    102256: tornillo012
+    102258: tornillo013
+    102260: tornillo014
+    102262: tornillo015
+    102264: tornillo016
+    102266: tornillo017
+    102268: tornillo018
+    102270: tornillo019
+    102272: tornillo025
+    102274: tornillo026
+    102276: tornillo027
+    102278: tornillo028
+    102280: tornillo029
+    102282: tornillo030
+    102284: tornillo031
+    102286: tornillo032
+    102288: tornillo049
+    102290: tornillo051
+    102292: tornillo053
+    102294: tornillo054
+    102296: tornillo059
+    102298: tornillo060
+    102300: tornillo061
+    102302: tornillo062
+    102304: tornillo063
+    102306: tornillo064
+    102308: tornillo075
+    102310: tornillo076
+    102312: tornillo077
+    102314: tornillo078
+    102316: tornillo079
+    102318: tornillo080
+    102320: tornillo081
+    102322: tornillo082
+    102324: tornillo083
+    102326: tornillo084
+    102328: tornillo085
+    102330: tornillo086
+    102332: tornillo087
+    102334: tornillo088
+    102336: tornillo089
+    102338: tornillo090
+    102340: tornillo091
+    102342: tornillo092
+    102344: tornillo093
+    102346: tornillo094
+    102348: tornillo095
+    102350: tornillo096
+    102352: tornillo097
+    102354: tornillo098
+    102356: tornillo228
+    102358: tornillo229
+    102360: tornillo230
+    102362: tornillo231
+    102364: tornillo232
+    102366: tornillo233
+    102368: tornillo234
+    102370: tornillo235
+    102372: tornillo236
+    102374: tornillo237
+    102376: Tornillo_01.
+    102378: Tornillo_01. 1
+    102380: Tornillo_01. 10
+    102382: Tornillo_01. 11
+    102384: Tornillo_01. 12
+    102386: Tornillo_01. 13
+    102388: Tornillo_01. 14
+    102390: Tornillo_01. 15
+    102392: Tornillo_01. 2
+    102394: Tornillo_01. 3
+    102396: Tornillo_01. 4
+    102398: Tornillo_01. 5
+    102400: Tornillo_01. 6
+    102402: Tornillo_01. 7
+    102404: Tornillo_01. 8
+    102406: Tornillo_01. 9
+    102408: Tornillo_02.
+    102410: Tornillo_02. 1
+    102412: Tornillo_02. 10
+    102414: Tornillo_02. 11
+    102416: Tornillo_02. 12
+    102418: Tornillo_02. 13
+    102420: Tornillo_02. 14
+    102422: Tornillo_02. 15
+    102424: Tornillo_02. 2
+    102426: Tornillo_02. 3
+    102428: Tornillo_02. 4
+    102430: Tornillo_02. 5
+    102432: Tornillo_02. 6
+    102434: Tornillo_02. 7
+    102436: Tornillo_02. 8
+    102438: Tornillo_02. 9
+    102440: Tornillo_03.
+    102442: Tornillo_03. 1
+    102444: Tornillo_03. 10
+    102446: Tornillo_03. 11
+    102448: Tornillo_03. 12
+    102450: Tornillo_03. 13
+    102452: Tornillo_03. 14
+    102454: Tornillo_03. 15
+    102456: Tornillo_03. 2
+    102458: Tornillo_03. 3
+    102460: Tornillo_03. 4
+    102462: Tornillo_03. 5
+    102464: Tornillo_03. 6
+    102466: Tornillo_03. 7
+    102468: Tornillo_03. 8
+    102470: Tornillo_03. 9
+    102472: Tornillo_04.
+    102474: Tornillo_04. 1
+    102476: Tornillo_04. 2
+    102478: Tornillo_04. 3
+    102480: Tornillo_04. 4
+    102482: Tornillo_04. 5
+    102484: Tornillo_04. 6
+    102486: Tornillo_04. 7
+    102488: TV
+    102490: TV 1
+    102492: Escalera_Techo
+    102494: Escalera_Techo 1
+    102496: Escalera_Techo001
+    102498: Panel_Tornillo002
+    102500: Panel_Tornillo003
+    102502: Panel_Tornillo004
+    102504: Panel_Tornillo005
+    102506: Panel_Tornillo006
+    102508: Panel_Tornillo007
+    102510: Stair_Collider001
+    102512: Stair_Collider004
+    102514: Stair_Collider005
+    102516: Stair_Collider006
+    102518: Stinger
+    102520: Stinger 1
+    102522: Stinger 2
+    400000: 2C_Armario
+    400002: "2C_Ba\xF1o"
+    400004: "2C_Ba\xF1o-Cuarto_Pared"
+    400006: "2C_Ba\xF1o_Pared"
+    400008: "2C_Ba\xF1o_Pared_E"
+    400010: "2C_Ba\xF1o_Pared_E001"
+    400012: "2C_Ba\xF1o_Pared_W"
+    400014: "2C_Ba\xF1o_Puerta"
+    400016: 2C_Cocina
+    400018: 2C_Cocina_Pared_002
+    400020: 2C_Cocina_Pared_003
+    400022: 2C_Cocina_Pared_1
+    400024: 2C_Cocina_Puerta
+    400026: 2C_Contrafrente
+    400028: 2C_Contrafrente_E
+    400030: 2C_Contrafrente_Pared_N
+    400032: 2C_Contrafrente_Pared_S
+    400034: 2C_Cuarto
+    400036: 2C_Cuarto_Pared_Armario
+    400038: 2C_Cuarto_Pared_S
+    400040: 2C_Cuarto_Puerta_Marco_Ext004
+    400042: 2C_Cuarto_Puerta_Marco_Ext005
+    400044: 2C_Cuarto_Puerta_Marco_Ext006
+    400046: 2C_Cuarto_Puerta_Marco_Ext010
+    400048: 2C_Cuarto_Puerta_Marco_Ext011
+    400050: 2C_Cuarto_Puerta_Marco_Ext012
+    400052: 2C_Cuarto_Puerta_Marco_Ext013
+    400054: 2C_Cuarto_Puerta_Marco_Ext014
+    400056: 2C_Cuarto_Puerta_Marco_Ext015
+    400058: 2C_Cuarto_Puerta_Marco_Ext016
+    400060: 2C_Cuarto_Puerta_Marco_Ext017
+    400062: 2C_Cuarto_Puerta_Marco_Ext018
+    400064: 2C_Cuarto_Puerta_Marco_Int016
+    400066: 2C_Cuarto_Puerta_Marco_Int017
+    400068: 2C_Cuarto_Puerta_Marco_Int018
+    400070: 2C_Cuarto_Puerta_Marco_Int022
+    400072: 2C_Cuarto_Puerta_Marco_Int023
+    400074: 2C_Cuarto_Puerta_Marco_Int024
+    400076: 2C_Cuarto_Puerta_Marco_Int025
+    400078: 2C_Cuarto_Puerta_Marco_Int026
+    400080: 2C_Cuarto_Puerta_Marco_Int027
+    400082: 2C_Cuarto_Puerta_Marco_Int028
+    400084: 2C_Cuarto_Puerta_Marco_Int029
+    400086: 2C_Cuarto_Puerta_Marco_Int030
+    400088: 2C_Cuarto_Puerta_Picaporte
+    400090: 2C_Cuarto_Puerta_Picaporte001
+    400092: 2C_Lavadero_Pared_1
+    400094: 2C_Lavadero_Pared_2
+    400096: 2C_Lavadero_Pared_3
+    400098: 2C_Lavadero_Ventana
+    400100: 2C_Lavadero_Ventana_Vidrio
+    400102: 2C_Living
+    400104: 2C_Living-Cocina_Pared_O
+    400106: 2C_Living-Cuarto_Pared
+    400108: 2C_Living_Mesa
+    400110: 2C_Living_Pared_N
+    400112: 2C_Living_Ventana_Barrote01
+    400114: 2C_Living_Ventana_Barrote02
+    400116: 2C_Living_Ventana_Barrote03
+    400118: 2C_Living_Ventana_Barrote04
+    400120: 2C_Living_Ventana_Barrote05
+    400122: 2C_Living_Ventana_Barrote06
+    400124: 2C_Living_Ventana_Barrote07
+    400126: 2C_Living_Ventana_Barrote08
+    400128: 2C_Living_Ventana_Barrote09
+    400130: 2C_Living_Ventana_Barrote10
+    400132: 2C_Living_Ventana_Barrote11
+    400134: 2C_Living_Ventana_Barrote12
+    400136: 2C_Living_Ventana_Barrote13
+    400138: 2C_Living_Ventana_Barrote14
+    400140: 2C_Living_Ventana_Barrote15
+    400142: 2C_Living_Ventana_Barrote16
+    400144: 2C_Living_Ventana_Barrote17
+    400146: 2C_Living_Ventana_Barrote18
+    400148: 2C_Living_Ventana_Barrote19
+    400150: 2C_Living_Ventana_Barrote20
+    400152: 2C_Living_Ventana_Reja
+    400154: 2C_Luz
+    400156: 2C_Pared
+    400158: 2C_Pared_E
+    400160: 2C_Piso
+    400162: 2C_Techo
+    400164: 2P_Puerta_Marco_agujero1
+    400166: 2P_Puerta_Marco_agujero2
+    400168: 2P_Puerta_Marco_Ext1
+    400170: 2P_Puerta_Marco_Ext2
+    400172: 2P_Puerta_Marco_Ext3
+    400174: 2P_Puerta_Marco_Int002
+    400176: 2P_Puerta_Marco_Int1
+    400178: 2P_Puerta_Marco_Int3
+    400180: ADENTRO
+    400182: ADENTRO001
+    400184: ADENTRO003
+    400186: ADENTRO004
+    400188: ADENTRO005
+    400190: AFUERA
+    400192: AFUERA001
+    400194: AFUERA003
+    400196: AFUERA004
+    400198: AFUERA020
+    400200: almohada
+    400202: Armario_Puerta
+    400204: Armario_Puerta_Der_1
+    400206: Armario_Puerta_Der_1 1
+    400208: Armario_Puerta_Der_2
+    400210: Armario_Puerta_Der_2 1
+    400212: Armario_Puerta_Izq_1
+    400214: Armario_Puerta_Izq_1 1
+    400216: Armario_Puerta_Izq_2
+    400218: Armario_Puerta_Izq_2 1
+    400220: Asensor.
+    400222: Asensor. 1
+    400224: Asensor. 2
+    400226: Asensor_agujero
+    400228: Asensor_Base
+    400230: Asensor_boton
+    400232: Asensor_Boton.
+    400234: Asensor_Boton. 1
+    400236: Asensor_Boton. 2
+    400238: Asensor_Boton_Marco.
+    400240: Asensor_Boton_Marco. 1
+    400242: Asensor_Boton_Marco. 2
+    400244: Asensor_Lookhole_Ext.
+    400246: Asensor_Lookhole_Ext. 1
+    400248: Asensor_Lookhole_Ext. 2
+    400250: Asensor_Lookhole_Int.
+    400252: Asensor_Lookhole_Int. 1
+    400254: Asensor_Lookhole_Int. 2
+    400256: Asensor_manija
+    400258: Asensor_manija_base
+    400260: Asensor_Panel.
+    400262: Asensor_Panel. 1
+    400264: Asensor_Panel. 2
+    400266: Asensor_Panel. 3
+    400268: Asensor_Panel. 4
+    400270: Asensor_Panel. 5
+    400272: Asensor_Pantalla
+    400274: Asensor_Pantalla.
+    400276: Asensor_Pantalla. 1
+    400278: Asensor_Pantalla. 2
+    400280: Asensor_puerta_base
+    400282: Asensor_Puerta_Ext.
+    400284: Asensor_Puerta_Ext. 1
+    400286: Asensor_Puerta_Ext. 2
+    400288: Asensor_Puerta_Ext. 3
+    400290: Asensor_Puerta_Ext. 4
+    400292: Asensor_Puerta_Ext. 5
+    400294: Asensor_Puerta_Ext_01.
+    400296: Asensor_Puerta_Ext_01. 1
+    400298: Asensor_Puerta_Ext_01. 2
+    400300: Asensor_Puerta_Ext_02.
+    400302: Asensor_Puerta_Ext_02. 1
+    400304: Asensor_Puerta_Ext_02. 10
+    400306: Asensor_Puerta_Ext_02. 11
+    400308: Asensor_Puerta_Ext_02. 12
+    400310: Asensor_Puerta_Ext_02. 13
+    400312: Asensor_Puerta_Ext_02. 14
+    400314: Asensor_Puerta_Ext_02. 2
+    400316: Asensor_Puerta_Ext_02. 3
+    400318: Asensor_Puerta_Ext_02. 4
+    400320: Asensor_Puerta_Ext_02. 5
+    400322: Asensor_Puerta_Ext_02. 6
+    400324: Asensor_Puerta_Ext_02. 7
+    400326: Asensor_Puerta_Ext_02. 8
+    400328: Asensor_Puerta_Ext_02. 9
+    400330: Asensor_Puerta_Ext_Manija.
+    400332: Asensor_Puerta_Ext_Manija. 1
+    400334: Asensor_Puerta_Ext_Manija. 2
+    400336: Asensor_Puerta_Ext_Manija_01.
+    400338: Asensor_Puerta_Ext_Manija_01. 1
+    400340: Asensor_Puerta_Ext_Manija_01. 2
+    400342: Asensor_Puerta_Ext_Manija_02.
+    400344: Asensor_Puerta_Ext_Manija_02. 1
+    400346: Asensor_Puerta_Ext_Manija_02. 2
+    400348: Asensor_Puerta_Ext_Manija_03.
+    400350: Asensor_Puerta_Ext_Manija_03. 1
+    400352: Asensor_Puerta_Ext_Manija_03. 2
+    400354: Asensor_Puerta_Ext_Nexo.
+    400356: Asensor_Puerta_Ext_Nexo. 1
+    400358: Asensor_Puerta_Ext_Nexo. 10
+    400360: Asensor_Puerta_Ext_Nexo. 11
+    400362: Asensor_Puerta_Ext_Nexo. 12
+    400364: Asensor_Puerta_Ext_Nexo. 13
+    400366: Asensor_Puerta_Ext_Nexo. 14
+    400368: Asensor_Puerta_Ext_Nexo. 15
+    400370: Asensor_Puerta_Ext_Nexo. 16
+    400372: Asensor_Puerta_Ext_Nexo. 17
+    400374: Asensor_Puerta_Ext_Nexo. 18
+    400376: Asensor_Puerta_Ext_Nexo. 19
+    400378: Asensor_Puerta_Ext_Nexo. 2
+    400380: Asensor_Puerta_Ext_Nexo. 20
+    400382: Asensor_Puerta_Ext_Nexo. 21
+    400384: Asensor_Puerta_Ext_Nexo. 22
+    400386: Asensor_Puerta_Ext_Nexo. 23
+    400388: Asensor_Puerta_Ext_Nexo. 24
+    400390: Asensor_Puerta_Ext_Nexo. 25
+    400392: Asensor_Puerta_Ext_Nexo. 26
+    400394: Asensor_Puerta_Ext_Nexo. 27
+    400396: Asensor_Puerta_Ext_Nexo. 28
+    400398: Asensor_Puerta_Ext_Nexo. 29
+    400400: Asensor_Puerta_Ext_Nexo. 3
+    400402: Asensor_Puerta_Ext_Nexo. 30
+    400404: Asensor_Puerta_Ext_Nexo. 31
+    400406: Asensor_Puerta_Ext_Nexo. 32
+    400408: Asensor_Puerta_Ext_Nexo. 4
+    400410: Asensor_Puerta_Ext_Nexo. 5
+    400412: Asensor_Puerta_Ext_Nexo. 6
+    400414: Asensor_Puerta_Ext_Nexo. 7
+    400416: Asensor_Puerta_Ext_Nexo. 8
+    400418: Asensor_Puerta_Ext_Nexo. 9
+    400420: Asensor_Puerta_Int.
+    400422: Asensor_Puerta_Int. 1
+    400424: Asensor_Puerta_Int. 2
+    400426: Asensor_Puerta_Int. 3
+    400428: Asensor_Puerta_Int. 4
+    400430: Asensor_Puerta_Int. 5
+    400432: Asensor_Puerta_Int_01.
+    400434: Asensor_Puerta_Int_01. 1
+    400436: Asensor_Puerta_Int_01. 2
+    400438: Asensor_Puerta_Int_02.
+    400440: Asensor_Puerta_Int_02. 1
+    400442: Asensor_Puerta_Int_02. 10
+    400444: Asensor_Puerta_Int_02. 11
+    400446: Asensor_Puerta_Int_02. 12
+    400448: Asensor_Puerta_Int_02. 13
+    400450: Asensor_Puerta_Int_02. 14
+    400452: Asensor_Puerta_Int_02. 2
+    400454: Asensor_Puerta_Int_02. 3
+    400456: Asensor_Puerta_Int_02. 4
+    400458: Asensor_Puerta_Int_02. 5
+    400460: Asensor_Puerta_Int_02. 6
+    400462: Asensor_Puerta_Int_02. 7
+    400464: Asensor_Puerta_Int_02. 8
+    400466: Asensor_Puerta_Int_02. 9
+    400468: Asensor_Puerta_Marco.
+    400470: Asensor_Puerta_Marco. 1
+    400472: Asensor_Puerta_Marco. 2
+    400474: Base_base
+    400476: Base_nexo
+    400478: "Ba\xF1o_Bidet"
+    400480: "Ba\xF1o_Lavamanos"
+    400482: "Ba\xF1o_Lavamanos_Canilla"
+    400484: "Ba\xF1o_Llavamanos"
+    400486: "Ba\xF1o_Mesada"
+    400488: //RootNode
+    400490: Cama
+    400492: cama
+    400494: cerradura1_agujero
+    400496: Cerradura1_agujero.
+    400498: Cerradura1_agujero. 1
+    400500: Cerradura1_agujero. 2
+    400502: Cerradura1_agujero. 3
+    400504: Cerradura1_agujero. 4
+    400506: Cerradura1_agujero. 5
+    400508: Cerradura1_agujero. 6
+    400510: Cerradura1_agujero. 7
+    400512: cerradura1_base
+    400514: Cerradura1_base.
+    400516: Cerradura1_base. 1
+    400518: Cerradura1_base. 2
+    400520: Cerradura1_base. 3
+    400522: Cerradura1_base. 4
+    400524: Cerradura1_base. 5
+    400526: Cerradura1_base. 6
+    400528: Cerradura1_base. 7
+    400530: cerradura2_agujero
+    400532: cerradura2_agujero 1
+    400534: cerradura2_agujero 2
+    400536: Cerradura2_agujero.
+    400538: Cerradura2_agujero. 1
+    400540: Cerradura2_agujero. 2
+    400542: Cerradura2_agujero. 3
+    400544: Cerradura2_agujero. 4
+    400546: Cerradura2_agujero. 5
+    400548: Cerradura2_agujero. 6
+    400550: Cerradura2_agujero. 7
+    400552: cerradura2_agujero001
+    400554: cerradura2_base
+    400556: Cerradura2_base.
+    400558: Cerradura2_base. 1
+    400560: Cerradura2_base. 2
+    400562: Cerradura2_base. 3
+    400564: Cerradura2_base. 4
+    400566: Cerradura2_base. 5
+    400568: Cerradura2_base. 6
+    400570: Cerradura2_base. 7
+    400572: cerradura2_base001
+    400574: Cerradura_1.
+    400576: Cerradura_1. 1
+    400578: Cerradura_1. 2
+    400580: Cerradura_1. 3
+    400582: Cerradura_1. 4
+    400584: Cerradura_1. 5
+    400586: Cerradura_1. 6
+    400588: Cerradura_1. 7
+    400590: Cerradura_2.
+    400592: Cerradura_2. 1
+    400594: Cerradura_2. 2
+    400596: Cerradura_2. 3
+    400598: Cerradura_2. 4
+    400600: Cerradura_2. 5
+    400602: Cerradura_2. 6
+    400604: Cerradura_2. 7
+    400606: cerradura_A_1_base001
+    400608: cerradura_A_1_base002
+    400610: cerradura_A_1_base006
+    400612: cerradura_A_1_base007
+    400614: cerradura_A_1_base010
+    400616: cerradura_A_1_base011
+    400618: cerradura_A_1_base012
+    400620: cerradura_A_1_base013
+    400622: cerradura_A_1_base014
+    400624: cerradura_A_1_base015
+    400626: cerradura_A_2_agujero001
+    400628: cerradura_B_2_agujero002
+    400630: cerradura_picaporte
+    400632: cerradura_picaporte002
+    400634: cerradura_picaporte004
+    400636: cerradura_picaporte005
+    400638: cerradura_picaporte006
+    400640: cerradura_picaporte007
+    400642: cerradura_picaporte008
+    400644: cerradura_picaporte011
+    400646: cerradura_picaporte012
+    400648: cerradura_picaporte013
+    400650: cerradura_picaporte014
+    400652: cerradura_picaporte015
+    400654: cerradura_picaporte016
+    400656: cerradura_picaporte1
+    400658: cerradura_portapico001
+    400660: cerradura_portapico003
+    400662: cerradura_portapico004
+    400664: cerradura_portapico006
+    400666: cerradura_portapico007
+    400668: cerradura_portapico008
+    400670: ChamferCyl01
+    400672: Cocina_Pared
+    400674: Cuarto_Luz
+    400676: Cuarto_Luz_Base
+    400678: Cuarto_Luz_Pantalla
+    400680: Cuarto_Ventana
+    400682: Cuarto_Ventana 1
+    400684: Cuarto_Ventana_L
+    400686: Cuarto_Ventana_Marco
+    400688: Cuarto_Ventana_R
+    400690: Cylinder001
+    400692: Cylinder004
+    400694: Cylinder005
+    400696: Cylinder083
+    400698: Ducha
+    400700: Ducha 1
+    400702: "Ducha_Ba\xF1adera"
+    400704: Ducha_Canilla
+    400706: Ellipse01
+    400708: Ellipse02
+    400710: Entrada_Luz
+    400712: Entrada_Pared
+    400714: Entrada_Pared 1
+    400716: Entrada_Pared_Zocalo
+    400718: Entrada_Puerta
+    400720: Entrada_Puerta 1
+    400722: Entrada_Puerta 2
+    400724: Entrada_Puerta_Cerradura
+    400726: Entrada_Puerta_Manija
+    400728: Entrada_Puerta_Marco
+    400730: Entrada_Puerta_Vidrios
+    400732: Escalera_1
+    400734: escalera_2
+    400736: escalera_2 1
+    400738: escalera_2 2
+    400740: Escalera_box
+    400742: Escalera_Closed
+    400744: Escalera_Closed 1
+    400746: Escalera_Closed 2
+    400748: Escalera_Panel
+    400750: Escalera_Pared
+    400752: Escalera_Pared 1
+    400754: Escalera_Pared 2
+    400756: Escalon
+    400758: Escritorio
+    400760: Ext_Picaporte004
+    400762: Ext_Picaporte006
+    400764: Ext_Picaporte007
+    400766: Ext_Picaporte008
+    400768: Hindge_007
+    400770: Hindge_008
+    400772: Hindge_009
+    400774: Hindge_013
+    400776: Hindge_014
+    400778: Hindge_015
+    400780: Hindge_016
+    400782: Hindge_017
+    400784: Hindge_018
+    400786: Hindge_019
+    400788: Hindge_020
+    400790: Hindge_021
+    400792: Hindge_1
+    400794: Hindge_2
+    400796: Hindge_3
+    400798: Inodoro
+    400800: Int_Picaporte003
+    400802: Int_Picaporte005
+    400804: Int_Picaporte006
+    400806: Int_Picaporte007
+    400808: keyboardMouse_001xx66
+    400810: keyboardMouse_001xx66 1
+    400812: keyboardMouse_001xx66 2
+    400814: "keyboardMouse_3D\u6E9C\u6E9C\u7F51-\u6A21\u578B\u4E0D\u96BE\u627E"
+    400816: keyboardMouse_cgaxis_electronics_25_01
+    400818: keyboardMouse_cgaxis_electronics_25_02
+    400820: keyboardMouse_cgaxis_electronics_25_03
+    400822: keyboardMouse_Object01
+    400824: keyboardMouse_Object02
+    400826: Lavadero_Pared
+    400828: Living_Luz_Base
+    400830: Living_Luz_Pantalla
+    400832: Living_uz
+    400834: Living_Ventana
+    400836: Living_Ventana 1
+    400838: Lookhole.
+    400840: Lookhole. 1
+    400842: Lookhole. 2
+    400844: Lookhole. 3
+    400846: Lookhole. 4
+    400848: Lookhole. 5
+    400850: Lookhole. 6
+    400852: Lookhole. 7
+    400854: lookhole001
+    400856: lookhole002
+    400858: lookhole004
+    400860: lookhole005
+    400862: lookhole007
+    400864: lookhole_A_agujero
+    400866: Lookhole_B.
+    400868: Lookhole_B. 1
+    400870: Lookhole_B. 2
+    400872: Lookhole_B. 3
+    400874: Lookhole_B. 4
+    400876: Lookhole_B. 5
+    400878: Lookhole_B. 6
+    400880: Lookhole_B. 7
+    400882: Lookhole_B_agujero.
+    400884: Lookhole_B_agujero. 1
+    400886: Lookhole_B_agujero. 2
+    400888: Lookhole_B_agujero. 3
+    400890: Lookhole_B_agujero. 4
+    400892: Lookhole_B_agujero. 5
+    400894: Lookhole_B_agujero. 6
+    400896: Lookhole_B_agujero. 7
+    400898: lookhole_B_agujero001
+    400900: lookhole_B_agujero002
+    400902: LR
+    400904: Luz
+    400906: MANIJA AFUERA
+    400908: MANIJA AFUERA001
+    400910: Manija Afuera_Base.
+    400912: Manija Afuera_Base. 1
+    400914: Manija Afuera_Base. 10
+    400916: Manija Afuera_Base. 11
+    400918: Manija Afuera_Base. 12
+    400920: Manija Afuera_Base. 13
+    400922: Manija Afuera_Base. 14
+    400924: Manija Afuera_Base. 15
+    400926: Manija Afuera_Base. 16
+    400928: Manija Afuera_Base. 17
+    400930: Manija Afuera_Base. 18
+    400932: Manija Afuera_Base. 19
+    400934: Manija Afuera_Base. 2
+    400936: Manija Afuera_Base. 20
+    400938: Manija Afuera_Base. 21
+    400940: Manija Afuera_Base. 22
+    400942: Manija Afuera_Base. 23
+    400944: Manija Afuera_Base. 24
+    400946: Manija Afuera_Base. 25
+    400948: Manija Afuera_Base. 3
+    400950: Manija Afuera_Base. 4
+    400952: Manija Afuera_Base. 5
+    400954: Manija Afuera_Base. 6
+    400956: Manija Afuera_Base. 7
+    400958: Manija Afuera_Base. 8
+    400960: Manija Afuera_Base. 9
+    400962: MANIJA AFUERA_BASE002
+    400964: MANIJA AFUERA_BASE004
+    400966: Manija Afuera_Base_01.
+    400968: Manija Afuera_Base_01. 1
+    400970: Manija Afuera_Base_02.
+    400972: Manija Afuera_Base_02. 1
+    400974: Manija Afuera_Base_03.
+    400976: Manija Afuera_Base_03. 1
+    400978: Manija_A
+    400980: Manija_A003
+    400982: Manija_A004
+    400984: Manija_A007
+    400986: Manija_A008
+    400988: Manija_A009
+    400990: Manija_A010
+    400992: Manija_A011
+    400994: Manija_A012
+    400996: Manija_A_base
+    400998: Manija_A_base002
+    401000: Manija_A_base003
+    401002: Manija_A_base010
+    401004: Manija_A_base012
+    401006: Manija_A_base014
+    401008: Manija_A_base015
+    401010: Manija_A_base020
+    401012: Manija_A_base021
+    401014: Manija_A_base022
+    401016: Manija_A_base023
+    401018: Manija_A_base024
+    401020: Manija_A_base025
+    401022: Manija_A_base026
+    401024: Manija_A_base027
+    401026: Manija_A_base028
+    401028: Manija_A_base029
+    401030: Manija_A_base030
+    401032: Manija_A_base031
+    401034: Manija_A_manija
+    401036: Manija_A_manija003
+    401038: Manija_A_manija004
+    401040: Manija_A_manija007
+    401042: Manija_A_manija008
+    401044: Manija_A_manija009
+    401046: Manija_A_manija010
+    401048: Manija_A_manija011
+    401050: Manija_A_manija012
+    401052: Marco_Luz
+    401054: Marco_Luz 1
+    401056: Marco_Luz 2
+    401058: P1
+    401060: P1_Asensor.
+    401062: P1_Escalera
+    401064: P1_Pared
+    401066: P1_Pasillo_Luz
+    401068: P1_Piso
+    401070: P1_Puerta_A.
+    401072: P1_Puerta_B.
+    401074: P1_Puerta_C.
+    401076: P1_Puerta_x
+    401078: P1_Techo
+    401080: P2
+    401082: P2_Asensor.
+    401084: P2_C
+    401086: P2_Escalera
+    401088: P2_Pared
+    401090: P2_Pasillo_Luz
+    401092: P2_Piso
+    401094: P2_Puerta_A.
+    401096: P2_Puerta_B.
+    401098: P2_Puerta_x
+    401100: P2_Techo
+    401102: P3
+    401104: P3_Asensor.
+    401106: P3_Escalera
+    401108: P3_Pared
+    401110: P3_Pasillo_Luz
+    401112: P3_Piso
+    401114: P3_Puerta_A.
+    401116: P3_Puerta_B.
+    401118: P3_Puerta_C.
+    401120: P3_Puerta_x
+    401122: P3_Techo
+    401124: Panel_N
+    401126: Panel_S
+    401128: Panel_Tornillo
+    401130: Panel_Tornillo 1
+    401132: Panel_Tornillo 10
+    401134: Panel_Tornillo 11
+    401136: Panel_Tornillo 12
+    401138: Panel_Tornillo 13
+    401140: Panel_Tornillo 14
+    401142: Panel_Tornillo 15
+    401144: Panel_Tornillo 16
+    401146: Panel_Tornillo 17
+    401148: Panel_Tornillo 18
+    401150: Panel_Tornillo 19
+    401152: Panel_Tornillo 2
+    401154: Panel_Tornillo 20
+    401156: Panel_Tornillo 21
+    401158: Panel_Tornillo 22
+    401160: Panel_Tornillo 23
+    401162: Panel_Tornillo 24
+    401164: Panel_Tornillo 25
+    401166: Panel_Tornillo 26
+    401168: Panel_Tornillo 27
+    401170: Panel_Tornillo 28
+    401172: Panel_Tornillo 29
+    401174: Panel_Tornillo 3
+    401176: Panel_Tornillo 30
+    401178: Panel_Tornillo 31
+    401180: Panel_Tornillo 32
+    401182: Panel_Tornillo 33
+    401184: Panel_Tornillo 34
+    401186: Panel_Tornillo 35
+    401188: Panel_Tornillo 36
+    401190: Panel_Tornillo 37
+    401192: Panel_Tornillo 38
+    401194: Panel_Tornillo 39
+    401196: Panel_Tornillo 4
+    401198: Panel_Tornillo 40
+    401200: Panel_Tornillo 41
+    401202: Panel_Tornillo 42
+    401204: Panel_Tornillo 43
+    401206: Panel_Tornillo 44
+    401208: Panel_Tornillo 45
+    401210: Panel_Tornillo 46
+    401212: Panel_Tornillo 47
+    401214: Panel_Tornillo 48
+    401216: Panel_Tornillo 49
+    401218: Panel_Tornillo 5
+    401220: Panel_Tornillo 50
+    401222: Panel_Tornillo 51
+    401224: Panel_Tornillo 52
+    401226: Panel_Tornillo 53
+    401228: Panel_Tornillo 54
+    401230: Panel_Tornillo 55
+    401232: Panel_Tornillo 56
+    401234: Panel_Tornillo 57
+    401236: Panel_Tornillo 58
+    401238: Panel_Tornillo 59
+    401240: Panel_Tornillo 6
+    401242: Panel_Tornillo 60
+    401244: Panel_Tornillo 61
+    401246: Panel_Tornillo 62
+    401248: Panel_Tornillo 63
+    401250: Panel_Tornillo 64
+    401252: Panel_Tornillo 65
+    401254: Panel_Tornillo 66
+    401256: Panel_Tornillo 67
+    401258: Panel_Tornillo 68
+    401260: Panel_Tornillo 69
+    401262: Panel_Tornillo 7
+    401264: Panel_Tornillo 70
+    401266: Panel_Tornillo 71
+    401268: Panel_Tornillo 72
+    401270: Panel_Tornillo 73
+    401272: Panel_Tornillo 8
+    401274: Panel_Tornillo 9
+    401276: Panels_E
+    401278: Panels_N
+    401280: Panels_S
+    401282: Pared
+    401284: Pared 1
+    401286: Pared_ConVentana
+    401288: Pared_E
+    401290: Pared_E 1
+    401292: Pared_E 2
+    401294: Pared_E 3
+    401296: Pared_E 4
+    401298: Pared_E 5
+    401300: Pared_E 6
+    401302: Pared_E_Extrude
+    401304: Pared_E_Extrude 1
+    401306: Pared_E_Extrude 2
+    401308: Pared_extrude
+    401310: Pared_extrude 1
+    401312: Pared_medio
+    401314: Pared_medio 1
+    401316: Pared_N
+    401318: Pared_N 1
+    401320: Pared_N 2
+    401322: Pared_N 3
+    401324: Pared_N_extrude
+    401326: Pared_N_medio
+    401328: Pared_N_Ventana
+    401330: Pared_N_Ventana 1
+    401332: Pared_N_Zocalo
+    401334: Pared_O
+    401336: Pared_O 1
+    401338: Pared_O 2
+    401340: Pared_O 3
+    401342: Pared_O_Extrude
+    401344: Pared_O_Extrude 1
+    401346: Pared_O_Extrude 2
+    401348: Pared_O_Pared
+    401350: Pared_O_Pared 1
+    401352: Pared_O_Pared 2
+    401354: Pared_O_Zocalos
+    401356: Pared_O_Zocalos 1
+    401358: Pared_O_Zocalos 2
+    401360: Pared_S
+    401362: Pared_S 1
+    401364: Pared_S 2
+    401366: Pared_S 3
+    401368: Pared_S 4
+    401370: Pared_S 5
+    401372: Pared_S_01
+    401374: Pared_S_01 1
+    401376: Pared_S_01_Zocalo
+    401378: Pared_S_02
+    401380: Pared_S_02 1
+    401382: Pared_S_02_Zocalo
+    401384: Pared_S_Extrude
+    401386: Pared_S_Extrude 1
+    401388: Pared_S_Extrude 2
+    401390: Pared_S_Pared
+    401392: Pared_S_Pared 1
+    401394: Pared_S_Pared 2
+    401396: Pared_S_Zocalos
+    401398: Pared_S_Zocalos 1
+    401400: Pared_S_Zocalos 2
+    401402: Pared_Zocalo
+    401404: Pared_Zocalo 1
+    401406: Parlante_marco
+    401408: Parlante_parlante
+    401410: Parlante_tela
+    401412: Parlantes
+    401414: Parlantes 1
+    401416: Pasillo_Luz
+    401418: Pasillo_Luz 1
+    401420: Pasillo_Luz 2
+    401422: Pasillo_Luz 3
+    401424: Pasillo_Luz 4
+    401426: Pasillo_Luz 5
+    401428: Pasillo_Luz 6
+    401430: Pasillo_Luz002
+    401432: Pasillo_Luz003
+    401434: Pasillo_Luz004
+    401436: Pasillo_Luz005
+    401438: Pasillo_Luz_003
+    401440: Pasillo_Luz_004
+    401442: Pasillo_Luz_1
+    401444: Pasillo_Luz_1 1
+    401446: Pasillo_Luz_2
+    401448: Pasillo_Luz_2 1
+    401450: Pasillo_Luz_Base
+    401452: Pasillo_Luz_Base 1
+    401454: Pasillo_Luz_Base 2
+    401456: Pasillo_Luz_Base005
+    401458: Pasillo_Luz_Base006
+    401460: Pasillo_Luz_Base007
+    401462: Pasillo_Luz_Base008
+    401464: Pasillo_Luz_Pantalla
+    401466: Pasillo_Luz_Pantalla 1
+    401468: Pasillo_Luz_Pantalla 2
+    401470: Pasillo_Luz_Pantalla 3
+    401472: Pasillo_Luz_Pantalla 4
+    401474: Pasillo_Luz_Pantalla 5
+    401476: Pasillo_Luz_Pantalla 6
+    401478: Pasillo_Luz_Pantalla 7
+    401480: Pasillo_Luz_Pantalla 8
+    401482: Pasillo_Luz_Pantalla 9
+    401484: Pasillo_Luz_Pantalla003
+    401486: Pasillo_Luz_Pantalla004
+    401488: Pasillo_Luz_Pantalla005
+    401490: Pasillo_Luz_Pantalla006
+    401492: Pasillo_Luz_Pantalla007
+    401494: Pasillo_Luz_Pantalla008
+    401496: Pasillo_Luz_Pantalla009
+    401498: Pasillo_Luz_Pantalla01
+    401500: Pasillo_Luz_Pantalla010
+    401502: Pasillo_Luz_Pantalla011
+    401504: Pasillo_Luz_Pantalla02
+    401506: Pasillo_Luz_Tornillo
+    401508: Pasillo_Luz_Tornillo 1
+    401510: Pasillo_Luz_Tornillo 2
+    401512: Pasillo_Luz_Tornillo 3
+    401514: Pasillo_Luz_Tornillo 4
+    401516: Pasillo_Luz_Tornillo 5
+    401518: Pasillo_Luz_Tornillo 6
+    401520: Pasillo_Luz_Tornillo 7
+    401522: Pasillo_Luz_Tornillo 8
+    401524: Pasillo_Luz_Tornillo004
+    401526: Pasillo_Luz_Tornillo005
+    401528: Pasillo_Luz_Tornillo006
+    401530: Pasillo_Luz_Tornillo007
+    401532: Pasillo_Luz_Tornillo008
+    401534: Pasillo_Luz_Tornillo009
+    401536: Pasillo_Luz_Tornillo01
+    401538: Pasillo_Luz_Tornillo010
+    401540: Pasillo_Luz_Tornillo011
+    401542: Pasillo_Luz_Tornillo012
+    401544: Pasillo_Luz_Tornillo02
+    401546: Pasillo_Luz_Tornillo03
+    401548: Pasillo_Luz_Tornillos
+    401550: Pasillo_Luz_Tornillos 1
+    401552: Pasillo_Luz_Tornillos 2
+    401554: Pasillo_Luz_Tornillos 3
+    401556: Pasillo_Luz_Tornillos001
+    401558: Pasillo_Luz_Tornillos002
+    401560: Pasillo_Luz_Tornillos003
+    401562: Pasillo_Ventana_Marco
+    401564: Pasillo_Ventana_Reja
+    401566: Pasillo_Ventana_Vidrio
+    401568: PB
+    401570: PB_Asensor
+    401572: PB_Asensor_Puerta
+    401574: PB_E_Panel_01
+    401576: PB_E_Panel_02
+    401578: PB_E_Puerta_Marco
+    401580: PB_E_Puerta_Marco001
+    401582: PB_E_Puerta_Marco002
+    401584: PB_Entrada_Luz
+    401586: PB_Entrada_Luz 1
+    401588: PB_Entrada_Luz 2
+    401590: PB_Entrada_Luz 3
+    401592: PB_Entrada_Luz_Base_1.
+    401594: PB_Entrada_Luz_Base_1. 1
+    401596: PB_Entrada_Luz_Base_1. 2
+    401598: PB_Entrada_Luz_Base_1. 3
+    401600: PB_Entrada_Luz_Base_2.
+    401602: PB_Entrada_Luz_Base_2. 1
+    401604: PB_Entrada_Luz_Base_2. 2
+    401606: PB_Entrada_Luz_Base_2. 3
+    401608: PB_Entrada_Luz_Pantalla
+    401610: PB_Entrada_Luz_Pantalla 1
+    401612: PB_Entrada_Luz_Pantalla 2
+    401614: PB_Entrada_Luz_Pantalla 3
+    401616: PB_Entrada_Pared_E
+    401618: PB_Entrada_Pared_E_Espejo
+    401620: PB_Entrada_Pared_E_Zocalo
+    401622: PB_Entrada_Pared_S
+    401624: PB_Entrada_Pared_S_Espejo
+    401626: PB_Entrada_Pared_S_Zocalo
+    401628: PB_Entrada_Piso
+    401630: PB_Entrada_Puerta_Marco
+    401632: PB_Entrada_Vidrios
+    401634: PB_Escalera
+    401636: PB_Escalera_Pared
+    401638: PB_Escalon_!
+    401640: PB_Escalon_2
+    401642: PB_Luces
+    401644: PB_Luz_Base_1.
+    401646: PB_Luz_Base_1. 1
+    401648: PB_Luz_Base_1. 2
+    401650: PB_Luz_Base_2.
+    401652: PB_Luz_Base_2. 1
+    401654: PB_Luz_Base_2. 2
+    401656: PB_Luz_Pantalla
+    401658: PB_Luz_Pantalla 1
+    401660: PB_Luz_Pantalla 2
+    401662: PB_Marco01
+    401664: PB_Marco02
+    401666: PB_Marco03
+    401668: PB_Marco04
+    401670: PB_Marco_base
+    401672: PB_Marco_Luz_Base
+    401674: PB_Marco_Luz_Base 1
+    401676: PB_Marco_Luz_Pantalla
+    401678: PB_Marco_Luz_Pantalla 1
+    401680: PB_N_Cuadro
+    401682: PB_N_Panel_01
+    401684: PB_N_Panel_02
+    401686: PB_N_Panel_03
+    401688: PB_N_Panel_04
+    401690: PB_N_Panel_05
+    401692: PB_N_Panel_06
+    401694: PB_N_Panel_07
+    401696: PB_N_Panel_08
+    401698: PB_N_Panel_09_bot
+    401700: PB_N_Panel_09_top
+    401702: PB_N_Panel_10_bot
+    401704: PB_N_Panel_10_top
+    401706: PB_N_Panel_11
+    401708: PB_N_Panel_12
+    401710: PB_Paredes
+    401712: PB_Pasillo_Luz
+    401714: PB_Pasillo_Luz 1
+    401716: PB_Pasillo_Luz 2
+    401718: PB_Pasillo_Pared_N
+    401720: PB_Pasillo_Pared_N 1
+    401722: PB_Pasillo_Pared_N_Zocalo
+    401724: PB_Pasillo_Piso
+    401726: PB_Pasillo_Puerta
+    401728: PB_Pasillo_Puerta_marco
+    401730: PB_Piso
+    401732: PB_Puerta_A
+    401734: PB_S_Panel_013
+    401736: PB_S_Panel_014
+    401738: PB_S_Panel_015
+    401740: PB_S_Panel_016
+    401742: PB_S_Panel_017
+    401744: PB_S_Panel_018
+    401746: PB_S_Panel_019
+    401748: PB_S_Panel_020
+    401750: PB_S_Panel_023
+    401752: PB_S_Panel_024
+    401754: PB_S_Panel_025
+    401756: PB_S_Panel_026
+    401758: PB_S_Puerta
+    401760: PB_S_Puerta_1
+    401762: PB_S_Puerta_2
+    401764: PB_S_Puerta_Marco
+    401766: PB_S_Puerta_Marco001
+    401768: PB_S_Puerta_Marco002
+    401770: PB_S_Puerta_Marco003
+    401772: PB_Techo
+    401774: PC
+    401776: PC_obj_01
+    401778: PC_obj_02
+    401780: PC_obj_03
+    401782: Picaporte
+    401784: Picaporte002
+    401786: Picaporte003
+    401788: Pole
+    401790: Pole 1
+    401792: Pole 2
+    401794: Pole 3
+    401796: pole C
+    401798: pole C_1
+    401800: pole C_1 1
+    401802: pole C_1 2
+    401804: pole C_2
+    401806: pole C_2 1
+    401808: pole C_2 2
+    401810: pole L
+    401812: pole L 1
+    401814: pole L 2
+    401816: pole L 3
+    401818: pole R
+    401820: pole R 1
+    401822: pole R 2
+    401824: pole R 3
+    401826: PUERTA
+    401828: Puerta manija_base
+    401830: Puerta manija_cerradura
+    401832: Puerta.
+    401834: Puerta. 1
+    401836: Puerta. 10
+    401838: Puerta. 11
+    401840: Puerta. 12
+    401842: Puerta. 13
+    401844: Puerta. 14
+    401846: Puerta. 15
+    401848: Puerta. 16
+    401850: Puerta. 17
+    401852: Puerta. 18
+    401854: Puerta. 19
+    401856: Puerta. 2
+    401858: Puerta. 20
+    401860: Puerta. 21
+    401862: Puerta. 22
+    401864: Puerta. 23
+    401866: Puerta. 3
+    401868: Puerta. 4
+    401870: Puerta. 5
+    401872: Puerta. 6
+    401874: Puerta. 7
+    401876: Puerta. 8
+    401878: Puerta. 9
+    401880: PUERTA002
+    401882: PUERTA004
+    401884: PUERTA005
+    401886: PUERTA036
+    401888: PUERTA_cuarto
+    401890: PUERTA_cuartoBeruti-cuartoCasa
+    401892: PUERTA_entrada
+    401894: Puerta_manija001
+    401896: Puerta_Marco
+    401898: Puerta_Marco.
+    401900: Puerta_Marco. 1
+    401902: Puerta_Marco. 2
+    401904: Puerta_Marco. 3
+    401906: Puerta_Marco. 4
+    401908: Puerta_Marco. 5
+    401910: Puerta_Marco. 6
+    401912: Puerta_Marco. 7
+    401914: Puerta_Marco_Ext_01.
+    401916: Puerta_Marco_Ext_01. 1
+    401918: Puerta_Marco_Ext_01. 2
+    401920: Puerta_Marco_Ext_01. 3
+    401922: Puerta_Marco_Ext_01. 4
+    401924: Puerta_Marco_Ext_01. 5
+    401926: Puerta_Marco_Ext_01. 6
+    401928: Puerta_Marco_Ext_01. 7
+    401930: Puerta_Marco_Ext_02.
+    401932: Puerta_Marco_Ext_02. 1
+    401934: Puerta_Marco_Ext_02. 2
+    401936: Puerta_Marco_Ext_02. 3
+    401938: Puerta_Marco_Ext_02. 4
+    401940: Puerta_Marco_Ext_02. 5
+    401942: Puerta_Marco_Ext_02. 6
+    401944: Puerta_Marco_Ext_02. 7
+    401946: Puerta_Marco_Ext_03.
+    401948: Puerta_Marco_Ext_03. 1
+    401950: Puerta_Marco_Ext_03. 2
+    401952: Puerta_Marco_Ext_03. 3
+    401954: Puerta_Marco_Ext_03. 4
+    401956: Puerta_Marco_Ext_03. 5
+    401958: Puerta_Marco_Ext_03. 6
+    401960: Puerta_Marco_Ext_03. 7
+    401962: Puerta_Picaportes.
+    401964: Puerta_Picaportes. 1
+    401966: Puerta_Picaportes. 2
+    401968: Puerta_Picaportes. 3
+    401970: Puerta_Picaportes. 4
+    401972: Puerta_Picaportes. 5
+    401974: Puerta_Picaportes. 6
+    401976: Puerta_Picaportes. 7
+    401978: Puerta_x
+    401980: Puerta_x 1
+    401982: Puerta_x 2
+    401984: Puerta_x 3
+    401986: Puerta_x 4
+    401988: Puerta_x 5
+    401990: Puerta_x_Manija
+    401992: Puerta_x_Manija 1
+    401994: Puerta_x_Manija 2
+    401996: Puerta_x_Manija_01
+    401998: Puerta_x_Manija_01 1
+    402000: Puerta_x_Manija_01 2
+    402002: Puerta_x_Manija_02
+    402004: Puerta_x_Manija_02 1
+    402006: Puerta_x_Manija_02 2
+    402008: Puerta_x_Marco
+    402010: Puerta_x_Marco 1
+    402012: Puerta_x_Marco 2
+    402014: Puerta_x_Marco_Ext_01
+    402016: Puerta_x_Marco_Ext_01 1
+    402018: Puerta_x_Marco_Ext_01 2
+    402020: Puerta_x_Marco_Ext_02
+    402022: Puerta_x_Marco_Ext_02 1
+    402024: Puerta_x_Marco_Ext_02 2
+    402026: Puerta_x_Marco_Ext_03
+    402028: Puerta_x_Marco_Ext_03 1
+    402030: Puerta_x_Marco_Ext_03 2
+    402032: Rectangle01
+    402034: Rectangle02
+    402036: Reja_Barrote_1_01
+    402038: Reja_Barrote_1_02
+    402040: Reja_Barrote_1_03
+    402042: Reja_Barrote_1_04
+    402044: Reja_Barrote_1_05
+    402046: Reja_Barrote_1_06
+    402048: Reja_Barrote_1_07
+    402050: Reja_Barrote_1_08
+    402052: Reja_Barrote_2_01
+    402054: Reja_Barrote_2_02
+    402056: Reja_Barrote_2_03
+    402058: Reja_Barrote_2_04
+    402060: Reja_Barrote_2_05
+    402062: Reja_Barrote_2_06
+    402064: Reja_Barrote_2_07
+    402066: Reja_Barrote_2_08
+    402068: Riel
+    402070: Riel 1
+    402072: Riel 2
+    402074: Riel 3
+    402076: riel_bot
+    402078: riel_bot 1
+    402080: riel_bot 2
+    402082: riel_bot 3
+    402084: riel_mid
+    402086: riel_mid 1
+    402088: riel_mid 2
+    402090: riel_mid 3
+    402092: riel_top
+    402094: riel_top 1
+    402096: riel_top 2
+    402098: riel_top 3
+    402100: Screen
+    402102: Shape01
+    402104: Silla
+    402106: Silla 1
+    402108: Silla_ChamferBox01
+    402110: Silla_ChamferBox015
+    402112: Silla_ChamferBox016
+    402114: Silla_ChamferBox017
+    402116: Silla_ChamferBox02
+    402118: Silla_ChamferBox05
+    402120: Silla_ChamferBox06
+    402122: Silla_Circle03
+    402124: Silla_Circle04
+    402126: Silla_Circle05
+    402128: Silla_Circle06
+    402130: Silla_Circle07
+    402132: Silla_Cylinder012
+    402134: Silla_Cylinder013
+    402136: Silla_Cylinder014
+    402138: Silla_Cylinder015
+    402140: Silla_Cylinder016
+    402142: Silla_Cylinder02
+    402144: Silla_Cylinder06
+    402146: Silla_Cylinder07
+    402148: Silla_Cylinder08
+    402150: Silla_Cylinder09
+    402152: Silla_Cylinder10
+    402154: Silla_Cylinder12
+    402156: Silla_Cylinder13
+    402158: Silla_Cylinder14
+    402160: Silla_Cylinder15
+    402162: Silla_Cylinder16
+    402164: Silla_Cylinder17
+    402166: Silla_Cylinder18
+    402168: Silla_Line01
+    402170: Silla_Line02
+    402172: Silla_Line03
+    402174: Silla_Line04
+    402176: Silla_Line05
+    402178: Silla_Loft005
+    402180: Silla_Loft006
+    402182: Silla_Loft03
+    402184: Silla_Loft04
+    402186: Silla_OilTank01
+    402188: Silla_OilTank02
+    402190: Silla_OilTank03
+    402192: Silla_OilTank04
+    402194: Silla_OilTank05
+    402196: Silla_OilTank06
+    402198: Silla_OilTank07
+    402200: Silla_OilTank08
+    402202: Silla_OilTank09
+    402204: Silla_OilTank10
+    402206: Silla_Rectangle011
+    402208: Silla_Rectangle03
+    402210: Silla_Sphere01
+    402212: Stringer_box
+    402214: Sub
+    402216: Sub 1
+    402218: Sub_base
+    402220: Switch
+    402222: Switch_001
+    402224: Switch_002
+    402226: Switch_003
+    402228: Switch_1_botones
+    402230: Switch_1_botones001
+    402232: Switch_1_botones002
+    402234: tornillo
+    402236: tornillo001
+    402238: tornillo002
+    402240: tornillo003
+    402242: tornillo004
+    402244: tornillo005
+    402246: tornillo007
+    402248: tornillo008
+    402250: tornillo009
+    402252: tornillo010
+    402254: tornillo011
+    402256: tornillo012
+    402258: tornillo013
+    402260: tornillo014
+    402262: tornillo015
+    402264: tornillo016
+    402266: tornillo017
+    402268: tornillo018
+    402270: tornillo019
+    402272: tornillo025
+    402274: tornillo026
+    402276: tornillo027
+    402278: tornillo028
+    402280: tornillo029
+    402282: tornillo030
+    402284: tornillo031
+    402286: tornillo032
+    402288: tornillo049
+    402290: tornillo051
+    402292: tornillo053
+    402294: tornillo054
+    402296: tornillo059
+    402298: tornillo060
+    402300: tornillo061
+    402302: tornillo062
+    402304: tornillo063
+    402306: tornillo064
+    402308: tornillo075
+    402310: tornillo076
+    402312: tornillo077
+    402314: tornillo078
+    402316: tornillo079
+    402318: tornillo080
+    402320: tornillo081
+    402322: tornillo082
+    402324: tornillo083
+    402326: tornillo084
+    402328: tornillo085
+    402330: tornillo086
+    402332: tornillo087
+    402334: tornillo088
+    402336: tornillo089
+    402338: tornillo090
+    402340: tornillo091
+    402342: tornillo092
+    402344: tornillo093
+    402346: tornillo094
+    402348: tornillo095
+    402350: tornillo096
+    402352: tornillo097
+    402354: tornillo098
+    402356: tornillo228
+    402358: tornillo229
+    402360: tornillo230
+    402362: tornillo231
+    402364: tornillo232
+    402366: tornillo233
+    402368: tornillo234
+    402370: tornillo235
+    402372: tornillo236
+    402374: tornillo237
+    402376: Tornillo_01.
+    402378: Tornillo_01. 1
+    402380: Tornillo_01. 10
+    402382: Tornillo_01. 11
+    402384: Tornillo_01. 12
+    402386: Tornillo_01. 13
+    402388: Tornillo_01. 14
+    402390: Tornillo_01. 15
+    402392: Tornillo_01. 2
+    402394: Tornillo_01. 3
+    402396: Tornillo_01. 4
+    402398: Tornillo_01. 5
+    402400: Tornillo_01. 6
+    402402: Tornillo_01. 7
+    402404: Tornillo_01. 8
+    402406: Tornillo_01. 9
+    402408: Tornillo_02.
+    402410: Tornillo_02. 1
+    402412: Tornillo_02. 10
+    402414: Tornillo_02. 11
+    402416: Tornillo_02. 12
+    402418: Tornillo_02. 13
+    402420: Tornillo_02. 14
+    402422: Tornillo_02. 15
+    402424: Tornillo_02. 2
+    402426: Tornillo_02. 3
+    402428: Tornillo_02. 4
+    402430: Tornillo_02. 5
+    402432: Tornillo_02. 6
+    402434: Tornillo_02. 7
+    402436: Tornillo_02. 8
+    402438: Tornillo_02. 9
+    402440: Tornillo_03.
+    402442: Tornillo_03. 1
+    402444: Tornillo_03. 10
+    402446: Tornillo_03. 11
+    402448: Tornillo_03. 12
+    402450: Tornillo_03. 13
+    402452: Tornillo_03. 14
+    402454: Tornillo_03. 15
+    402456: Tornillo_03. 2
+    402458: Tornillo_03. 3
+    402460: Tornillo_03. 4
+    402462: Tornillo_03. 5
+    402464: Tornillo_03. 6
+    402466: Tornillo_03. 7
+    402468: Tornillo_03. 8
+    402470: Tornillo_03. 9
+    402472: Tornillo_04.
+    402474: Tornillo_04. 1
+    402476: Tornillo_04. 2
+    402478: Tornillo_04. 3
+    402480: Tornillo_04. 4
+    402482: Tornillo_04. 5
+    402484: Tornillo_04. 6
+    402486: Tornillo_04. 7
+    402488: TV
+    402490: TV 1
+    402492: Escalera_Techo
+    402494: Escalera_Techo 1
+    402496: Escalera_Techo001
+    402498: Panel_Tornillo002
+    402500: Panel_Tornillo003
+    402502: Panel_Tornillo004
+    402504: Panel_Tornillo005
+    402506: Panel_Tornillo006
+    402508: Panel_Tornillo007
+    402510: Stair_Collider001
+    402512: Stair_Collider004
+    402514: Stair_Collider005
+    402516: Stair_Collider006
+    402518: Stinger
+    402520: Stinger 1
+    402522: Stinger 2
+    2100000: No Name
+    2100002: 'Material #1'
+    2100004: m
+    2100006: 'Material #2'
+    2100008: 'Material #3'
+    2100010: 'Material #5'
+    2100012: 'Material #4'
+    2100014: tmjnjetyhjetetej
+    2100016: jethjuwer
+    2100018: thjdrjyetuwwr
+    2100020: thyktr6u5657i77i557u
+    2100022: jyw6u46u46u46u46ujyejet
+    2300000: "2C_Ba\xF1o-Cuarto_Pared"
+    2300002: "2C_Ba\xF1o_Pared_E"
+    2300004: "2C_Ba\xF1o_Pared_E001"
+    2300006: "2C_Ba\xF1o_Pared_W"
+    2300008: 2C_Cocina_Pared_002
+    2300010: 2C_Cocina_Pared_003
+    2300012: 2C_Cocina_Pared_1
+    2300014: 2C_Contrafrente_E
+    2300016: 2C_Contrafrente_Pared_N
+    2300018: 2C_Contrafrente_Pared_S
+    2300020: 2C_Cuarto_Pared_Armario
+    2300022: 2C_Cuarto_Pared_S
+    2300024: 2C_Cuarto_Puerta_Marco_Ext004
+    2300026: 2C_Cuarto_Puerta_Marco_Ext005
+    2300028: 2C_Cuarto_Puerta_Marco_Ext006
+    2300030: 2C_Cuarto_Puerta_Marco_Ext010
+    2300032: 2C_Cuarto_Puerta_Marco_Ext011
+    2300034: 2C_Cuarto_Puerta_Marco_Ext012
+    2300036: 2C_Cuarto_Puerta_Marco_Ext013
+    2300038: 2C_Cuarto_Puerta_Marco_Ext014
+    2300040: 2C_Cuarto_Puerta_Marco_Ext015
+    2300042: 2C_Cuarto_Puerta_Marco_Ext016
+    2300044: 2C_Cuarto_Puerta_Marco_Ext017
+    2300046: 2C_Cuarto_Puerta_Marco_Ext018
+    2300048: 2C_Cuarto_Puerta_Marco_Int016
+    2300050: 2C_Cuarto_Puerta_Marco_Int017
+    2300052: 2C_Cuarto_Puerta_Marco_Int018
+    2300054: 2C_Cuarto_Puerta_Marco_Int022
+    2300056: 2C_Cuarto_Puerta_Marco_Int023
+    2300058: 2C_Cuarto_Puerta_Marco_Int024
+    2300060: 2C_Cuarto_Puerta_Marco_Int025
+    2300062: 2C_Cuarto_Puerta_Marco_Int026
+    2300064: 2C_Cuarto_Puerta_Marco_Int027
+    2300066: 2C_Cuarto_Puerta_Marco_Int028
+    2300068: 2C_Cuarto_Puerta_Marco_Int029
+    2300070: 2C_Cuarto_Puerta_Marco_Int030
+    2300072: 2C_Lavadero_Pared_1
+    2300074: 2C_Lavadero_Pared_2
+    2300076: 2C_Lavadero_Pared_3
+    2300078: 2C_Lavadero_Ventana
+    2300080: 2C_Lavadero_Ventana_Vidrio
+    2300082: 2C_Living-Cocina_Pared_O
+    2300084: 2C_Living-Cuarto_Pared
+    2300086: 2C_Living_Mesa
+    2300088: 2C_Living_Pared_N
+    2300090: 2C_Living_Ventana_Barrote01
+    2300092: 2C_Living_Ventana_Barrote02
+    2300094: 2C_Living_Ventana_Barrote03
+    2300096: 2C_Living_Ventana_Barrote04
+    2300098: 2C_Living_Ventana_Barrote05
+    2300100: 2C_Living_Ventana_Barrote06
+    2300102: 2C_Living_Ventana_Barrote07
+    2300104: 2C_Living_Ventana_Barrote08
+    2300106: 2C_Living_Ventana_Barrote09
+    2300108: 2C_Living_Ventana_Barrote10
+    2300110: 2C_Living_Ventana_Barrote11
+    2300112: 2C_Living_Ventana_Barrote12
+    2300114: 2C_Living_Ventana_Barrote13
+    2300116: 2C_Living_Ventana_Barrote14
+    2300118: 2C_Living_Ventana_Barrote15
+    2300120: 2C_Living_Ventana_Barrote16
+    2300122: 2C_Living_Ventana_Barrote17
+    2300124: 2C_Living_Ventana_Barrote18
+    2300126: 2C_Living_Ventana_Barrote19
+    2300128: 2C_Living_Ventana_Barrote20
+    2300130: 2C_Pared_E
+    2300132: 2C_Piso
+    2300134: 2C_Techo
+    2300136: 2P_Puerta_Marco_agujero1
+    2300138: 2P_Puerta_Marco_agujero2
+    2300140: 2P_Puerta_Marco_Ext1
+    2300142: 2P_Puerta_Marco_Ext2
+    2300144: 2P_Puerta_Marco_Ext3
+    2300146: 2P_Puerta_Marco_Int002
+    2300148: 2P_Puerta_Marco_Int1
+    2300150: 2P_Puerta_Marco_Int3
+    2300152: almohada
+    2300154: Armario_Puerta_Der_1 1
+    2300156: Armario_Puerta_Der_2 1
+    2300158: Armario_Puerta_Izq_1 1
+    2300160: Armario_Puerta_Izq_2 1
+    2300162: Asensor_agujero
+    2300164: Asensor_Base
+    2300166: Asensor_boton
+    2300168: Asensor_Boton.
+    2300170: Asensor_Boton. 1
+    2300172: Asensor_Boton. 2
+    2300174: Asensor_Boton_Marco.
+    2300176: Asensor_Boton_Marco. 1
+    2300178: Asensor_Boton_Marco. 2
+    2300180: Asensor_Lookhole_Ext.
+    2300182: Asensor_Lookhole_Ext. 1
+    2300184: Asensor_Lookhole_Ext. 2
+    2300186: Asensor_Lookhole_Int.
+    2300188: Asensor_Lookhole_Int. 1
+    2300190: Asensor_Lookhole_Int. 2
+    2300192: Asensor_manija
+    2300194: Asensor_manija_base
+    2300196: Asensor_Panel. 3
+    2300198: Asensor_Panel. 4
+    2300200: Asensor_Panel. 5
+    2300202: Asensor_Pantalla
+    2300204: Asensor_Pantalla.
+    2300206: Asensor_Pantalla. 1
+    2300208: Asensor_Pantalla. 2
+    2300210: Asensor_puerta_base
+    2300212: Asensor_Puerta_Ext_01.
+    2300214: Asensor_Puerta_Ext_01. 1
+    2300216: Asensor_Puerta_Ext_01. 2
+    2300218: Asensor_Puerta_Ext_02.
+    2300220: Asensor_Puerta_Ext_02. 1
+    2300222: Asensor_Puerta_Ext_02. 10
+    2300224: Asensor_Puerta_Ext_02. 11
+    2300226: Asensor_Puerta_Ext_02. 12
+    2300228: Asensor_Puerta_Ext_02. 13
+    2300230: Asensor_Puerta_Ext_02. 14
+    2300232: Asensor_Puerta_Ext_02. 2
+    2300234: Asensor_Puerta_Ext_02. 3
+    2300236: Asensor_Puerta_Ext_02. 4
+    2300238: Asensor_Puerta_Ext_02. 5
+    2300240: Asensor_Puerta_Ext_02. 6
+    2300242: Asensor_Puerta_Ext_02. 7
+    2300244: Asensor_Puerta_Ext_02. 8
+    2300246: Asensor_Puerta_Ext_02. 9
+    2300248: Asensor_Puerta_Ext_Manija_01.
+    2300250: Asensor_Puerta_Ext_Manija_01. 1
+    2300252: Asensor_Puerta_Ext_Manija_01. 2
+    2300254: Asensor_Puerta_Ext_Manija_02.
+    2300256: Asensor_Puerta_Ext_Manija_02. 1
+    2300258: Asensor_Puerta_Ext_Manija_02. 2
+    2300260: Asensor_Puerta_Ext_Manija_03.
+    2300262: Asensor_Puerta_Ext_Manija_03. 1
+    2300264: Asensor_Puerta_Ext_Manija_03. 2
+    2300266: Asensor_Puerta_Ext_Nexo. 10
+    2300268: Asensor_Puerta_Ext_Nexo. 11
+    2300270: Asensor_Puerta_Ext_Nexo. 12
+    2300272: Asensor_Puerta_Ext_Nexo. 13
+    2300274: Asensor_Puerta_Ext_Nexo. 14
+    2300276: Asensor_Puerta_Ext_Nexo. 15
+    2300278: Asensor_Puerta_Ext_Nexo. 16
+    2300280: Asensor_Puerta_Ext_Nexo. 17
+    2300282: Asensor_Puerta_Ext_Nexo. 18
+    2300284: Asensor_Puerta_Ext_Nexo. 19
+    2300286: Asensor_Puerta_Ext_Nexo. 20
+    2300288: Asensor_Puerta_Ext_Nexo. 21
+    2300290: Asensor_Puerta_Ext_Nexo. 22
+    2300292: Asensor_Puerta_Ext_Nexo. 23
+    2300294: Asensor_Puerta_Ext_Nexo. 24
+    2300296: Asensor_Puerta_Ext_Nexo. 25
+    2300298: Asensor_Puerta_Ext_Nexo. 26
+    2300300: Asensor_Puerta_Ext_Nexo. 27
+    2300302: Asensor_Puerta_Ext_Nexo. 28
+    2300304: Asensor_Puerta_Ext_Nexo. 29
+    2300306: Asensor_Puerta_Ext_Nexo. 30
+    2300308: Asensor_Puerta_Ext_Nexo. 31
+    2300310: Asensor_Puerta_Ext_Nexo. 32
+    2300312: Asensor_Puerta_Ext_Nexo. 9
+    2300314: Asensor_Puerta_Int_01.
+    2300316: Asensor_Puerta_Int_01. 1
+    2300318: Asensor_Puerta_Int_01. 2
+    2300320: Asensor_Puerta_Int_02.
+    2300322: Asensor_Puerta_Int_02. 1
+    2300324: Asensor_Puerta_Int_02. 10
+    2300326: Asensor_Puerta_Int_02. 11
+    2300328: Asensor_Puerta_Int_02. 12
+    2300330: Asensor_Puerta_Int_02. 13
+    2300332: Asensor_Puerta_Int_02. 14
+    2300334: Asensor_Puerta_Int_02. 2
+    2300336: Asensor_Puerta_Int_02. 3
+    2300338: Asensor_Puerta_Int_02. 4
+    2300340: Asensor_Puerta_Int_02. 5
+    2300342: Asensor_Puerta_Int_02. 6
+    2300344: Asensor_Puerta_Int_02. 7
+    2300346: Asensor_Puerta_Int_02. 8
+    2300348: Asensor_Puerta_Int_02. 9
+    2300350: Asensor_Puerta_Marco.
+    2300352: Asensor_Puerta_Marco. 1
+    2300354: Asensor_Puerta_Marco. 2
+    2300356: Base_base
+    2300358: Base_nexo
+    2300360: "Ba\xF1o_Bidet"
+    2300362: "Ba\xF1o_Lavamanos_Canilla"
+    2300364: "Ba\xF1o_Llavamanos"
+    2300366: "Ba\xF1o_Mesada"
+    2300368: cama
+    2300370: cerradura1_agujero
+    2300372: Cerradura1_agujero.
+    2300374: Cerradura1_agujero. 1
+    2300376: Cerradura1_agujero. 2
+    2300378: Cerradura1_agujero. 3
+    2300380: Cerradura1_agujero. 4
+    2300382: Cerradura1_agujero. 5
+    2300384: Cerradura1_agujero. 6
+    2300386: Cerradura1_agujero. 7
+    2300388: cerradura1_base
+    2300390: Cerradura1_base.
+    2300392: Cerradura1_base. 1
+    2300394: Cerradura1_base. 2
+    2300396: Cerradura1_base. 3
+    2300398: Cerradura1_base. 4
+    2300400: Cerradura1_base. 5
+    2300402: Cerradura1_base. 6
+    2300404: Cerradura1_base. 7
+    2300406: cerradura2_agujero
+    2300408: cerradura2_agujero 1
+    2300410: cerradura2_agujero 2
+    2300412: Cerradura2_agujero.
+    2300414: Cerradura2_agujero. 1
+    2300416: Cerradura2_agujero. 2
+    2300418: Cerradura2_agujero. 3
+    2300420: Cerradura2_agujero. 4
+    2300422: Cerradura2_agujero. 5
+    2300424: Cerradura2_agujero. 6
+    2300426: Cerradura2_agujero. 7
+    2300428: cerradura2_agujero001
+    2300430: cerradura2_base
+    2300432: Cerradura2_base.
+    2300434: Cerradura2_base. 1
+    2300436: Cerradura2_base. 2
+    2300438: Cerradura2_base. 3
+    2300440: Cerradura2_base. 4
+    2300442: Cerradura2_base. 5
+    2300444: Cerradura2_base. 6
+    2300446: Cerradura2_base. 7
+    2300448: cerradura2_base001
+    2300450: cerradura_A_1_base001
+    2300452: cerradura_A_1_base002
+    2300454: cerradura_A_1_base006
+    2300456: cerradura_A_1_base007
+    2300458: cerradura_A_1_base010
+    2300460: cerradura_A_1_base011
+    2300462: cerradura_A_1_base012
+    2300464: cerradura_A_1_base013
+    2300466: cerradura_A_1_base014
+    2300468: cerradura_A_1_base015
+    2300470: cerradura_A_2_agujero001
+    2300472: cerradura_B_2_agujero002
+    2300474: cerradura_picaporte
+    2300476: cerradura_picaporte002
+    2300478: cerradura_picaporte004
+    2300480: cerradura_picaporte005
+    2300482: cerradura_picaporte006
+    2300484: cerradura_picaporte007
+    2300486: cerradura_picaporte008
+    2300488: cerradura_picaporte011
+    2300490: cerradura_picaporte012
+    2300492: cerradura_picaporte013
+    2300494: cerradura_picaporte014
+    2300496: cerradura_picaporte015
+    2300498: cerradura_picaporte016
+    2300500: cerradura_picaporte1
+    2300502: cerradura_portapico001
+    2300504: cerradura_portapico003
+    2300506: cerradura_portapico004
+    2300508: cerradura_portapico006
+    2300510: cerradura_portapico007
+    2300512: cerradura_portapico008
+    2300514: ChamferCyl01
+    2300516: Cuarto_Luz_Base
+    2300518: Cuarto_Luz_Pantalla
+    2300520: Cuarto_Ventana_L
+    2300522: Cuarto_Ventana_Marco
+    2300524: Cuarto_Ventana_R
+    2300526: Cylinder001
+    2300528: Cylinder004
+    2300530: Cylinder005
+    2300532: Cylinder083
+    2300534: "Ducha_Ba\xF1adera"
+    2300536: Ducha_Canilla
+    2300538: Ellipse01
+    2300540: Ellipse02
+    2300542: Entrada_Pared 1
+    2300544: Entrada_Pared_Zocalo
+    2300546: Entrada_Puerta 2
+    2300548: Entrada_Puerta_Cerradura
+    2300550: Entrada_Puerta_Manija
+    2300552: Entrada_Puerta_Vidrios
+    2300554: Escalera_1
+    2300556: escalera_2
+    2300558: escalera_2 1
+    2300560: escalera_2 2
+    2300562: Escalera_Panel
+    2300564: Escalera_Pared
+    2300566: Escalera_Pared 1
+    2300568: Escalera_Pared 2
+    2300570: Hindge_007
+    2300572: Hindge_008
+    2300574: Hindge_009
+    2300576: Hindge_013
+    2300578: Hindge_014
+    2300580: Hindge_015
+    2300582: Hindge_016
+    2300584: Hindge_017
+    2300586: Hindge_018
+    2300588: Hindge_019
+    2300590: Hindge_020
+    2300592: Hindge_021
+    2300594: Hindge_1
+    2300596: Hindge_2
+    2300598: Hindge_3
+    2300600: keyboardMouse_cgaxis_electronics_25_01
+    2300602: keyboardMouse_cgaxis_electronics_25_02
+    2300604: keyboardMouse_cgaxis_electronics_25_03
+    2300606: keyboardMouse_Object01
+    2300608: keyboardMouse_Object02
+    2300610: Living_Luz_Base
+    2300612: Living_Luz_Pantalla
+    2300614: Living_Ventana 1
+    2300616: lookhole001
+    2300618: lookhole002
+    2300620: lookhole004
+    2300622: lookhole005
+    2300624: lookhole007
+    2300626: lookhole_A_agujero
+    2300628: Lookhole_B.
+    2300630: Lookhole_B. 1
+    2300632: Lookhole_B. 2
+    2300634: Lookhole_B. 3
+    2300636: Lookhole_B. 4
+    2300638: Lookhole_B. 5
+    2300640: Lookhole_B. 6
+    2300642: Lookhole_B. 7
+    2300644: Lookhole_B_agujero.
+    2300646: Lookhole_B_agujero. 1
+    2300648: Lookhole_B_agujero. 2
+    2300650: Lookhole_B_agujero. 3
+    2300652: Lookhole_B_agujero. 4
+    2300654: Lookhole_B_agujero. 5
+    2300656: Lookhole_B_agujero. 6
+    2300658: Lookhole_B_agujero. 7
+    2300660: lookhole_B_agujero001
+    2300662: lookhole_B_agujero002
+    2300664: MANIJA AFUERA
+    2300666: MANIJA AFUERA001
+    2300668: Manija Afuera_Base. 10
+    2300670: Manija Afuera_Base. 11
+    2300672: Manija Afuera_Base. 12
+    2300674: Manija Afuera_Base. 13
+    2300676: Manija Afuera_Base. 14
+    2300678: Manija Afuera_Base. 15
+    2300680: Manija Afuera_Base. 16
+    2300682: Manija Afuera_Base. 17
+    2300684: Manija Afuera_Base. 18
+    2300686: Manija Afuera_Base. 19
+    2300688: Manija Afuera_Base. 20
+    2300690: Manija Afuera_Base. 21
+    2300692: Manija Afuera_Base. 22
+    2300694: Manija Afuera_Base. 23
+    2300696: Manija Afuera_Base. 24
+    2300698: Manija Afuera_Base. 25
+    2300700: Manija Afuera_Base. 8
+    2300702: Manija Afuera_Base. 9
+    2300704: MANIJA AFUERA_BASE002
+    2300706: MANIJA AFUERA_BASE004
+    2300708: Manija Afuera_Base_01.
+    2300710: Manija Afuera_Base_01. 1
+    2300712: Manija Afuera_Base_02.
+    2300714: Manija Afuera_Base_02. 1
+    2300716: Manija Afuera_Base_03.
+    2300718: Manija Afuera_Base_03. 1
+    2300720: Manija_A
+    2300722: Manija_A003
+    2300724: Manija_A004
+    2300726: Manija_A007
+    2300728: Manija_A008
+    2300730: Manija_A009
+    2300732: Manija_A010
+    2300734: Manija_A011
+    2300736: Manija_A012
+    2300738: Manija_A_base
+    2300740: Manija_A_base002
+    2300742: Manija_A_base003
+    2300744: Manija_A_base010
+    2300746: Manija_A_base012
+    2300748: Manija_A_base014
+    2300750: Manija_A_base015
+    2300752: Manija_A_base020
+    2300754: Manija_A_base021
+    2300756: Manija_A_base022
+    2300758: Manija_A_base023
+    2300760: Manija_A_base024
+    2300762: Manija_A_base025
+    2300764: Manija_A_base026
+    2300766: Manija_A_base027
+    2300768: Manija_A_base028
+    2300770: Manija_A_base029
+    2300772: Manija_A_base030
+    2300774: Manija_A_base031
+    2300776: Manija_A_manija
+    2300778: Manija_A_manija003
+    2300780: Manija_A_manija004
+    2300782: Manija_A_manija007
+    2300784: Manija_A_manija008
+    2300786: Manija_A_manija009
+    2300788: Manija_A_manija010
+    2300790: Manija_A_manija011
+    2300792: Manija_A_manija012
+    2300794: P1_Piso
+    2300796: P1_Techo
+    2300798: P2_Piso
+    2300800: P2_Techo
+    2300802: P3_Piso
+    2300804: P3_Techo
+    2300806: Panel_N
+    2300808: Panel_S
+    2300810: Panel_Tornillo 14
+    2300812: Panel_Tornillo 15
+    2300814: Panel_Tornillo 16
+    2300816: Panel_Tornillo 17
+    2300818: Panel_Tornillo 18
+    2300820: Panel_Tornillo 19
+    2300822: Panel_Tornillo 20
+    2300824: Panel_Tornillo 21
+    2300826: Panel_Tornillo 22
+    2300828: Panel_Tornillo 23
+    2300830: Panel_Tornillo 24
+    2300832: Panel_Tornillo 25
+    2300834: Panel_Tornillo 26
+    2300836: Panel_Tornillo 27
+    2300838: Panel_Tornillo 28
+    2300840: Panel_Tornillo 29
+    2300842: Panel_Tornillo 30
+    2300844: Panel_Tornillo 31
+    2300846: Panel_Tornillo 32
+    2300848: Panel_Tornillo 33
+    2300850: Panel_Tornillo 34
+    2300852: Panel_Tornillo 35
+    2300854: Panel_Tornillo 36
+    2300856: Panel_Tornillo 37
+    2300858: Panel_Tornillo 38
+    2300860: Panel_Tornillo 39
+    2300862: Panel_Tornillo 40
+    2300864: Panel_Tornillo 41
+    2300866: Panel_Tornillo 42
+    2300868: Panel_Tornillo 43
+    2300870: Panel_Tornillo 44
+    2300872: Panel_Tornillo 45
+    2300874: Panel_Tornillo 46
+    2300876: Panel_Tornillo 47
+    2300878: Panel_Tornillo 48
+    2300880: Panel_Tornillo 49
+    2300882: Panel_Tornillo 50
+    2300884: Panel_Tornillo 51
+    2300886: Panel_Tornillo 52
+    2300888: Panel_Tornillo 53
+    2300890: Panel_Tornillo 54
+    2300892: Panel_Tornillo 55
+    2300894: Panel_Tornillo 56
+    2300896: Panel_Tornillo 57
+    2300898: Panel_Tornillo 58
+    2300900: Panel_Tornillo 59
+    2300902: Panel_Tornillo 60
+    2300904: Panel_Tornillo 61
+    2300906: Panel_Tornillo 62
+    2300908: Panel_Tornillo 63
+    2300910: Panel_Tornillo 64
+    2300912: Panel_Tornillo 65
+    2300914: Panel_Tornillo 66
+    2300916: Panel_Tornillo 67
+    2300918: Panel_Tornillo 68
+    2300920: Panel_Tornillo 69
+    2300922: Panel_Tornillo 70
+    2300924: Panel_Tornillo 71
+    2300926: Panel_Tornillo 72
+    2300928: Panel_Tornillo 73
+    2300930: Pared_E 4
+    2300932: Pared_E 5
+    2300934: Pared_E 6
+    2300936: Pared_E_Extrude
+    2300938: Pared_E_Extrude 1
+    2300940: Pared_E_Extrude 2
+    2300942: Pared_extrude
+    2300944: Pared_extrude 1
+    2300946: Pared_medio
+    2300948: Pared_medio 1
+    2300950: Pared_N_extrude
+    2300952: Pared_N_medio
+    2300954: Pared_N_Zocalo
+    2300956: Pared_O_Extrude
+    2300958: Pared_O_Extrude 1
+    2300960: Pared_O_Extrude 2
+    2300962: Pared_O_Pared
+    2300964: Pared_O_Pared 1
+    2300966: Pared_O_Pared 2
+    2300968: Pared_O_Zocalos
+    2300970: Pared_O_Zocalos 1
+    2300972: Pared_O_Zocalos 2
+    2300974: Pared_S_01 1
+    2300976: Pared_S_01_Zocalo
+    2300978: Pared_S_02 1
+    2300980: Pared_S_02_Zocalo
+    2300982: Pared_S_Extrude
+    2300984: Pared_S_Extrude 1
+    2300986: Pared_S_Extrude 2
+    2300988: Pared_S_Pared
+    2300990: Pared_S_Pared 1
+    2300992: Pared_S_Pared 2
+    2300994: Pared_S_Zocalos
+    2300996: Pared_S_Zocalos 1
+    2300998: Pared_S_Zocalos 2
+    2301000: Pared_Zocalo
+    2301002: Pared_Zocalo 1
+    2301004: Parlante_marco
+    2301006: Parlante_parlante
+    2301008: Parlante_tela
+    2301010: Pasillo_Luz_Base
+    2301012: Pasillo_Luz_Base 1
+    2301014: Pasillo_Luz_Base 2
+    2301016: Pasillo_Luz_Base005
+    2301018: Pasillo_Luz_Base006
+    2301020: Pasillo_Luz_Base007
+    2301022: Pasillo_Luz_Base008
+    2301024: Pasillo_Luz_Pantalla 4
+    2301026: Pasillo_Luz_Pantalla 5
+    2301028: Pasillo_Luz_Pantalla 6
+    2301030: Pasillo_Luz_Pantalla 7
+    2301032: Pasillo_Luz_Pantalla 8
+    2301034: Pasillo_Luz_Pantalla 9
+    2301036: Pasillo_Luz_Pantalla004
+    2301038: Pasillo_Luz_Pantalla005
+    2301040: Pasillo_Luz_Pantalla007
+    2301042: Pasillo_Luz_Pantalla008
+    2301044: Pasillo_Luz_Pantalla01
+    2301046: Pasillo_Luz_Pantalla010
+    2301048: Pasillo_Luz_Pantalla011
+    2301050: Pasillo_Luz_Pantalla02
+    2301052: Pasillo_Luz_Tornillo
+    2301054: Pasillo_Luz_Tornillo 1
+    2301056: Pasillo_Luz_Tornillo 2
+    2301058: Pasillo_Luz_Tornillo 3
+    2301060: Pasillo_Luz_Tornillo 4
+    2301062: Pasillo_Luz_Tornillo 5
+    2301064: Pasillo_Luz_Tornillo 6
+    2301066: Pasillo_Luz_Tornillo 7
+    2301068: Pasillo_Luz_Tornillo 8
+    2301070: Pasillo_Luz_Tornillo004
+    2301072: Pasillo_Luz_Tornillo005
+    2301074: Pasillo_Luz_Tornillo006
+    2301076: Pasillo_Luz_Tornillo007
+    2301078: Pasillo_Luz_Tornillo008
+    2301080: Pasillo_Luz_Tornillo009
+    2301082: Pasillo_Luz_Tornillo01
+    2301084: Pasillo_Luz_Tornillo010
+    2301086: Pasillo_Luz_Tornillo011
+    2301088: Pasillo_Luz_Tornillo012
+    2301090: Pasillo_Luz_Tornillo02
+    2301092: Pasillo_Luz_Tornillo03
+    2301094: Pasillo_Ventana_Marco
+    2301096: Pasillo_Ventana_Vidrio
+    2301098: PB_Asensor_Puerta
+    2301100: PB_E_Panel_01
+    2301102: PB_E_Panel_02
+    2301104: PB_E_Puerta_Marco
+    2301106: PB_E_Puerta_Marco001
+    2301108: PB_E_Puerta_Marco002
+    2301110: PB_Entrada_Luz_Base_1.
+    2301112: PB_Entrada_Luz_Base_1. 1
+    2301114: PB_Entrada_Luz_Base_1. 2
+    2301116: PB_Entrada_Luz_Base_1. 3
+    2301118: PB_Entrada_Luz_Base_2.
+    2301120: PB_Entrada_Luz_Base_2. 1
+    2301122: PB_Entrada_Luz_Base_2. 2
+    2301124: PB_Entrada_Luz_Base_2. 3
+    2301126: PB_Entrada_Luz_Pantalla
+    2301128: PB_Entrada_Luz_Pantalla 1
+    2301130: PB_Entrada_Luz_Pantalla 2
+    2301132: PB_Entrada_Luz_Pantalla 3
+    2301134: PB_Entrada_Pared_E
+    2301136: PB_Entrada_Pared_E_Espejo
+    2301138: PB_Entrada_Pared_E_Zocalo
+    2301140: PB_Entrada_Pared_S
+    2301142: PB_Entrada_Pared_S_Espejo
+    2301144: PB_Entrada_Pared_S_Zocalo
+    2301146: PB_Entrada_Piso
+    2301148: PB_Entrada_Puerta_Marco
+    2301150: PB_Entrada_Vidrios
+    2301152: PB_Escalera_Pared
+    2301154: PB_Escalon_!
+    2301156: PB_Escalon_2
+    2301158: PB_Luz_Base_1.
+    2301160: PB_Luz_Base_1. 1
+    2301162: PB_Luz_Base_1. 2
+    2301164: PB_Luz_Base_2.
+    2301166: PB_Luz_Base_2. 1
+    2301168: PB_Luz_Base_2. 2
+    2301170: PB_Luz_Pantalla
+    2301172: PB_Luz_Pantalla 1
+    2301174: PB_Luz_Pantalla 2
+    2301176: PB_Marco01
+    2301178: PB_Marco02
+    2301180: PB_Marco03
+    2301182: PB_Marco04
+    2301184: PB_Marco_base
+    2301186: PB_Marco_Luz_Base
+    2301188: PB_Marco_Luz_Base 1
+    2301190: PB_Marco_Luz_Pantalla
+    2301192: PB_Marco_Luz_Pantalla 1
+    2301194: PB_N_Panel_01
+    2301196: PB_N_Panel_02
+    2301198: PB_N_Panel_03
+    2301200: PB_N_Panel_04
+    2301202: PB_N_Panel_05
+    2301204: PB_N_Panel_06
+    2301206: PB_N_Panel_07
+    2301208: PB_N_Panel_08
+    2301210: PB_N_Panel_09_bot
+    2301212: PB_N_Panel_09_top
+    2301214: PB_N_Panel_10_bot
+    2301216: PB_N_Panel_10_top
+    2301218: PB_N_Panel_11
+    2301220: PB_N_Panel_12
+    2301222: PB_Pasillo_Pared_N 1
+    2301224: PB_Pasillo_Pared_N_Zocalo
+    2301226: PB_Pasillo_Piso
+    2301228: PB_Pasillo_Puerta
+    2301230: PB_Pasillo_Puerta_marco
+    2301232: PB_Puerta_A
+    2301234: PB_S_Panel_013
+    2301236: PB_S_Panel_014
+    2301238: PB_S_Panel_015
+    2301240: PB_S_Panel_016
+    2301242: PB_S_Panel_017
+    2301244: PB_S_Panel_018
+    2301246: PB_S_Panel_019
+    2301248: PB_S_Panel_020
+    2301250: PB_S_Panel_023
+    2301252: PB_S_Panel_024
+    2301254: PB_S_Panel_025
+    2301256: PB_S_Panel_026
+    2301258: PB_S_Puerta
+    2301260: PB_S_Puerta_Marco001
+    2301262: PB_S_Puerta_Marco002
+    2301264: PB_S_Puerta_Marco003
+    2301266: PB_Techo
+    2301268: PC_obj_01
+    2301270: PC_obj_02
+    2301272: PC_obj_03
+    2301274: pole C
+    2301276: pole C_1
+    2301278: pole C_1 1
+    2301280: pole C_1 2
+    2301282: pole C_2
+    2301284: pole C_2 1
+    2301286: pole C_2 2
+    2301288: pole L
+    2301290: pole L 1
+    2301292: pole L 2
+    2301294: pole L 3
+    2301296: pole R
+    2301298: pole R 1
+    2301300: pole R 2
+    2301302: pole R 3
+    2301304: PUERTA
+    2301306: Puerta manija_base
+    2301308: Puerta manija_cerradura
+    2301310: Puerta. 16
+    2301312: Puerta. 17
+    2301314: Puerta. 18
+    2301316: Puerta. 19
+    2301318: Puerta. 20
+    2301320: Puerta. 21
+    2301322: Puerta. 22
+    2301324: Puerta. 23
+    2301326: PUERTA002
+    2301328: PUERTA004
+    2301330: PUERTA005
+    2301332: PUERTA036
+    2301334: Puerta_manija001
+    2301336: Puerta_Marco_Ext_01.
+    2301338: Puerta_Marco_Ext_01. 1
+    2301340: Puerta_Marco_Ext_01. 2
+    2301342: Puerta_Marco_Ext_01. 3
+    2301344: Puerta_Marco_Ext_01. 4
+    2301346: Puerta_Marco_Ext_01. 5
+    2301348: Puerta_Marco_Ext_01. 6
+    2301350: Puerta_Marco_Ext_01. 7
+    2301352: Puerta_Marco_Ext_02.
+    2301354: Puerta_Marco_Ext_02. 1
+    2301356: Puerta_Marco_Ext_02. 2
+    2301358: Puerta_Marco_Ext_02. 3
+    2301360: Puerta_Marco_Ext_02. 4
+    2301362: Puerta_Marco_Ext_02. 5
+    2301364: Puerta_Marco_Ext_02. 6
+    2301366: Puerta_Marco_Ext_02. 7
+    2301368: Puerta_Marco_Ext_03.
+    2301370: Puerta_Marco_Ext_03. 1
+    2301372: Puerta_Marco_Ext_03. 2
+    2301374: Puerta_Marco_Ext_03. 3
+    2301376: Puerta_Marco_Ext_03. 4
+    2301378: Puerta_Marco_Ext_03. 5
+    2301380: Puerta_Marco_Ext_03. 6
+    2301382: Puerta_Marco_Ext_03. 7
+    2301384: Puerta_x 3
+    2301386: Puerta_x 4
+    2301388: Puerta_x 5
+    2301390: Puerta_x_Manija_01
+    2301392: Puerta_x_Manija_01 1
+    2301394: Puerta_x_Manija_01 2
+    2301396: Puerta_x_Manija_02
+    2301398: Puerta_x_Manija_02 1
+    2301400: Puerta_x_Manija_02 2
+    2301402: Puerta_x_Marco_Ext_01
+    2301404: Puerta_x_Marco_Ext_01 1
+    2301406: Puerta_x_Marco_Ext_01 2
+    2301408: Puerta_x_Marco_Ext_02
+    2301410: Puerta_x_Marco_Ext_02 1
+    2301412: Puerta_x_Marco_Ext_02 2
+    2301414: Puerta_x_Marco_Ext_03
+    2301416: Puerta_x_Marco_Ext_03 1
+    2301418: Puerta_x_Marco_Ext_03 2
+    2301420: Rectangle01
+    2301422: Rectangle02
+    2301424: Reja_Barrote_1_01
+    2301426: Reja_Barrote_1_02
+    2301428: Reja_Barrote_1_03
+    2301430: Reja_Barrote_1_04
+    2301432: Reja_Barrote_1_05
+    2301434: Reja_Barrote_1_06
+    2301436: Reja_Barrote_1_07
+    2301438: Reja_Barrote_1_08
+    2301440: Reja_Barrote_2_01
+    2301442: Reja_Barrote_2_02
+    2301444: Reja_Barrote_2_03
+    2301446: Reja_Barrote_2_04
+    2301448: Reja_Barrote_2_05
+    2301450: Reja_Barrote_2_06
+    2301452: Reja_Barrote_2_07
+    2301454: Reja_Barrote_2_08
+    2301456: riel_bot
+    2301458: riel_bot 1
+    2301460: riel_bot 2
+    2301462: riel_bot 3
+    2301464: riel_mid
+    2301466: riel_mid 1
+    2301468: riel_mid 2
+    2301470: riel_mid 3
+    2301472: riel_top
+    2301474: riel_top 1
+    2301476: riel_top 2
+    2301478: riel_top 3
+    2301480: Screen
+    2301482: Shape01
+    2301484: Silla_ChamferBox01
+    2301486: Silla_ChamferBox015
+    2301488: Silla_ChamferBox016
+    2301490: Silla_ChamferBox017
+    2301492: Silla_ChamferBox02
+    2301494: Silla_ChamferBox05
+    2301496: Silla_ChamferBox06
+    2301498: Silla_Circle03
+    2301500: Silla_Circle04
+    2301502: Silla_Circle05
+    2301504: Silla_Circle06
+    2301506: Silla_Circle07
+    2301508: Silla_Cylinder012
+    2301510: Silla_Cylinder013
+    2301512: Silla_Cylinder014
+    2301514: Silla_Cylinder015
+    2301516: Silla_Cylinder016
+    2301518: Silla_Cylinder02
+    2301520: Silla_Cylinder06
+    2301522: Silla_Cylinder07
+    2301524: Silla_Cylinder08
+    2301526: Silla_Cylinder09
+    2301528: Silla_Cylinder10
+    2301530: Silla_Cylinder12
+    2301532: Silla_Cylinder13
+    2301534: Silla_Cylinder15
+    2301536: Silla_Cylinder16
+    2301538: Silla_Cylinder17
+    2301540: Silla_Cylinder18
+    2301542: Silla_Line01
+    2301544: Silla_Line02
+    2301546: Silla_Line03
+    2301548: Silla_Line04
+    2301550: Silla_Line05
+    2301552: Silla_Loft005
+    2301554: Silla_Loft006
+    2301556: Silla_Loft03
+    2301558: Silla_Loft04
+    2301560: Silla_OilTank01
+    2301562: Silla_OilTank02
+    2301564: Silla_OilTank03
+    2301566: Silla_OilTank04
+    2301568: Silla_OilTank05
+    2301570: Silla_OilTank06
+    2301572: Silla_OilTank07
+    2301574: Silla_OilTank08
+    2301576: Silla_OilTank09
+    2301578: Silla_OilTank10
+    2301580: Silla_Rectangle011
+    2301582: Silla_Sphere01
+    2301584: Stringer_box
+    2301586: Sub 1
+    2301588: Sub_base
+    2301590: Switch_001
+    2301592: Switch_002
+    2301594: Switch_003
+    2301596: Switch_1_botones
+    2301598: Switch_1_botones001
+    2301600: Switch_1_botones002
+    2301602: tornillo
+    2301604: tornillo001
+    2301606: tornillo002
+    2301608: tornillo003
+    2301610: tornillo004
+    2301612: tornillo005
+    2301614: tornillo007
+    2301616: tornillo008
+    2301618: tornillo009
+    2301620: tornillo010
+    2301622: tornillo011
+    2301624: tornillo012
+    2301626: tornillo013
+    2301628: tornillo014
+    2301630: tornillo015
+    2301632: tornillo016
+    2301634: tornillo017
+    2301636: tornillo018
+    2301638: tornillo019
+    2301640: tornillo025
+    2301642: tornillo026
+    2301644: tornillo027
+    2301646: tornillo028
+    2301648: tornillo029
+    2301650: tornillo030
+    2301652: tornillo031
+    2301654: tornillo032
+    2301656: tornillo049
+    2301658: tornillo051
+    2301660: tornillo053
+    2301662: tornillo054
+    2301664: tornillo059
+    2301666: tornillo060
+    2301668: tornillo061
+    2301670: tornillo062
+    2301672: tornillo063
+    2301674: tornillo064
+    2301676: tornillo075
+    2301678: tornillo076
+    2301680: tornillo077
+    2301682: tornillo078
+    2301684: tornillo079
+    2301686: tornillo080
+    2301688: tornillo081
+    2301690: tornillo082
+    2301692: tornillo083
+    2301694: tornillo084
+    2301696: tornillo085
+    2301698: tornillo086
+    2301700: tornillo087
+    2301702: tornillo088
+    2301704: tornillo089
+    2301706: tornillo090
+    2301708: tornillo091
+    2301710: tornillo092
+    2301712: tornillo093
+    2301714: tornillo094
+    2301716: tornillo095
+    2301718: tornillo096
+    2301720: tornillo097
+    2301722: tornillo098
+    2301724: tornillo228
+    2301726: tornillo229
+    2301728: tornillo230
+    2301730: tornillo231
+    2301732: tornillo232
+    2301734: tornillo233
+    2301736: tornillo234
+    2301738: tornillo235
+    2301740: tornillo236
+    2301742: tornillo237
+    2301744: Tornillo_01.
+    2301746: Tornillo_01. 1
+    2301748: Tornillo_01. 10
+    2301750: Tornillo_01. 11
+    2301752: Tornillo_01. 12
+    2301754: Tornillo_01. 13
+    2301756: Tornillo_01. 14
+    2301758: Tornillo_01. 15
+    2301760: Tornillo_01. 2
+    2301762: Tornillo_01. 3
+    2301764: Tornillo_01. 4
+    2301766: Tornillo_01. 5
+    2301768: Tornillo_01. 6
+    2301770: Tornillo_01. 7
+    2301772: Tornillo_01. 8
+    2301774: Tornillo_01. 9
+    2301776: Tornillo_02.
+    2301778: Tornillo_02. 1
+    2301780: Tornillo_02. 10
+    2301782: Tornillo_02. 11
+    2301784: Tornillo_02. 12
+    2301786: Tornillo_02. 13
+    2301788: Tornillo_02. 14
+    2301790: Tornillo_02. 15
+    2301792: Tornillo_02. 2
+    2301794: Tornillo_02. 3
+    2301796: Tornillo_02. 4
+    2301798: Tornillo_02. 5
+    2301800: Tornillo_02. 6
+    2301802: Tornillo_02. 7
+    2301804: Tornillo_02. 8
+    2301806: Tornillo_02. 9
+    2301808: Tornillo_03.
+    2301810: Tornillo_03. 1
+    2301812: Tornillo_03. 10
+    2301814: Tornillo_03. 11
+    2301816: Tornillo_03. 12
+    2301818: Tornillo_03. 13
+    2301820: Tornillo_03. 14
+    2301822: Tornillo_03. 15
+    2301824: Tornillo_03. 2
+    2301826: Tornillo_03. 3
+    2301828: Tornillo_03. 4
+    2301830: Tornillo_03. 5
+    2301832: Tornillo_03. 6
+    2301834: Tornillo_03. 7
+    2301836: Tornillo_03. 8
+    2301838: Tornillo_03. 9
+    2301840: Tornillo_04.
+    2301842: Tornillo_04. 1
+    2301844: Tornillo_04. 2
+    2301846: Tornillo_04. 3
+    2301848: Tornillo_04. 4
+    2301850: Tornillo_04. 5
+    2301852: Tornillo_04. 6
+    2301854: Tornillo_04. 7
+    2301856: TV 1
+    2301858: Escalera_Techo
+    2301860: Escalera_Techo 1
+    2301862: Escalera_Techo001
+    2301864: Panel_Tornillo002
+    2301866: Panel_Tornillo003
+    2301868: Panel_Tornillo004
+    2301870: Panel_Tornillo005
+    2301872: Panel_Tornillo006
+    2301874: Panel_Tornillo007
+    2301876: Stair_Collider001
+    2301878: Stair_Collider004
+    2301880: Stair_Collider005
+    2301882: Stair_Collider006
+    2301884: Stinger
+    2301886: Stinger 1
+    2301888: Stinger 2
+    3300000: "2C_Ba\xF1o-Cuarto_Pared"
+    3300002: "2C_Ba\xF1o_Pared_E"
+    3300004: "2C_Ba\xF1o_Pared_E001"
+    3300006: "2C_Ba\xF1o_Pared_W"
+    3300008: 2C_Cocina_Pared_002
+    3300010: 2C_Cocina_Pared_003
+    3300012: 2C_Cocina_Pared_1
+    3300014: 2C_Contrafrente_E
+    3300016: 2C_Contrafrente_Pared_N
+    3300018: 2C_Contrafrente_Pared_S
+    3300020: 2C_Cuarto_Pared_Armario
+    3300022: 2C_Cuarto_Pared_S
+    3300024: 2C_Cuarto_Puerta_Marco_Ext004
+    3300026: 2C_Cuarto_Puerta_Marco_Ext005
+    3300028: 2C_Cuarto_Puerta_Marco_Ext006
+    3300030: 2C_Cuarto_Puerta_Marco_Ext010
+    3300032: 2C_Cuarto_Puerta_Marco_Ext011
+    3300034: 2C_Cuarto_Puerta_Marco_Ext012
+    3300036: 2C_Cuarto_Puerta_Marco_Ext013
+    3300038: 2C_Cuarto_Puerta_Marco_Ext014
+    3300040: 2C_Cuarto_Puerta_Marco_Ext015
+    3300042: 2C_Cuarto_Puerta_Marco_Ext016
+    3300044: 2C_Cuarto_Puerta_Marco_Ext017
+    3300046: 2C_Cuarto_Puerta_Marco_Ext018
+    3300048: 2C_Cuarto_Puerta_Marco_Int016
+    3300050: 2C_Cuarto_Puerta_Marco_Int017
+    3300052: 2C_Cuarto_Puerta_Marco_Int018
+    3300054: 2C_Cuarto_Puerta_Marco_Int022
+    3300056: 2C_Cuarto_Puerta_Marco_Int023
+    3300058: 2C_Cuarto_Puerta_Marco_Int024
+    3300060: 2C_Cuarto_Puerta_Marco_Int025
+    3300062: 2C_Cuarto_Puerta_Marco_Int026
+    3300064: 2C_Cuarto_Puerta_Marco_Int027
+    3300066: 2C_Cuarto_Puerta_Marco_Int028
+    3300068: 2C_Cuarto_Puerta_Marco_Int029
+    3300070: 2C_Cuarto_Puerta_Marco_Int030
+    3300072: 2C_Lavadero_Pared_1
+    3300074: 2C_Lavadero_Pared_2
+    3300076: 2C_Lavadero_Pared_3
+    3300078: 2C_Lavadero_Ventana
+    3300080: 2C_Lavadero_Ventana_Vidrio
+    3300082: 2C_Living-Cocina_Pared_O
+    3300084: 2C_Living-Cuarto_Pared
+    3300086: 2C_Living_Mesa
+    3300088: 2C_Living_Pared_N
+    3300090: 2C_Living_Ventana_Barrote01
+    3300092: 2C_Living_Ventana_Barrote02
+    3300094: 2C_Living_Ventana_Barrote03
+    3300096: 2C_Living_Ventana_Barrote04
+    3300098: 2C_Living_Ventana_Barrote05
+    3300100: 2C_Living_Ventana_Barrote06
+    3300102: 2C_Living_Ventana_Barrote07
+    3300104: 2C_Living_Ventana_Barrote08
+    3300106: 2C_Living_Ventana_Barrote09
+    3300108: 2C_Living_Ventana_Barrote10
+    3300110: 2C_Living_Ventana_Barrote11
+    3300112: 2C_Living_Ventana_Barrote12
+    3300114: 2C_Living_Ventana_Barrote13
+    3300116: 2C_Living_Ventana_Barrote14
+    3300118: 2C_Living_Ventana_Barrote15
+    3300120: 2C_Living_Ventana_Barrote16
+    3300122: 2C_Living_Ventana_Barrote17
+    3300124: 2C_Living_Ventana_Barrote18
+    3300126: 2C_Living_Ventana_Barrote19
+    3300128: 2C_Living_Ventana_Barrote20
+    3300130: 2C_Pared_E
+    3300132: 2C_Piso
+    3300134: 2C_Techo
+    3300136: 2P_Puerta_Marco_agujero1
+    3300138: 2P_Puerta_Marco_agujero2
+    3300140: 2P_Puerta_Marco_Ext1
+    3300142: 2P_Puerta_Marco_Ext2
+    3300144: 2P_Puerta_Marco_Ext3
+    3300146: 2P_Puerta_Marco_Int002
+    3300148: 2P_Puerta_Marco_Int1
+    3300150: 2P_Puerta_Marco_Int3
+    3300152: almohada
+    3300154: Armario_Puerta_Der_1 1
+    3300156: Armario_Puerta_Der_2 1
+    3300158: Armario_Puerta_Izq_1 1
+    3300160: Armario_Puerta_Izq_2 1
+    3300162: Asensor_agujero
+    3300164: Asensor_Base
+    3300166: Asensor_boton
+    3300168: Asensor_Boton.
+    3300170: Asensor_Boton. 1
+    3300172: Asensor_Boton. 2
+    3300174: Asensor_Boton_Marco.
+    3300176: Asensor_Boton_Marco. 1
+    3300178: Asensor_Boton_Marco. 2
+    3300180: Asensor_Lookhole_Ext.
+    3300182: Asensor_Lookhole_Ext. 1
+    3300184: Asensor_Lookhole_Ext. 2
+    3300186: Asensor_Lookhole_Int.
+    3300188: Asensor_Lookhole_Int. 1
+    3300190: Asensor_Lookhole_Int. 2
+    3300192: Asensor_manija
+    3300194: Asensor_manija_base
+    3300196: Asensor_Panel. 3
+    3300198: Asensor_Panel. 4
+    3300200: Asensor_Panel. 5
+    3300202: Asensor_Pantalla
+    3300204: Asensor_Pantalla.
+    3300206: Asensor_Pantalla. 1
+    3300208: Asensor_Pantalla. 2
+    3300210: Asensor_puerta_base
+    3300212: Asensor_Puerta_Ext_01.
+    3300214: Asensor_Puerta_Ext_01. 1
+    3300216: Asensor_Puerta_Ext_01. 2
+    3300218: Asensor_Puerta_Ext_02.
+    3300220: Asensor_Puerta_Ext_02. 1
+    3300222: Asensor_Puerta_Ext_02. 10
+    3300224: Asensor_Puerta_Ext_02. 11
+    3300226: Asensor_Puerta_Ext_02. 12
+    3300228: Asensor_Puerta_Ext_02. 13
+    3300230: Asensor_Puerta_Ext_02. 14
+    3300232: Asensor_Puerta_Ext_02. 2
+    3300234: Asensor_Puerta_Ext_02. 3
+    3300236: Asensor_Puerta_Ext_02. 4
+    3300238: Asensor_Puerta_Ext_02. 5
+    3300240: Asensor_Puerta_Ext_02. 6
+    3300242: Asensor_Puerta_Ext_02. 7
+    3300244: Asensor_Puerta_Ext_02. 8
+    3300246: Asensor_Puerta_Ext_02. 9
+    3300248: Asensor_Puerta_Ext_Manija_01.
+    3300250: Asensor_Puerta_Ext_Manija_01. 1
+    3300252: Asensor_Puerta_Ext_Manija_01. 2
+    3300254: Asensor_Puerta_Ext_Manija_02.
+    3300256: Asensor_Puerta_Ext_Manija_02. 1
+    3300258: Asensor_Puerta_Ext_Manija_02. 2
+    3300260: Asensor_Puerta_Ext_Manija_03.
+    3300262: Asensor_Puerta_Ext_Manija_03. 1
+    3300264: Asensor_Puerta_Ext_Manija_03. 2
+    3300266: Asensor_Puerta_Ext_Nexo. 10
+    3300268: Asensor_Puerta_Ext_Nexo. 11
+    3300270: Asensor_Puerta_Ext_Nexo. 12
+    3300272: Asensor_Puerta_Ext_Nexo. 13
+    3300274: Asensor_Puerta_Ext_Nexo. 14
+    3300276: Asensor_Puerta_Ext_Nexo. 15
+    3300278: Asensor_Puerta_Ext_Nexo. 16
+    3300280: Asensor_Puerta_Ext_Nexo. 17
+    3300282: Asensor_Puerta_Ext_Nexo. 18
+    3300284: Asensor_Puerta_Ext_Nexo. 19
+    3300286: Asensor_Puerta_Ext_Nexo. 20
+    3300288: Asensor_Puerta_Ext_Nexo. 21
+    3300290: Asensor_Puerta_Ext_Nexo. 22
+    3300292: Asensor_Puerta_Ext_Nexo. 23
+    3300294: Asensor_Puerta_Ext_Nexo. 24
+    3300296: Asensor_Puerta_Ext_Nexo. 25
+    3300298: Asensor_Puerta_Ext_Nexo. 26
+    3300300: Asensor_Puerta_Ext_Nexo. 27
+    3300302: Asensor_Puerta_Ext_Nexo. 28
+    3300304: Asensor_Puerta_Ext_Nexo. 29
+    3300306: Asensor_Puerta_Ext_Nexo. 30
+    3300308: Asensor_Puerta_Ext_Nexo. 31
+    3300310: Asensor_Puerta_Ext_Nexo. 32
+    3300312: Asensor_Puerta_Ext_Nexo. 9
+    3300314: Asensor_Puerta_Int_01.
+    3300316: Asensor_Puerta_Int_01. 1
+    3300318: Asensor_Puerta_Int_01. 2
+    3300320: Asensor_Puerta_Int_02.
+    3300322: Asensor_Puerta_Int_02. 1
+    3300324: Asensor_Puerta_Int_02. 10
+    3300326: Asensor_Puerta_Int_02. 11
+    3300328: Asensor_Puerta_Int_02. 12
+    3300330: Asensor_Puerta_Int_02. 13
+    3300332: Asensor_Puerta_Int_02. 14
+    3300334: Asensor_Puerta_Int_02. 2
+    3300336: Asensor_Puerta_Int_02. 3
+    3300338: Asensor_Puerta_Int_02. 4
+    3300340: Asensor_Puerta_Int_02. 5
+    3300342: Asensor_Puerta_Int_02. 6
+    3300344: Asensor_Puerta_Int_02. 7
+    3300346: Asensor_Puerta_Int_02. 8
+    3300348: Asensor_Puerta_Int_02. 9
+    3300350: Asensor_Puerta_Marco.
+    3300352: Asensor_Puerta_Marco. 1
+    3300354: Asensor_Puerta_Marco. 2
+    3300356: Base_base
+    3300358: Base_nexo
+    3300360: "Ba\xF1o_Bidet"
+    3300362: "Ba\xF1o_Lavamanos_Canilla"
+    3300364: "Ba\xF1o_Llavamanos"
+    3300366: "Ba\xF1o_Mesada"
+    3300368: cama
+    3300370: cerradura1_agujero
+    3300372: Cerradura1_agujero.
+    3300374: Cerradura1_agujero. 1
+    3300376: Cerradura1_agujero. 2
+    3300378: Cerradura1_agujero. 3
+    3300380: Cerradura1_agujero. 4
+    3300382: Cerradura1_agujero. 5
+    3300384: Cerradura1_agujero. 6
+    3300386: Cerradura1_agujero. 7
+    3300388: cerradura1_base
+    3300390: Cerradura1_base.
+    3300392: Cerradura1_base. 1
+    3300394: Cerradura1_base. 2
+    3300396: Cerradura1_base. 3
+    3300398: Cerradura1_base. 4
+    3300400: Cerradura1_base. 5
+    3300402: Cerradura1_base. 6
+    3300404: Cerradura1_base. 7
+    3300406: cerradura2_agujero
+    3300408: cerradura2_agujero 1
+    3300410: cerradura2_agujero 2
+    3300412: Cerradura2_agujero.
+    3300414: Cerradura2_agujero. 1
+    3300416: Cerradura2_agujero. 2
+    3300418: Cerradura2_agujero. 3
+    3300420: Cerradura2_agujero. 4
+    3300422: Cerradura2_agujero. 5
+    3300424: Cerradura2_agujero. 6
+    3300426: Cerradura2_agujero. 7
+    3300428: cerradura2_agujero001
+    3300430: cerradura2_base
+    3300432: Cerradura2_base.
+    3300434: Cerradura2_base. 1
+    3300436: Cerradura2_base. 2
+    3300438: Cerradura2_base. 3
+    3300440: Cerradura2_base. 4
+    3300442: Cerradura2_base. 5
+    3300444: Cerradura2_base. 6
+    3300446: Cerradura2_base. 7
+    3300448: cerradura2_base001
+    3300450: cerradura_A_1_base001
+    3300452: cerradura_A_1_base002
+    3300454: cerradura_A_1_base006
+    3300456: cerradura_A_1_base007
+    3300458: cerradura_A_1_base010
+    3300460: cerradura_A_1_base011
+    3300462: cerradura_A_1_base012
+    3300464: cerradura_A_1_base013
+    3300466: cerradura_A_1_base014
+    3300468: cerradura_A_1_base015
+    3300470: cerradura_A_2_agujero001
+    3300472: cerradura_B_2_agujero002
+    3300474: cerradura_picaporte
+    3300476: cerradura_picaporte002
+    3300478: cerradura_picaporte004
+    3300480: cerradura_picaporte005
+    3300482: cerradura_picaporte006
+    3300484: cerradura_picaporte007
+    3300486: cerradura_picaporte008
+    3300488: cerradura_picaporte011
+    3300490: cerradura_picaporte012
+    3300492: cerradura_picaporte013
+    3300494: cerradura_picaporte014
+    3300496: cerradura_picaporte015
+    3300498: cerradura_picaporte016
+    3300500: cerradura_picaporte1
+    3300502: cerradura_portapico001
+    3300504: cerradura_portapico003
+    3300506: cerradura_portapico004
+    3300508: cerradura_portapico006
+    3300510: cerradura_portapico007
+    3300512: cerradura_portapico008
+    3300514: ChamferCyl01
+    3300516: Cuarto_Luz_Base
+    3300518: Cuarto_Luz_Pantalla
+    3300520: Cuarto_Ventana_L
+    3300522: Cuarto_Ventana_Marco
+    3300524: Cuarto_Ventana_R
+    3300526: Cylinder001
+    3300528: Cylinder004
+    3300530: Cylinder005
+    3300532: Cylinder083
+    3300534: "Ducha_Ba\xF1adera"
+    3300536: Ducha_Canilla
+    3300538: Ellipse01
+    3300540: Ellipse02
+    3300542: Entrada_Pared 1
+    3300544: Entrada_Pared_Zocalo
+    3300546: Entrada_Puerta 2
+    3300548: Entrada_Puerta_Cerradura
+    3300550: Entrada_Puerta_Manija
+    3300552: Entrada_Puerta_Vidrios
+    3300554: Escalera_1
+    3300556: escalera_2
+    3300558: escalera_2 1
+    3300560: escalera_2 2
+    3300562: Escalera_Panel
+    3300564: Escalera_Pared
+    3300566: Escalera_Pared 1
+    3300568: Escalera_Pared 2
+    3300570: Hindge_007
+    3300572: Hindge_008
+    3300574: Hindge_009
+    3300576: Hindge_013
+    3300578: Hindge_014
+    3300580: Hindge_015
+    3300582: Hindge_016
+    3300584: Hindge_017
+    3300586: Hindge_018
+    3300588: Hindge_019
+    3300590: Hindge_020
+    3300592: Hindge_021
+    3300594: Hindge_1
+    3300596: Hindge_2
+    3300598: Hindge_3
+    3300600: keyboardMouse_cgaxis_electronics_25_01
+    3300602: keyboardMouse_cgaxis_electronics_25_02
+    3300604: keyboardMouse_cgaxis_electronics_25_03
+    3300606: keyboardMouse_Object01
+    3300608: keyboardMouse_Object02
+    3300610: Living_Luz_Base
+    3300612: Living_Luz_Pantalla
+    3300614: Living_Ventana 1
+    3300616: lookhole001
+    3300618: lookhole002
+    3300620: lookhole004
+    3300622: lookhole005
+    3300624: lookhole007
+    3300626: lookhole_A_agujero
+    3300628: Lookhole_B.
+    3300630: Lookhole_B. 1
+    3300632: Lookhole_B. 2
+    3300634: Lookhole_B. 3
+    3300636: Lookhole_B. 4
+    3300638: Lookhole_B. 5
+    3300640: Lookhole_B. 6
+    3300642: Lookhole_B. 7
+    3300644: Lookhole_B_agujero.
+    3300646: Lookhole_B_agujero. 1
+    3300648: Lookhole_B_agujero. 2
+    3300650: Lookhole_B_agujero. 3
+    3300652: Lookhole_B_agujero. 4
+    3300654: Lookhole_B_agujero. 5
+    3300656: Lookhole_B_agujero. 6
+    3300658: Lookhole_B_agujero. 7
+    3300660: lookhole_B_agujero001
+    3300662: lookhole_B_agujero002
+    3300664: MANIJA AFUERA
+    3300666: MANIJA AFUERA001
+    3300668: Manija Afuera_Base. 10
+    3300670: Manija Afuera_Base. 11
+    3300672: Manija Afuera_Base. 12
+    3300674: Manija Afuera_Base. 13
+    3300676: Manija Afuera_Base. 14
+    3300678: Manija Afuera_Base. 15
+    3300680: Manija Afuera_Base. 16
+    3300682: Manija Afuera_Base. 17
+    3300684: Manija Afuera_Base. 18
+    3300686: Manija Afuera_Base. 19
+    3300688: Manija Afuera_Base. 20
+    3300690: Manija Afuera_Base. 21
+    3300692: Manija Afuera_Base. 22
+    3300694: Manija Afuera_Base. 23
+    3300696: Manija Afuera_Base. 24
+    3300698: Manija Afuera_Base. 25
+    3300700: Manija Afuera_Base. 8
+    3300702: Manija Afuera_Base. 9
+    3300704: MANIJA AFUERA_BASE002
+    3300706: MANIJA AFUERA_BASE004
+    3300708: Manija Afuera_Base_01.
+    3300710: Manija Afuera_Base_01. 1
+    3300712: Manija Afuera_Base_02.
+    3300714: Manija Afuera_Base_02. 1
+    3300716: Manija Afuera_Base_03.
+    3300718: Manija Afuera_Base_03. 1
+    3300720: Manija_A
+    3300722: Manija_A003
+    3300724: Manija_A004
+    3300726: Manija_A007
+    3300728: Manija_A008
+    3300730: Manija_A009
+    3300732: Manija_A010
+    3300734: Manija_A011
+    3300736: Manija_A012
+    3300738: Manija_A_base
+    3300740: Manija_A_base002
+    3300742: Manija_A_base003
+    3300744: Manija_A_base010
+    3300746: Manija_A_base012
+    3300748: Manija_A_base014
+    3300750: Manija_A_base015
+    3300752: Manija_A_base020
+    3300754: Manija_A_base021
+    3300756: Manija_A_base022
+    3300758: Manija_A_base023
+    3300760: Manija_A_base024
+    3300762: Manija_A_base025
+    3300764: Manija_A_base026
+    3300766: Manija_A_base027
+    3300768: Manija_A_base028
+    3300770: Manija_A_base029
+    3300772: Manija_A_base030
+    3300774: Manija_A_base031
+    3300776: Manija_A_manija
+    3300778: Manija_A_manija003
+    3300780: Manija_A_manija004
+    3300782: Manija_A_manija007
+    3300784: Manija_A_manija008
+    3300786: Manija_A_manija009
+    3300788: Manija_A_manija010
+    3300790: Manija_A_manija011
+    3300792: Manija_A_manija012
+    3300794: P1_Piso
+    3300796: P1_Techo
+    3300798: P2_Piso
+    3300800: P2_Techo
+    3300802: P3_Piso
+    3300804: P3_Techo
+    3300806: Panel_N
+    3300808: Panel_S
+    3300810: Panel_Tornillo 14
+    3300812: Panel_Tornillo 15
+    3300814: Panel_Tornillo 16
+    3300816: Panel_Tornillo 17
+    3300818: Panel_Tornillo 18
+    3300820: Panel_Tornillo 19
+    3300822: Panel_Tornillo 20
+    3300824: Panel_Tornillo 21
+    3300826: Panel_Tornillo 22
+    3300828: Panel_Tornillo 23
+    3300830: Panel_Tornillo 24
+    3300832: Panel_Tornillo 25
+    3300834: Panel_Tornillo 26
+    3300836: Panel_Tornillo 27
+    3300838: Panel_Tornillo 28
+    3300840: Panel_Tornillo 29
+    3300842: Panel_Tornillo 30
+    3300844: Panel_Tornillo 31
+    3300846: Panel_Tornillo 32
+    3300848: Panel_Tornillo 33
+    3300850: Panel_Tornillo 34
+    3300852: Panel_Tornillo 35
+    3300854: Panel_Tornillo 36
+    3300856: Panel_Tornillo 37
+    3300858: Panel_Tornillo 38
+    3300860: Panel_Tornillo 39
+    3300862: Panel_Tornillo 40
+    3300864: Panel_Tornillo 41
+    3300866: Panel_Tornillo 42
+    3300868: Panel_Tornillo 43
+    3300870: Panel_Tornillo 44
+    3300872: Panel_Tornillo 45
+    3300874: Panel_Tornillo 46
+    3300876: Panel_Tornillo 47
+    3300878: Panel_Tornillo 48
+    3300880: Panel_Tornillo 49
+    3300882: Panel_Tornillo 50
+    3300884: Panel_Tornillo 51
+    3300886: Panel_Tornillo 52
+    3300888: Panel_Tornillo 53
+    3300890: Panel_Tornillo 54
+    3300892: Panel_Tornillo 55
+    3300894: Panel_Tornillo 56
+    3300896: Panel_Tornillo 57
+    3300898: Panel_Tornillo 58
+    3300900: Panel_Tornillo 59
+    3300902: Panel_Tornillo 60
+    3300904: Panel_Tornillo 61
+    3300906: Panel_Tornillo 62
+    3300908: Panel_Tornillo 63
+    3300910: Panel_Tornillo 64
+    3300912: Panel_Tornillo 65
+    3300914: Panel_Tornillo 66
+    3300916: Panel_Tornillo 67
+    3300918: Panel_Tornillo 68
+    3300920: Panel_Tornillo 69
+    3300922: Panel_Tornillo 70
+    3300924: Panel_Tornillo 71
+    3300926: Panel_Tornillo 72
+    3300928: Panel_Tornillo 73
+    3300930: Pared_E 4
+    3300932: Pared_E 5
+    3300934: Pared_E 6
+    3300936: Pared_E_Extrude
+    3300938: Pared_E_Extrude 1
+    3300940: Pared_E_Extrude 2
+    3300942: Pared_extrude
+    3300944: Pared_extrude 1
+    3300946: Pared_medio
+    3300948: Pared_medio 1
+    3300950: Pared_N_extrude
+    3300952: Pared_N_medio
+    3300954: Pared_N_Zocalo
+    3300956: Pared_O_Extrude
+    3300958: Pared_O_Extrude 1
+    3300960: Pared_O_Extrude 2
+    3300962: Pared_O_Pared
+    3300964: Pared_O_Pared 1
+    3300966: Pared_O_Pared 2
+    3300968: Pared_O_Zocalos
+    3300970: Pared_O_Zocalos 1
+    3300972: Pared_O_Zocalos 2
+    3300974: Pared_S_01 1
+    3300976: Pared_S_01_Zocalo
+    3300978: Pared_S_02 1
+    3300980: Pared_S_02_Zocalo
+    3300982: Pared_S_Extrude
+    3300984: Pared_S_Extrude 1
+    3300986: Pared_S_Extrude 2
+    3300988: Pared_S_Pared
+    3300990: Pared_S_Pared 1
+    3300992: Pared_S_Pared 2
+    3300994: Pared_S_Zocalos
+    3300996: Pared_S_Zocalos 1
+    3300998: Pared_S_Zocalos 2
+    3301000: Pared_Zocalo
+    3301002: Pared_Zocalo 1
+    3301004: Parlante_marco
+    3301006: Parlante_parlante
+    3301008: Parlante_tela
+    3301010: Pasillo_Luz_Base
+    3301012: Pasillo_Luz_Base 1
+    3301014: Pasillo_Luz_Base 2
+    3301016: Pasillo_Luz_Base005
+    3301018: Pasillo_Luz_Base006
+    3301020: Pasillo_Luz_Base007
+    3301022: Pasillo_Luz_Base008
+    3301024: Pasillo_Luz_Pantalla 4
+    3301026: Pasillo_Luz_Pantalla 5
+    3301028: Pasillo_Luz_Pantalla 6
+    3301030: Pasillo_Luz_Pantalla 7
+    3301032: Pasillo_Luz_Pantalla 8
+    3301034: Pasillo_Luz_Pantalla 9
+    3301036: Pasillo_Luz_Pantalla004
+    3301038: Pasillo_Luz_Pantalla005
+    3301040: Pasillo_Luz_Pantalla007
+    3301042: Pasillo_Luz_Pantalla008
+    3301044: Pasillo_Luz_Pantalla01
+    3301046: Pasillo_Luz_Pantalla010
+    3301048: Pasillo_Luz_Pantalla011
+    3301050: Pasillo_Luz_Pantalla02
+    3301052: Pasillo_Luz_Tornillo
+    3301054: Pasillo_Luz_Tornillo 1
+    3301056: Pasillo_Luz_Tornillo 2
+    3301058: Pasillo_Luz_Tornillo 3
+    3301060: Pasillo_Luz_Tornillo 4
+    3301062: Pasillo_Luz_Tornillo 5
+    3301064: Pasillo_Luz_Tornillo 6
+    3301066: Pasillo_Luz_Tornillo 7
+    3301068: Pasillo_Luz_Tornillo 8
+    3301070: Pasillo_Luz_Tornillo004
+    3301072: Pasillo_Luz_Tornillo005
+    3301074: Pasillo_Luz_Tornillo006
+    3301076: Pasillo_Luz_Tornillo007
+    3301078: Pasillo_Luz_Tornillo008
+    3301080: Pasillo_Luz_Tornillo009
+    3301082: Pasillo_Luz_Tornillo01
+    3301084: Pasillo_Luz_Tornillo010
+    3301086: Pasillo_Luz_Tornillo011
+    3301088: Pasillo_Luz_Tornillo012
+    3301090: Pasillo_Luz_Tornillo02
+    3301092: Pasillo_Luz_Tornillo03
+    3301094: Pasillo_Ventana_Marco
+    3301096: Pasillo_Ventana_Vidrio
+    3301098: PB_Asensor_Puerta
+    3301100: PB_E_Panel_01
+    3301102: PB_E_Panel_02
+    3301104: PB_E_Puerta_Marco
+    3301106: PB_E_Puerta_Marco001
+    3301108: PB_E_Puerta_Marco002
+    3301110: PB_Entrada_Luz_Base_1.
+    3301112: PB_Entrada_Luz_Base_1. 1
+    3301114: PB_Entrada_Luz_Base_1. 2
+    3301116: PB_Entrada_Luz_Base_1. 3
+    3301118: PB_Entrada_Luz_Base_2.
+    3301120: PB_Entrada_Luz_Base_2. 1
+    3301122: PB_Entrada_Luz_Base_2. 2
+    3301124: PB_Entrada_Luz_Base_2. 3
+    3301126: PB_Entrada_Luz_Pantalla
+    3301128: PB_Entrada_Luz_Pantalla 1
+    3301130: PB_Entrada_Luz_Pantalla 2
+    3301132: PB_Entrada_Luz_Pantalla 3
+    3301134: PB_Entrada_Pared_E
+    3301136: PB_Entrada_Pared_E_Espejo
+    3301138: PB_Entrada_Pared_E_Zocalo
+    3301140: PB_Entrada_Pared_S
+    3301142: PB_Entrada_Pared_S_Espejo
+    3301144: PB_Entrada_Pared_S_Zocalo
+    3301146: PB_Entrada_Piso
+    3301148: PB_Entrada_Puerta_Marco
+    3301150: PB_Entrada_Vidrios
+    3301152: PB_Escalera_Pared
+    3301154: PB_Escalon_!
+    3301156: PB_Escalon_2
+    3301158: PB_Luz_Base_1.
+    3301160: PB_Luz_Base_1. 1
+    3301162: PB_Luz_Base_1. 2
+    3301164: PB_Luz_Base_2.
+    3301166: PB_Luz_Base_2. 1
+    3301168: PB_Luz_Base_2. 2
+    3301170: PB_Luz_Pantalla
+    3301172: PB_Luz_Pantalla 1
+    3301174: PB_Luz_Pantalla 2
+    3301176: PB_Marco01
+    3301178: PB_Marco02
+    3301180: PB_Marco03
+    3301182: PB_Marco04
+    3301184: PB_Marco_base
+    3301186: PB_Marco_Luz_Base
+    3301188: PB_Marco_Luz_Base 1
+    3301190: PB_Marco_Luz_Pantalla
+    3301192: PB_Marco_Luz_Pantalla 1
+    3301194: PB_N_Panel_01
+    3301196: PB_N_Panel_02
+    3301198: PB_N_Panel_03
+    3301200: PB_N_Panel_04
+    3301202: PB_N_Panel_05
+    3301204: PB_N_Panel_06
+    3301206: PB_N_Panel_07
+    3301208: PB_N_Panel_08
+    3301210: PB_N_Panel_09_bot
+    3301212: PB_N_Panel_09_top
+    3301214: PB_N_Panel_10_bot
+    3301216: PB_N_Panel_10_top
+    3301218: PB_N_Panel_11
+    3301220: PB_N_Panel_12
+    3301222: PB_Pasillo_Pared_N 1
+    3301224: PB_Pasillo_Pared_N_Zocalo
+    3301226: PB_Pasillo_Piso
+    3301228: PB_Pasillo_Puerta
+    3301230: PB_Pasillo_Puerta_marco
+    3301232: PB_Puerta_A
+    3301234: PB_S_Panel_013
+    3301236: PB_S_Panel_014
+    3301238: PB_S_Panel_015
+    3301240: PB_S_Panel_016
+    3301242: PB_S_Panel_017
+    3301244: PB_S_Panel_018
+    3301246: PB_S_Panel_019
+    3301248: PB_S_Panel_020
+    3301250: PB_S_Panel_023
+    3301252: PB_S_Panel_024
+    3301254: PB_S_Panel_025
+    3301256: PB_S_Panel_026
+    3301258: PB_S_Puerta
+    3301260: PB_S_Puerta_Marco001
+    3301262: PB_S_Puerta_Marco002
+    3301264: PB_S_Puerta_Marco003
+    3301266: PB_Techo
+    3301268: PC_obj_01
+    3301270: PC_obj_02
+    3301272: PC_obj_03
+    3301274: pole C
+    3301276: pole C_1
+    3301278: pole C_1 1
+    3301280: pole C_1 2
+    3301282: pole C_2
+    3301284: pole C_2 1
+    3301286: pole C_2 2
+    3301288: pole L
+    3301290: pole L 1
+    3301292: pole L 2
+    3301294: pole L 3
+    3301296: pole R
+    3301298: pole R 1
+    3301300: pole R 2
+    3301302: pole R 3
+    3301304: PUERTA
+    3301306: Puerta manija_base
+    3301308: Puerta manija_cerradura
+    3301310: Puerta. 16
+    3301312: Puerta. 17
+    3301314: Puerta. 18
+    3301316: Puerta. 19
+    3301318: Puerta. 20
+    3301320: Puerta. 21
+    3301322: Puerta. 22
+    3301324: Puerta. 23
+    3301326: PUERTA002
+    3301328: PUERTA004
+    3301330: PUERTA005
+    3301332: PUERTA036
+    3301334: Puerta_manija001
+    3301336: Puerta_Marco_Ext_01.
+    3301338: Puerta_Marco_Ext_01. 1
+    3301340: Puerta_Marco_Ext_01. 2
+    3301342: Puerta_Marco_Ext_01. 3
+    3301344: Puerta_Marco_Ext_01. 4
+    3301346: Puerta_Marco_Ext_01. 5
+    3301348: Puerta_Marco_Ext_01. 6
+    3301350: Puerta_Marco_Ext_01. 7
+    3301352: Puerta_Marco_Ext_02.
+    3301354: Puerta_Marco_Ext_02. 1
+    3301356: Puerta_Marco_Ext_02. 2
+    3301358: Puerta_Marco_Ext_02. 3
+    3301360: Puerta_Marco_Ext_02. 4
+    3301362: Puerta_Marco_Ext_02. 5
+    3301364: Puerta_Marco_Ext_02. 6
+    3301366: Puerta_Marco_Ext_02. 7
+    3301368: Puerta_Marco_Ext_03.
+    3301370: Puerta_Marco_Ext_03. 1
+    3301372: Puerta_Marco_Ext_03. 2
+    3301374: Puerta_Marco_Ext_03. 3
+    3301376: Puerta_Marco_Ext_03. 4
+    3301378: Puerta_Marco_Ext_03. 5
+    3301380: Puerta_Marco_Ext_03. 6
+    3301382: Puerta_Marco_Ext_03. 7
+    3301384: Puerta_x 3
+    3301386: Puerta_x 4
+    3301388: Puerta_x 5
+    3301390: Puerta_x_Manija_01
+    3301392: Puerta_x_Manija_01 1
+    3301394: Puerta_x_Manija_01 2
+    3301396: Puerta_x_Manija_02
+    3301398: Puerta_x_Manija_02 1
+    3301400: Puerta_x_Manija_02 2
+    3301402: Puerta_x_Marco_Ext_01
+    3301404: Puerta_x_Marco_Ext_01 1
+    3301406: Puerta_x_Marco_Ext_01 2
+    3301408: Puerta_x_Marco_Ext_02
+    3301410: Puerta_x_Marco_Ext_02 1
+    3301412: Puerta_x_Marco_Ext_02 2
+    3301414: Puerta_x_Marco_Ext_03
+    3301416: Puerta_x_Marco_Ext_03 1
+    3301418: Puerta_x_Marco_Ext_03 2
+    3301420: Rectangle01
+    3301422: Rectangle02
+    3301424: Reja_Barrote_1_01
+    3301426: Reja_Barrote_1_02
+    3301428: Reja_Barrote_1_03
+    3301430: Reja_Barrote_1_04
+    3301432: Reja_Barrote_1_05
+    3301434: Reja_Barrote_1_06
+    3301436: Reja_Barrote_1_07
+    3301438: Reja_Barrote_1_08
+    3301440: Reja_Barrote_2_01
+    3301442: Reja_Barrote_2_02
+    3301444: Reja_Barrote_2_03
+    3301446: Reja_Barrote_2_04
+    3301448: Reja_Barrote_2_05
+    3301450: Reja_Barrote_2_06
+    3301452: Reja_Barrote_2_07
+    3301454: Reja_Barrote_2_08
+    3301456: riel_bot
+    3301458: riel_bot 1
+    3301460: riel_bot 2
+    3301462: riel_bot 3
+    3301464: riel_mid
+    3301466: riel_mid 1
+    3301468: riel_mid 2
+    3301470: riel_mid 3
+    3301472: riel_top
+    3301474: riel_top 1
+    3301476: riel_top 2
+    3301478: riel_top 3
+    3301480: Screen
+    3301482: Shape01
+    3301484: Silla_ChamferBox01
+    3301486: Silla_ChamferBox015
+    3301488: Silla_ChamferBox016
+    3301490: Silla_ChamferBox017
+    3301492: Silla_ChamferBox02
+    3301494: Silla_ChamferBox05
+    3301496: Silla_ChamferBox06
+    3301498: Silla_Circle03
+    3301500: Silla_Circle04
+    3301502: Silla_Circle05
+    3301504: Silla_Circle06
+    3301506: Silla_Circle07
+    3301508: Silla_Cylinder012
+    3301510: Silla_Cylinder013
+    3301512: Silla_Cylinder014
+    3301514: Silla_Cylinder015
+    3301516: Silla_Cylinder016
+    3301518: Silla_Cylinder02
+    3301520: Silla_Cylinder06
+    3301522: Silla_Cylinder07
+    3301524: Silla_Cylinder08
+    3301526: Silla_Cylinder09
+    3301528: Silla_Cylinder10
+    3301530: Silla_Cylinder12
+    3301532: Silla_Cylinder13
+    3301534: Silla_Cylinder15
+    3301536: Silla_Cylinder16
+    3301538: Silla_Cylinder17
+    3301540: Silla_Cylinder18
+    3301542: Silla_Line01
+    3301544: Silla_Line02
+    3301546: Silla_Line03
+    3301548: Silla_Line04
+    3301550: Silla_Line05
+    3301552: Silla_Loft005
+    3301554: Silla_Loft006
+    3301556: Silla_Loft03
+    3301558: Silla_Loft04
+    3301560: Silla_OilTank01
+    3301562: Silla_OilTank02
+    3301564: Silla_OilTank03
+    3301566: Silla_OilTank04
+    3301568: Silla_OilTank05
+    3301570: Silla_OilTank06
+    3301572: Silla_OilTank07
+    3301574: Silla_OilTank08
+    3301576: Silla_OilTank09
+    3301578: Silla_OilTank10
+    3301580: Silla_Rectangle011
+    3301582: Silla_Sphere01
+    3301584: Stringer_box
+    3301586: Sub 1
+    3301588: Sub_base
+    3301590: Switch_001
+    3301592: Switch_002
+    3301594: Switch_003
+    3301596: Switch_1_botones
+    3301598: Switch_1_botones001
+    3301600: Switch_1_botones002
+    3301602: tornillo
+    3301604: tornillo001
+    3301606: tornillo002
+    3301608: tornillo003
+    3301610: tornillo004
+    3301612: tornillo005
+    3301614: tornillo007
+    3301616: tornillo008
+    3301618: tornillo009
+    3301620: tornillo010
+    3301622: tornillo011
+    3301624: tornillo012
+    3301626: tornillo013
+    3301628: tornillo014
+    3301630: tornillo015
+    3301632: tornillo016
+    3301634: tornillo017
+    3301636: tornillo018
+    3301638: tornillo019
+    3301640: tornillo025
+    3301642: tornillo026
+    3301644: tornillo027
+    3301646: tornillo028
+    3301648: tornillo029
+    3301650: tornillo030
+    3301652: tornillo031
+    3301654: tornillo032
+    3301656: tornillo049
+    3301658: tornillo051
+    3301660: tornillo053
+    3301662: tornillo054
+    3301664: tornillo059
+    3301666: tornillo060
+    3301668: tornillo061
+    3301670: tornillo062
+    3301672: tornillo063
+    3301674: tornillo064
+    3301676: tornillo075
+    3301678: tornillo076
+    3301680: tornillo077
+    3301682: tornillo078
+    3301684: tornillo079
+    3301686: tornillo080
+    3301688: tornillo081
+    3301690: tornillo082
+    3301692: tornillo083
+    3301694: tornillo084
+    3301696: tornillo085
+    3301698: tornillo086
+    3301700: tornillo087
+    3301702: tornillo088
+    3301704: tornillo089
+    3301706: tornillo090
+    3301708: tornillo091
+    3301710: tornillo092
+    3301712: tornillo093
+    3301714: tornillo094
+    3301716: tornillo095
+    3301718: tornillo096
+    3301720: tornillo097
+    3301722: tornillo098
+    3301724: tornillo228
+    3301726: tornillo229
+    3301728: tornillo230
+    3301730: tornillo231
+    3301732: tornillo232
+    3301734: tornillo233
+    3301736: tornillo234
+    3301738: tornillo235
+    3301740: tornillo236
+    3301742: tornillo237
+    3301744: Tornillo_01.
+    3301746: Tornillo_01. 1
+    3301748: Tornillo_01. 10
+    3301750: Tornillo_01. 11
+    3301752: Tornillo_01. 12
+    3301754: Tornillo_01. 13
+    3301756: Tornillo_01. 14
+    3301758: Tornillo_01. 15
+    3301760: Tornillo_01. 2
+    3301762: Tornillo_01. 3
+    3301764: Tornillo_01. 4
+    3301766: Tornillo_01. 5
+    3301768: Tornillo_01. 6
+    3301770: Tornillo_01. 7
+    3301772: Tornillo_01. 8
+    3301774: Tornillo_01. 9
+    3301776: Tornillo_02.
+    3301778: Tornillo_02. 1
+    3301780: Tornillo_02. 10
+    3301782: Tornillo_02. 11
+    3301784: Tornillo_02. 12
+    3301786: Tornillo_02. 13
+    3301788: Tornillo_02. 14
+    3301790: Tornillo_02. 15
+    3301792: Tornillo_02. 2
+    3301794: Tornillo_02. 3
+    3301796: Tornillo_02. 4
+    3301798: Tornillo_02. 5
+    3301800: Tornillo_02. 6
+    3301802: Tornillo_02. 7
+    3301804: Tornillo_02. 8
+    3301806: Tornillo_02. 9
+    3301808: Tornillo_03.
+    3301810: Tornillo_03. 1
+    3301812: Tornillo_03. 10
+    3301814: Tornillo_03. 11
+    3301816: Tornillo_03. 12
+    3301818: Tornillo_03. 13
+    3301820: Tornillo_03. 14
+    3301822: Tornillo_03. 15
+    3301824: Tornillo_03. 2
+    3301826: Tornillo_03. 3
+    3301828: Tornillo_03. 4
+    3301830: Tornillo_03. 5
+    3301832: Tornillo_03. 6
+    3301834: Tornillo_03. 7
+    3301836: Tornillo_03. 8
+    3301838: Tornillo_03. 9
+    3301840: Tornillo_04.
+    3301842: Tornillo_04. 1
+    3301844: Tornillo_04. 2
+    3301846: Tornillo_04. 3
+    3301848: Tornillo_04. 4
+    3301850: Tornillo_04. 5
+    3301852: Tornillo_04. 6
+    3301854: Tornillo_04. 7
+    3301856: TV 1
+    3301858: Escalera_Techo
+    3301860: Escalera_Techo 1
+    3301862: Escalera_Techo001
+    3301864: Panel_Tornillo002
+    3301866: Panel_Tornillo003
+    3301868: Panel_Tornillo004
+    3301870: Panel_Tornillo005
+    3301872: Panel_Tornillo006
+    3301874: Panel_Tornillo007
+    3301876: Stair_Collider001
+    3301878: Stair_Collider004
+    3301880: Stair_Collider005
+    3301882: Stair_Collider006
+    3301884: Stinger
+    3301886: Stinger 1
+    3301888: Stinger 2
+    4300000: P1_Piso
+    4300002: P1_Techo
+    4300004: Pasillo_Luz_Tornillo
+    4300006: Pasillo_Luz_Pantalla
+    4300008: Pasillo_Luz_Pantalla
+    4300010: Pasillo_Luz_Base
+    4300012: Puerta_x_Marco_Ext_01
+    4300014: Puerta_x_Marco_Ext_02
+    4300016: Puerta_x_Manija_02
+    4300018: Puerta_x_Manija_01
+    4300020: Puerta_x
+    4300022: Asensor_Pantalla.
+    4300024: Asensor_Panel.
+    4300026: Asensor_Boton_Marco.
+    4300028: Asensor_Boton.
+    4300030: Asensor_Puerta_Marco.
+    4300032: Asensor_Lookhole_Ext.
+    4300034: Asensor_Puerta_Ext_01.
+    4300036: Asensor_Puerta_Ext_02.
+    4300038: Asensor_Puerta_Ext_02.
+    4300040: Asensor_Puerta_Ext_Manija_03.
+    4300042: Asensor_Puerta_Ext_Manija_02.
+    4300044: Asensor_Puerta_Ext_Nexo.
+    4300046: Asensor_Lookhole_Int.
+    4300048: Asensor_Puerta_Int_02.
+    4300050: Asensor_Puerta_Int_02.
+    4300052: Asensor_Puerta_Int_01.
+    4300054: Pared_S_Extrude
+    4300056: Pared_S_Zocalos
+    4300058: Pared_S_Pared
+    4300060: Pared_O_Zocalos
+    4300062: Pared_O_Extrude
+    4300064: Pared_O_Pared
+    4300066: Pared_medio
+    4300068: Pared_Zocalo
+    4300070: Pared_extrude
+    4300072: Pared_E_Extrude
+    4300074: Pared_E
+    4300076: Lookhole_B.
+    4300078: Lookhole_B_agujero.
+    4300080: Puerta.
+    4300082: Cerradura1_agujero.
+    4300084: Cerradura1_base.
+    4300086: Tornillo_01.
+    4300088: Tornillo_02.
+    4300090: Tornillo_03.
+    4300092: Cerradura2_agujero.
+    4300094: Cerradura2_base.
+    4300096: Tornillo_01.
+    4300098: Tornillo_02.
+    4300100: Tornillo_03.
+    4300102: Tornillo_04.
+    4300104: Manija Afuera_Base.
+    4300106: Manija Afuera_Base.
+    4300108: Manija Afuera_Base.
+    4300110: Puerta_Marco_Ext_03.
+    4300112: Puerta_Marco_Ext_01.
+    4300114: Puerta_Marco_Ext_03.
+    4300116: Puerta_Marco_Ext_01.
+    4300118: Lookhole_B.
+    4300120: Lookhole_B_agujero.
+    4300122: Cerradura1_agujero.
+    4300124: Cerradura1_base.
+    4300126: Tornillo_01.
+    4300128: Tornillo_02.
+    4300130: Tornillo_03.
+    4300132: Cerradura2_agujero.
+    4300134: Cerradura2_base.
+    4300136: Tornillo_01.
+    4300138: Tornillo_02.
+    4300140: Tornillo_03.
+    4300142: Tornillo_04.
+    4300144: Manija Afuera_Base.
+    4300146: Manija Afuera_Base.
+    4300148: Manija Afuera_Base.
+    4300150: Puerta.
+    4300152: riel_top
+    4300154: riel_mid
+    4300156: pole R
+    4300158: pole C_1
+    4300160: escalera_2
+    4300162: Escalera_Pared
+    4300164: Pared_N_medio
+    4300166: Pasillo_Ventana_Vidrio
+    4300168: Reja_Barrote_1_01
+    4300170: Reja_Barrote_1_02
+    4300172: Reja_Barrote_1_07
+    4300174: Pasillo_Ventana_Marco
+    4300176: PB_Techo
+    4300178: PB_Asensor_Puerta
+    4300180: Asensor_puerta_base
+    4300182: Asensor_Pantalla
+    4300184: Asensor_manija_base
+    4300186: Asensor_manija
+    4300188: Asensor_boton
+    4300190: Asensor_Base
+    4300192: Asensor_agujero
+    4300194: Stringer_box
+    4300196: PB_Escalera_Pared
+    4300198: Escalera_Panel
+    4300200: Escalera_1
+    4300202: PB_S_Panel_013
+    4300204: PB_S_Panel_014
+    4300206: PB_S_Panel_015
+    4300208: PB_S_Panel_016
+    4300210: PB_S_Panel_017
+    4300212: PB_S_Panel_018
+    4300214: PB_S_Panel_019
+    4300216: PB_S_Panel_020
+    4300218: PB_S_Panel_023
+    4300220: PB_S_Panel_024
+    4300222: PB_S_Panel_025
+    4300224: PB_S_Panel_026
+    4300226: Panel_S
+    4300228: Pared_S_01_Zocalo
+    4300230: Pared_S_01
+    4300232: Pared_S_02_Zocalo
+    4300234: Pared_S_02
+    4300236: PB_Entrada_Pared_S
+    4300238: PB_Entrada_Pared_S_Espejo
+    4300240: PB_Entrada_Pared_S_Zocalo
+    4300242: PB_S_Puerta
+    4300244: PB_S_Puerta_Marco002
+    4300246: PB_S_Puerta_Marco003
+    4300248: PB_S_Puerta_Marco001
+    4300250: Puerta manija_cerradura
+    4300252: Puerta manija_base
+    4300254: PB_Pasillo_Puerta_marco
+    4300256: PB_Pasillo_Puerta
+    4300258: Puerta_manija001
+    4300260: cerradura2_agujero
+    4300262: PB_N_Panel_12
+    4300264: Panel_Tornillo
+    4300266: PB_N_Panel_11
+    4300268: PB_N_Panel_10_top
+    4300270: PB_N_Panel_06
+    4300272: PB_N_Panel_05
+    4300274: PB_N_Panel_04
+    4300276: PB_N_Panel_03
+    4300278: PB_N_Panel_02
+    4300280: PB_N_Panel_01
+    4300282: Panel_N
+    4300284: PB_Marco_base
+    4300286: PB_Marco04
+    4300288: PB_Marco03
+    4300290: PB_Marco02
+    4300292: PB_Marco01
+    4300294: Switch_001
+    4300296: Switch_1_botones
+    4300298: PB_Pasillo_Pared_N
+    4300300: PB_Pasillo_Pared_N_Zocalo
+    4300302: PB_Entrada_Pared_E
+    4300304: PB_Entrada_Pared_E_Espejo
+    4300306: PB_E_Panel_01
+    4300308: PB_E_Panel_02
+    4300310: PB_E_Puerta_Marco
+    4300312: PB_E_Puerta_Marco001
+    4300314: PB_E_Puerta_Marco002
+    4300316: PB_Puerta_A
+    4300318: cerradura2_base001
+    4300320: cerradura2_agujero001
+    4300322: tornillo095
+    4300324: tornillo096
+    4300326: tornillo097
+    4300328: tornillo098
+    4300330: lookhole_B_agujero002
+    4300332: lookhole007
+    4300334: lookhole005
+    4300336: MANIJA AFUERA_BASE004
+    4300338: Cylinder083
+    4300340: MANIJA AFUERA001
+    4300342: PB_Entrada_Pared_E_Zocalo
+    4300344: Entrada_Pared_Zocalo
+    4300346: Entrada_Pared
+    4300348: Entrada_Puerta_Vidrios
+    4300350: Entrada_Puerta
+    4300352: Entrada_Puerta_Manija
+    4300354: Entrada_Puerta_Cerradura
+    4300356: PB_Entrada_Vidrios
+    4300358: PB_Entrada_Puerta_Marco
+    4300360: PB_Entrada_Piso
+    4300362: PB_Escalon_!
+    4300364: PB_Pasillo_Piso
+    4300366: PB_Entrada_Luz_Base_1.
+    4300368: PB_Entrada_Luz_Base_2.
+    4300370: PB_Entrada_Luz_Pantalla
+    4300372: PB_Marco_Luz_Pantalla
+    4300374: PB_Marco_Luz_Base
+    4300376: PB_Luz_Base_1.
+    4300378: PB_Luz_Base_2.
+    4300380: PB_Luz_Pantalla
+    4300382: "Ba\xF1o_Bidet"
+    4300384: Cylinder004
+    4300386: Cylinder005
+    4300388: "Ducha_Ba\xF1adera"
+    4300390: Ducha_Canilla
+    4300392: Shape01
+    4300394: Rectangle02
+    4300396: Rectangle01
+    4300398: ChamferCyl01
+    4300400: Ellipse01
+    4300402: Ellipse02
+    4300404: PUERTA004
+    4300406: Hindge_013
+    4300408: cerradura_A_1_base010
+    4300410: tornillo077
+    4300412: tornillo078
+    4300414: Manija_A_base020
+    4300416: tornillo080
+    4300418: tornillo079
+    4300420: Manija_A007
+    4300422: Manija_A_manija007
+    4300424: Manija_A_base021
+    4300426: tornillo084
+    4300428: tornillo083
+    4300430: cerradura_A_1_base011
+    4300432: cerradura_picaporte011
+    4300434: tornillo076
+    4300436: tornillo075
+    4300438: cerradura_portapico006
+    4300440: cerradura_picaporte012
+    4300442: 2C_Cuarto_Puerta_Marco_Int024
+    4300444: 2C_Cuarto_Puerta_Marco_Int023
+    4300446: 2C_Cuarto_Puerta_Marco_Int022
+    4300448: 2C_Cuarto_Puerta_Marco_Ext012
+    4300450: 2C_Cuarto_Puerta_Marco_Ext011
+    4300452: 2C_Cuarto_Puerta_Marco_Ext010
+    4300454: "Ba\xF1o_Llavamanos"
+    4300456: "Ba\xF1o_Lavamanos_Canilla"
+    4300458: "Ba\xF1o_Mesada"
+    4300460: 2C_Cuarto_Puerta_Marco_Int018
+    4300462: 2C_Cuarto_Puerta_Marco_Int017
+    4300464: 2C_Cuarto_Puerta_Marco_Int016
+    4300466: 2C_Cuarto_Puerta_Marco_Ext006
+    4300468: 2C_Cuarto_Puerta_Marco_Ext005
+    4300470: 2C_Cuarto_Puerta_Marco_Ext004
+    4300472: PUERTA002
+    4300474: Hindge_007
+    4300476: cerradura_picaporte007
+    4300478: cerradura_picaporte008
+    4300480: cerradura_portapico004
+    4300482: tornillo063
+    4300484: tornillo064
+    4300486: Manija_A_base014
+    4300488: tornillo060
+    4300490: tornillo059
+    4300492: Manija_A_base015
+    4300494: Manija_A_manija004
+    4300496: Manija_A004
+    4300498: cerradura_A_1_base007
+    4300500: tornillo062
+    4300502: tornillo061
+    4300504: cerradura_A_1_base006
+    4300506: tornillo049
+    4300508: tornillo051
+    4300510: PUERTA036
+    4300512: Hindge_021
+    4300514: Hindge_020
+    4300516: Hindge_019
+    4300518: 2C_Cuarto_Puerta_Marco_Ext018
+    4300520: 2C_Cuarto_Puerta_Marco_Ext017
+    4300522: 2C_Cuarto_Puerta_Marco_Ext016
+    4300524: tornillo237
+    4300526: tornillo236
+    4300528: Manija_A_base030
+    4300530: tornillo235
+    4300532: tornillo234
+    4300534: Manija_A012
+    4300536: Manija_A_manija012
+    4300538: Manija_A_base031
+    4300540: cerradura_A_1_base015
+    4300542: cerradura_A_1_base014
+    4300544: tornillo233
+    4300546: tornillo232
+    4300548: cerradura_picaporte015
+    4300550: tornillo229
+    4300552: tornillo228
+    4300554: cerradura_portapico008
+    4300556: cerradura_picaporte016
+    4300558: 2C_Cuarto_Puerta_Marco_Int028
+    4300560: 2C_Cuarto_Puerta_Marco_Int029
+    4300562: 2C_Cuarto_Puerta_Marco_Int030
+    4300564: Cuarto_Ventana_R
+    4300566: Cuarto_Ventana_L
+    4300568: Cuarto_Ventana_Marco
+    4300570: Armario_Puerta_Izq_1
+    4300572: cerradura_picaporte005
+    4300574: Armario_Puerta_Izq_2
+    4300576: Armario_Puerta_Der_2
+    4300578: tornillo029
+    4300580: tornillo030
+    4300582: tornillo031
+    4300584: tornillo032
+    4300586: Armario_Puerta_Der_1
+    4300588: 2C_Cuarto_Pared_Armario
+    4300590: almohada
+    4300592: cama
+    4300594: 2C_Living_Ventana_Barrote01
+    4300596: 2C_Living_Ventana_Barrote02
+    4300598: 2C_Living_Ventana_Barrote03
+    4300600: Living_Ventana
+    4300602: keyboardMouse_cgaxis_electronics_25_01
+    4300604: keyboardMouse_cgaxis_electronics_25_03
+    4300606: keyboardMouse_cgaxis_electronics_25_02
+    4300608: keyboardMouse_Object02
+    4300610: keyboardMouse_Object01
+    4300612: Sub_base
+    4300614: Sub
+    4300616: Parlante_marco
+    4300618: Parlante_parlante
+    4300620: Parlante_tela
+    4300622: Base_nexo
+    4300624: Base_base
+    4300626: PC_obj_01
+    4300628: PC_obj_02
+    4300630: PC_obj_03
+    4300632: Silla_Sphere01
+    4300634: Silla_Rectangle011
+    4300636: Silla_OilTank10
+    4300638: Silla_OilTank09
+    4300640: Silla_OilTank08
+    4300642: Silla_OilTank07
+    4300644: Silla_OilTank06
+    4300646: Silla_OilTank05
+    4300648: Silla_OilTank04
+    4300650: Silla_OilTank03
+    4300652: Silla_OilTank02
+    4300654: Silla_OilTank01
+    4300656: Silla_Loft006
+    4300658: Silla_Loft005
+    4300660: Silla_Loft04
+    4300662: Silla_Loft03
+    4300664: Silla_Line05
+    4300666: Silla_Line04
+    4300668: Silla_Line03
+    4300670: Silla_Line02
+    4300672: Silla_Line01
+    4300674: Silla_Cylinder18
+    4300676: Silla_Cylinder17
+    4300678: Silla_Cylinder16
+    4300680: Silla_Cylinder016
+    4300682: Silla_Cylinder15
+    4300684: Silla_Cylinder015
+    4300686: Silla_Cylinder014
+    4300688: Silla_Cylinder13
+    4300690: Silla_Cylinder013
+    4300692: Silla_Cylinder12
+    4300694: Silla_Cylinder012
+    4300696: Silla_Cylinder10
+    4300698: Silla_Cylinder09
+    4300700: Silla_Cylinder08
+    4300702: Silla_Cylinder07
+    4300704: Silla_Cylinder06
+    4300706: Silla_Cylinder02
+    4300708: Silla_Circle07
+    4300710: Silla_Circle06
+    4300712: Silla_Circle05
+    4300714: Silla_Circle04
+    4300716: Silla_Circle03
+    4300718: Silla_ChamferBox017
+    4300720: Silla_ChamferBox016
+    4300722: Silla_ChamferBox015
+    4300724: Silla_ChamferBox06
+    4300726: Silla_ChamferBox05
+    4300728: Silla_ChamferBox02
+    4300730: Silla_ChamferBox01
+    4300732: TV
+    4300734: Screen
+    4300736: 2C_Living_Mesa
+    4300738: 2C_Cuarto_Puerta_Marco_Int025
+    4300740: 2C_Cuarto_Puerta_Marco_Int026
+    4300742: 2C_Cuarto_Puerta_Marco_Int027
+    4300744: 2C_Cuarto_Puerta_Marco_Ext013
+    4300746: 2C_Cuarto_Puerta_Marco_Ext014
+    4300748: 2C_Cuarto_Puerta_Marco_Ext015
+    4300750: PUERTA005
+    4300752: Manija_A_base024
+    4300754: Manija_A009
+    4300756: Manija_A_base025
+    4300758: Manija_A_manija009
+    4300760: tornillo089
+    4300762: tornillo090
+    4300764: cerradura_A_1_base012
+    4300766: tornillo087
+    4300768: tornillo088
+    4300770: Hindge_016
+    4300772: cerradura_A_1_base013
+    4300774: tornillo093
+    4300776: tornillo094
+    4300778: cerradura_picaporte013
+    4300780: cerradura_picaporte014
+    4300782: cerradura_portapico007
+    4300784: tornillo085
+    4300786: tornillo086
+    4300788: PUERTA
+    4300790: MANIJA AFUERA_BASE002
+    4300792: MANIJA AFUERA
+    4300794: Cylinder001
+    4300796: lookhole001
+    4300798: lookhole_B_agujero001
+    4300800: lookhole004
+    4300802: cerradura2_base
+    4300804: tornillo003
+    4300806: tornillo002
+    4300808: tornillo001
+    4300810: tornillo
+    4300812: cerradura2_agujero
+    4300814: cerradura1_base
+    4300816: tornillo007
+    4300818: tornillo005
+    4300820: tornillo004
+    4300822: cerradura1_agujero
+    4300824: cerradura_portapico003
+    4300826: tornillo019
+    4300828: tornillo018
+    4300830: cerradura_portapico001
+    4300832: cerradura_picaporte1
+    4300834: cerradura_picaporte
+    4300836: 2P_Puerta_Marco_Ext3
+    4300838: 2P_Puerta_Marco_Ext2
+    4300840: Manija_A_base
+    4300842: lookhole_A_agujero
+    4300844: lookhole002
+    4300846: cerradura_A_2_agujero001
+    4300848: cerradura_A_1_base002
+    4300850: tornillo011
+    4300852: tornillo009
+    4300854: cerradura_B_2_agujero002
+    4300856: cerradura_A_1_base001
+    4300858: tornillo017
+    4300860: tornillo016
+    4300862: tornillo015
+    4300864: tornillo014
+    4300866: 2P_Puerta_Marco_Int3
+    4300868: 2P_Puerta_Marco_Int002
+    4300870: 2P_Puerta_Marco_Int1
+    4300872: 2P_Puerta_Marco_agujero2
+    4300874: 2P_Puerta_Marco_agujero1
+    4300876: 2C_Contrafrente_Pared_N
+    4300878: 2C_Contrafrente_Pared_S
+    4300880: 2C_Contrafrente_E
+    4300882: "2C_Ba\xF1o_Pared_W"
+    4300884: "2C_Ba\xF1o_Pared_E001"
+    4300886: "2C_Ba\xF1o_Pared_E"
+    4300888: 2C_Living_Pared_N
+    4300890: 2C_Pared_E
+    4300892: 2C_Cuarto_Pared_S
+    4300894: 2C_Living-Cuarto_Pared
+    4300896: "2C_Ba\xF1o-Cuarto_Pared"
+    4300898: 2C_Lavadero_Pared_2
+    4300900: 2C_Lavadero_Pared_1
+    4300902: 2C_Lavadero_Pared_3
+    4300904: 2C_Lavadero_Ventana
+    4300906: 2C_Lavadero_Ventana_Vidrio
+    4300908: 2C_Cocina_Pared_003
+    4300910: 2C_Cocina_Pared_002
+    4300912: 2C_Cocina_Pared_1
+    4300914: 2C_Living-Cocina_Pared_O
+    4300916: Cuarto_Luz_Base
+    4300918: Cuarto_Luz_Pantalla
+    4300920: Living_Luz_Base
+    4300922: Living_Luz_Pantalla
+    4300924: 2C_Piso
+    4300926: 2C_Techo
+    4300928: Stinger
+    4300930: Escalera_Techo
+    4300932: Stair_Collider004
+    4300934: Stinger
+    4300936: Escalera_Techo001
+    4300938: Stinger
+    4300940: Escalera_Techo
+    4300942: Pasillo_Luz_Tornillo
+    4300944: Pasillo_Luz_Tornillo
+    4300946: Pasillo_Luz_Tornillo
+    4300948: Pasillo_Luz_Tornillo
+    4300950: Pasillo_Luz_Tornillo
+    4300952: Pasillo_Luz_Pantalla
+    4300954: Pasillo_Luz_Pantalla
+    4300956: Pasillo_Luz_Base
+    4300958: Puerta_x_Marco_Ext_03
+    4300960: Asensor_Puerta_Ext_02.
+    4300962: Asensor_Puerta_Ext_02.
+    4300964: Asensor_Puerta_Ext_02.
+    4300966: Asensor_Puerta_Ext_Manija_01.
+    4300968: Asensor_Puerta_Ext_Nexo.
+    4300970: Asensor_Puerta_Ext_Nexo.
+    4300972: Asensor_Puerta_Ext_Nexo.
+    4300974: Asensor_Puerta_Ext_Nexo.
+    4300976: Asensor_Puerta_Ext_Nexo.
+    4300978: Asensor_Puerta_Ext_Nexo.
+    4300980: Asensor_Puerta_Ext_Nexo.
+    4300982: Asensor_Puerta_Int_02.
+    4300984: Asensor_Puerta_Int_02.
+    4300986: Asensor_Puerta_Int_02.
+    4300988: Puerta_Marco_Ext_02.
+    4300990: Puerta_Marco_Ext_02.
+    4300992: Puerta.
+    4300994: Tornillo_02.
+    4300996: Tornillo_01.
+    4300998: Cerradura1_agujero.
+    4301000: Cerradura1_base.
+    4301002: Tornillo_03.
+    4301004: Manija Afuera_Base_03.
+    4301006: Manija Afuera_Base_01.
+    4301008: Manija Afuera_Base_02.
+    4301010: Tornillo_04.
+    4301012: Cerradura2_base.
+    4301014: Tornillo_03.
+    4301016: Tornillo_01.
+    4301018: Tornillo_02.
+    4301020: Cerradura2_agujero.
+    4301022: Lookhole_B_agujero.
+    4301024: Lookhole_B.
+    4301026: Puerta_Marco_Ext_01.
+    4301028: Puerta_Marco_Ext_03.
+    4301030: Puerta_Marco_Ext_02.
+    4301032: riel_bot
+    4301034: pole L
+    4301036: pole C_2
+    4301038: P2_Techo
+    4301040: Puerta_x_Marco_Ext_01
+    4301042: Puerta_x_Marco_Ext_02
+    4301044: Puerta_x_Marco_Ext_03
+    4301046: Puerta_x_Manija_02
+    4301048: Puerta_x_Manija_01
+    4301050: Puerta_x
+    4301052: Pared_S_Zocalos
+    4301054: Pared_S_Pared
+    4301056: Pared_S_Extrude
+    4301058: Pared_O_Zocalos
+    4301060: Pared_O_Pared
+    4301062: Pared_O_Extrude
+    4301064: Pared_Zocalo
+    4301066: Pared_medio
+    4301068: Pared_extrude
+    4301070: Pared_E_Extrude
+    4301072: Pared_E
+    4301074: Puerta_Marco_Ext_03.
+    4301076: Puerta_Marco_Ext_02.
+    4301078: Puerta_Marco_Ext_01.
+    4301080: Manija Afuera_Base.
+    4301082: Manija Afuera_Base.
+    4301084: Manija Afuera_Base.
+    4301086: Tornillo_03.
+    4301088: Tornillo_02.
+    4301090: Tornillo_01.
+    4301092: Cerradura1_base.
+    4301094: Cerradura1_agujero.
+    4301096: Tornillo_04.
+    4301098: Tornillo_03.
+    4301100: Tornillo_02.
+    4301102: Tornillo_01.
+    4301104: Cerradura2_base.
+    4301106: Cerradura2_agujero.
+    4301108: Puerta.
+    4301110: Lookhole_B_agujero.
+    4301112: Lookhole_B.
+    4301114: Puerta_Marco_Ext_03.
+    4301116: Puerta_Marco_Ext_02.
+    4301118: Puerta_Marco_Ext_01.
+    4301120: Manija Afuera_Base.
+    4301122: Manija Afuera_Base.
+    4301124: Manija Afuera_Base.
+    4301126: Tornillo_03.
+    4301128: Tornillo_02.
+    4301130: Tornillo_01.
+    4301132: Cerradura1_base.
+    4301134: Cerradura1_agujero.
+    4301136: Tornillo_04.
+    4301138: Tornillo_03.
+    4301140: Tornillo_02.
+    4301142: Tornillo_01.
+    4301144: Cerradura2_base.
+    4301146: Cerradura2_agujero.
+    4301148: Puerta.
+    4301150: Lookhole_B_agujero.
+    4301152: Lookhole_B.
+    4301154: P2_Piso
+    4301156: riel_top
+    4301158: riel_mid
+    4301160: riel_bot
+    4301162: pole R
+    4301164: pole L
+    4301166: pole C_2
+    4301168: pole C_1
+    4301170: Escalera_Pared
+    4301172: escalera_2
+    4301174: Stair_Collider005
+    4301176: Asensor_Puerta_Marco.
+    4301178: Asensor_Puerta_Int_02.
+    4301180: Asensor_Puerta_Int_02.
+    4301182: Asensor_Puerta_Int_02.
+    4301184: Asensor_Puerta_Int_02.
+    4301186: Asensor_Puerta_Int_02.
+    4301188: Asensor_Puerta_Int_01.
+    4301190: Asensor_Lookhole_Int.
+    4301192: Asensor_Puerta_Ext_Nexo.
+    4301194: Asensor_Puerta_Ext_Nexo.
+    4301196: Asensor_Puerta_Ext_Nexo.
+    4301198: Asensor_Puerta_Ext_Nexo.
+    4301200: Asensor_Puerta_Ext_Nexo.
+    4301202: Asensor_Puerta_Ext_Nexo.
+    4301204: Asensor_Puerta_Ext_Nexo.
+    4301206: Asensor_Puerta_Ext_Nexo.
+    4301208: Asensor_Puerta_Ext_Manija_03.
+    4301210: Asensor_Puerta_Ext_Manija_02.
+    4301212: Asensor_Puerta_Ext_Manija_01.
+    4301214: Asensor_Puerta_Ext_02.
+    4301216: Asensor_Puerta_Ext_02.
+    4301218: Asensor_Puerta_Ext_02.
+    4301220: Asensor_Puerta_Ext_02.
+    4301222: Asensor_Puerta_Ext_02.
+    4301224: Asensor_Puerta_Ext_01.
+    4301226: Asensor_Lookhole_Ext.
+    4301228: Asensor_Pantalla.
+    4301230: Asensor_Panel.
+    4301232: Asensor_Boton_Marco.
+    4301234: Asensor_Boton.
+    4301236: Pasillo_Luz_Tornillo007
+    4301238: Pasillo_Luz_Tornillo008
+    4301240: Pasillo_Luz_Tornillo009
+    4301242: Pasillo_Luz_Pantalla007
+    4301244: Pasillo_Luz_Pantalla008
+    4301246: Pasillo_Luz_Base007
+    4301248: Pasillo_Luz_Tornillo010
+    4301250: Pasillo_Luz_Tornillo011
+    4301252: Pasillo_Luz_Tornillo012
+    4301254: Pasillo_Luz_Pantalla010
+    4301256: Pasillo_Luz_Pantalla011
+    4301258: Pasillo_Luz_Base008
+    4301260: P3_Techo
+    4301262: Puerta.
+    4301264: Tornillo_02.
+    4301266: Tornillo_01.
+    4301268: Cerradura1_agujero.
+    4301270: Cerradura1_base.
+    4301272: Tornillo_03.
+    4301274: Manija Afuera_Base_03.
+    4301276: Manija Afuera_Base_01.
+    4301278: Manija Afuera_Base_02.
+    4301280: Tornillo_04.
+    4301282: Cerradura2_base.
+    4301284: Tornillo_03.
+    4301286: Tornillo_01.
+    4301288: Tornillo_02.
+    4301290: Cerradura2_agujero.
+    4301292: Lookhole_B_agujero.
+    4301294: Lookhole_B.
+    4301296: Puerta_Marco_Ext_01.
+    4301298: Puerta_Marco_Ext_03.
+    4301300: Puerta_Marco_Ext_02.
+    4301302: Lookhole_B.
+    4301304: Lookhole_B_agujero.
+    4301306: Puerta.
+    4301308: Cerradura1_agujero.
+    4301310: Cerradura1_base.
+    4301312: Tornillo_01.
+    4301314: Tornillo_02.
+    4301316: Tornillo_03.
+    4301318: Cerradura2_agujero.
+    4301320: Cerradura2_base.
+    4301322: Tornillo_01.
+    4301324: Tornillo_02.
+    4301326: Tornillo_03.
+    4301328: Tornillo_04.
+    4301330: Manija Afuera_Base.
+    4301332: Manija Afuera_Base.
+    4301334: Manija Afuera_Base.
+    4301336: Puerta_Marco_Ext_03.
+    4301338: Puerta_Marco_Ext_02.
+    4301340: Puerta_Marco_Ext_01.
+    4301342: Puerta_Marco_Ext_03.
+    4301344: Puerta_Marco_Ext_02.
+    4301346: Puerta_Marco_Ext_01.
+    4301348: Lookhole_B.
+    4301350: Lookhole_B_agujero.
+    4301352: Cerradura1_agujero.
+    4301354: Cerradura1_base.
+    4301356: Tornillo_01.
+    4301358: Tornillo_02.
+    4301360: Tornillo_03.
+    4301362: Cerradura2_agujero.
+    4301364: Cerradura2_base.
+    4301366: Tornillo_01.
+    4301368: Tornillo_02.
+    4301370: Tornillo_03.
+    4301372: Tornillo_04.
+    4301374: Manija Afuera_Base.
+    4301376: Manija Afuera_Base.
+    4301378: Manija Afuera_Base.
+    4301380: Puerta.
+    4301382: Puerta_x_Marco_Ext_03
+    4301384: Puerta_x_Marco_Ext_02
+    4301386: Puerta_x_Marco_Ext_01
+    4301388: Puerta_x_Manija_02
+    4301390: Puerta_x_Manija_01
+    4301392: Puerta_x
+    4301394: Pasillo_Luz_Base006
+    4301396: Pasillo_Luz_Pantalla004
+    4301398: Pasillo_Luz_Pantalla005
+    4301400: Pasillo_Luz_Tornillo004
+    4301402: Pasillo_Luz_Tornillo005
+    4301404: Pasillo_Luz_Tornillo006
+    4301406: Pasillo_Luz_Tornillo03
+    4301408: Pasillo_Luz_Tornillo02
+    4301410: Pasillo_Luz_Tornillo01
+    4301412: Pasillo_Luz_Pantalla02
+    4301414: Pasillo_Luz_Pantalla01
+    4301416: Pasillo_Luz_Base005
+    4301418: Pared_S_Zocalos
+    4301420: Pared_S_Pared
+    4301422: Pared_S_Extrude
+    4301424: Pared_O_Zocalos
+    4301426: Pared_O_Pared
+    4301428: Pared_O_Extrude
+    4301430: Pared_N_extrude
+    4301432: Pared_N_Zocalo
+    4301434: Pared_E_Extrude
+    4301436: Pared_E
+    4301438: Reja_Barrote_1_03
+    4301440: Reja_Barrote_1_04
+    4301442: Reja_Barrote_1_05
+    4301444: Reja_Barrote_1_06
+    4301446: Reja_Barrote_1_08
+    4301448: Reja_Barrote_2_01
+    4301450: Reja_Barrote_2_02
+    4301452: Reja_Barrote_2_03
+    4301454: Reja_Barrote_2_04
+    4301456: Reja_Barrote_2_05
+    4301458: Reja_Barrote_2_06
+    4301460: Reja_Barrote_2_07
+    4301462: Reja_Barrote_2_08
+    4301464: P3_Piso
+    4301466: riel_top
+    4301468: riel_mid
+    4301470: riel_bot
+    4301472: pole R
+    4301474: pole L
+    4301476: pole C_2
+    4301478: pole C_1
+    4301480: Escalera_Pared
+    4301482: escalera_2
+    4301484: Stair_Collider006
+    4301486: Asensor_Puerta_Marco.
+    4301488: Asensor_Puerta_Int_02.
+    4301490: Asensor_Puerta_Int_02.
+    4301492: Asensor_Puerta_Int_02.
+    4301494: Asensor_Puerta_Int_02.
+    4301496: Asensor_Puerta_Int_02.
+    4301498: Asensor_Puerta_Int_01.
+    4301500: Asensor_Lookhole_Int.
+    4301502: Asensor_Puerta_Ext_Nexo.
+    4301504: Asensor_Puerta_Ext_Nexo.
+    4301506: Asensor_Puerta_Ext_Nexo.
+    4301508: Asensor_Puerta_Ext_Nexo.
+    4301510: Asensor_Puerta_Ext_Nexo.
+    4301512: Asensor_Puerta_Ext_Nexo.
+    4301514: Asensor_Puerta_Ext_Nexo.
+    4301516: Asensor_Puerta_Ext_Nexo.
+    4301518: Asensor_Puerta_Ext_Manija_03.
+    4301520: Asensor_Puerta_Ext_Manija_02.
+    4301522: Asensor_Puerta_Ext_Manija_01.
+    4301524: Asensor_Puerta_Ext_02.
+    4301526: Asensor_Puerta_Ext_02.
+    4301528: Asensor_Puerta_Ext_02.
+    4301530: Asensor_Puerta_Ext_02.
+    4301532: Asensor_Puerta_Ext_02.
+    4301534: Asensor_Puerta_Ext_01.
+    4301536: Asensor_Lookhole_Ext.
+    4301538: Asensor_Pantalla.
+    4301540: Asensor_Panel.
+    4301542: Asensor_Boton_Marco.
+    4301544: Asensor_Boton.
+    4301546: riel_bot
+    4301548: riel_mid
+    4301550: riel_top
+    4301552: pole R
+    4301554: pole L
+    4301556: pole C
+    4301558: Stair_Collider001
+    4301560: Panel_Tornillo
+    4301562: Panel_Tornillo
+    4301564: Panel_Tornillo
+    4301566: Panel_Tornillo
+    4301568: Panel_Tornillo
+    4301570: Panel_Tornillo
+    4301572: Panel_Tornillo
+    4301574: Panel_Tornillo
+    4301576: Panel_Tornillo
+    4301578: Panel_Tornillo
+    4301580: Panel_Tornillo
+    4301582: Panel_Tornillo
+    4301584: Panel_Tornillo
+    4301586: PB_N_Panel_10_bot
+    4301588: Panel_Tornillo
+    4301590: Panel_Tornillo
+    4301592: Panel_Tornillo
+    4301594: Panel_Tornillo
+    4301596: PB_N_Panel_09_top
+    4301598: Panel_Tornillo
+    4301600: Panel_Tornillo
+    4301602: Panel_Tornillo
+    4301604: Panel_Tornillo
+    4301606: PB_N_Panel_09_bot
+    4301608: Panel_Tornillo
+    4301610: Panel_Tornillo
+    4301612: Panel_Tornillo
+    4301614: Panel_Tornillo
+    4301616: PB_N_Panel_08
+    4301618: Panel_Tornillo
+    4301620: Panel_Tornillo
+    4301622: Panel_Tornillo
+    4301624: Panel_Tornillo
+    4301626: Panel_Tornillo
+    4301628: Panel_Tornillo
+    4301630: Panel_Tornillo
+    4301632: Panel_Tornillo
+    4301634: Panel_Tornillo
+    4301636: Panel_Tornillo
+    4301638: Panel_Tornillo
+    4301640: Panel_Tornillo
+    4301642: Panel_Tornillo
+    4301644: Panel_Tornillo
+    4301646: Panel_Tornillo
+    4301648: Panel_Tornillo
+    4301650: Panel_Tornillo
+    4301652: Panel_Tornillo
+    4301654: Panel_Tornillo
+    4301656: Panel_Tornillo
+    4301658: Panel_Tornillo
+    4301660: Panel_Tornillo
+    4301662: Panel_Tornillo
+    4301664: Panel_Tornillo
+    4301666: Panel_Tornillo
+    4301668: Panel_Tornillo
+    4301670: Panel_Tornillo
+    4301672: Panel_Tornillo
+    4301674: PB_N_Panel_07
+    4301676: Panel_Tornillo007
+    4301678: Panel_Tornillo006
+    4301680: Panel_Tornillo005
+    4301682: Panel_Tornillo004
+    4301684: Panel_Tornillo003
+    4301686: Panel_Tornillo002
+    4301688: Switch_002
+    4301690: Switch_1_botones001
+    4301692: Switch_003
+    4301694: Switch_1_botones002
+    4301696: Pasillo_Luz_Base
+    4301698: Pasillo_Luz_Pantalla
+    4301700: Pasillo_Luz_Pantalla
+    4301702: Pasillo_Luz_Tornillo
+    4301704: Pasillo_Luz_Tornillo
+    4301706: Pasillo_Luz_Tornillo
+    4301708: PB_Entrada_Luz_Base_1.
+    4301710: PB_Entrada_Luz_Base_2.
+    4301712: PB_Entrada_Luz_Pantalla
+    4301714: PB_Entrada_Luz_Base_1.
+    4301716: PB_Entrada_Luz_Base_2.
+    4301718: PB_Entrada_Luz_Pantalla
+    4301720: PB_Entrada_Luz_Base_1.
+    4301722: PB_Entrada_Luz_Base_2.
+    4301724: PB_Entrada_Luz_Pantalla
+    4301726: PB_Marco_Luz_Base
+    4301728: PB_Marco_Luz_Pantalla
+    4301730: PB_Luz_Base_1.
+    4301732: PB_Luz_Base_2.
+    4301734: PB_Luz_Pantalla
+    4301736: PB_Luz_Base_1.
+    4301738: PB_Luz_Base_2.
+    4301740: PB_Luz_Pantalla
+    4301742: Hindge_015
+    4301744: Hindge_014
+    4301746: Manija_A_base022
+    4301748: tornillo082
+    4301750: tornillo081
+    4301752: Manija_A008
+    4301754: Manija_A_manija008
+    4301756: Manija_A_base023
+    4301758: Hindge_008
+    4301760: Hindge_009
+    4301762: Manija_A_base012
+    4301764: Manija_A_base010
+    4301766: Manija_A_manija003
+    4301768: Manija_A003
+    4301770: tornillo053
+    4301772: tornillo054
+    4301774: Manija_A_base028
+    4301776: tornillo231
+    4301778: tornillo230
+    4301780: Manija_A011
+    4301782: Manija_A_manija011
+    4301784: Manija_A_base029
+    4301786: cerradura_picaporte006
+    4301788: cerradura_picaporte004
+    4301790: cerradura_picaporte002
+    4301792: tornillo025
+    4301794: tornillo026
+    4301796: tornillo027
+    4301798: tornillo028
+    4301800: 2C_Living_Ventana_Barrote04
+    4301802: 2C_Living_Ventana_Barrote05
+    4301804: 2C_Living_Ventana_Barrote06
+    4301806: 2C_Living_Ventana_Barrote07
+    4301808: 2C_Living_Ventana_Barrote08
+    4301810: 2C_Living_Ventana_Barrote09
+    4301812: 2C_Living_Ventana_Barrote10
+    4301814: 2C_Living_Ventana_Barrote11
+    4301816: 2C_Living_Ventana_Barrote12
+    4301818: 2C_Living_Ventana_Barrote13
+    4301820: 2C_Living_Ventana_Barrote14
+    4301822: 2C_Living_Ventana_Barrote15
+    4301824: 2C_Living_Ventana_Barrote16
+    4301826: 2C_Living_Ventana_Barrote17
+    4301828: 2C_Living_Ventana_Barrote18
+    4301830: 2C_Living_Ventana_Barrote19
+    4301832: 2C_Living_Ventana_Barrote20
+    4301834: Hindge_017
+    4301836: Hindge_018
+    4301838: Manija_A_base026
+    4301840: Manija_A010
+    4301842: Manija_A_base027
+    4301844: Manija_A_manija010
+    4301846: tornillo091
+    4301848: tornillo092
+    4301850: cerradura2_agujero
+    4301852: 2P_Puerta_Marco_Ext1
+    4301854: Manija_A_base003
+    4301856: Manija_A
+    4301858: Manija_A_manija
+    4301860: Manija_A_base002
+    4301862: Hindge_3
+    4301864: Hindge_2
+    4301866: Hindge_1
+    4301868: tornillo013
+    4301870: tornillo012
+    4301872: tornillo010
+    4301874: tornillo008
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 12
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 0
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

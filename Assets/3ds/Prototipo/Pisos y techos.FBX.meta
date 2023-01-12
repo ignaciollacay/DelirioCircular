@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: eba7bd2ba51e14b4f883771bf70097b1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: P1
+    100002: P1_Piso
+    100004: P1_Techo
+    100006: P2
+    100008: P2_Piso
+    100010: P2_Techo
+    100012: P3
+    100014: P3_Piso
+    100016: P3_Techo
+    100018: P4
+    100020: P4_Piso
+    100022: P4_Techo
+    100024: P5_Piso
+    100026: PB
+    100028: PB_Entrada_Piso
+    100030: PB_Pasillo_Piso
+    100032: PB_Techo
+    100034: //RootNode
+    100036: "2C_Ba\xF1o"
+    100038: 2C_Cocina
+    100040: 2C_Cocina_Piso
+    100042: 2C_Cocina_Techo
+    100044: 2C_Cuarto
+    100046: 2C_Living
+    100048: 2C_Piso
+    100050: 2C_Piso_RabbitHole
+    100052: 2C_Techo
+    100054: P2_C
+    400000: P1
+    400002: P1_Piso
+    400004: P1_Techo
+    400006: P2
+    400008: P2_Piso
+    400010: P2_Techo
+    400012: P3
+    400014: P3_Piso
+    400016: P3_Techo
+    400018: P4
+    400020: P4_Piso
+    400022: P4_Techo
+    400024: P5_Piso
+    400026: PB
+    400028: PB_Entrada_Piso
+    400030: PB_Pasillo_Piso
+    400032: PB_Techo
+    400034: //RootNode
+    400036: "2C_Ba\xF1o"
+    400038: 2C_Cocina
+    400040: 2C_Cocina_Piso
+    400042: 2C_Cocina_Techo
+    400044: 2C_Cuarto
+    400046: 2C_Living
+    400048: 2C_Piso
+    400050: 2C_Piso_RabbitHole
+    400052: 2C_Techo
+    400054: P2_C
+    2100000: No Name
+    2300000: P1_Piso
+    2300002: P1_Techo
+    2300004: P2_Piso
+    2300006: P2_Techo
+    2300008: P3_Piso
+    2300010: P3_Techo
+    2300012: P4_Piso
+    2300014: P4_Techo
+    2300016: P5_Piso
+    2300018: PB_Entrada_Piso
+    2300020: PB_Pasillo_Piso
+    2300022: PB_Techo
+    2300024: 2C_Cocina_Piso
+    2300026: 2C_Cocina_Techo
+    2300028: 2C_Piso
+    2300030: 2C_Piso_RabbitHole
+    2300032: 2C_Techo
+    3300000: P1_Piso
+    3300002: P1_Techo
+    3300004: P2_Piso
+    3300006: P2_Techo
+    3300008: P3_Piso
+    3300010: P3_Techo
+    3300012: P4_Piso
+    3300014: P4_Techo
+    3300016: P5_Piso
+    3300018: PB_Entrada_Piso
+    3300020: PB_Pasillo_Piso
+    3300022: PB_Techo
+    3300024: 2C_Cocina_Piso
+    3300026: 2C_Cocina_Techo
+    3300028: 2C_Piso
+    3300030: 2C_Piso_RabbitHole
+    3300032: 2C_Techo
+    4300000: P1_Piso
+    4300002: P1_Techo
+    4300004: P2_Piso
+    4300006: PB_Techo
+    4300008: PB_Pasillo_Piso
+    4300010: PB_Entrada_Piso
+    4300012: 2C_Cocina_Piso
+    4300014: 2C_Cocina_Techo
+    4300016: 2C_Piso
+    4300018: 2C_Techo
+    4300020: 2C_Piso_RabbitHole
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

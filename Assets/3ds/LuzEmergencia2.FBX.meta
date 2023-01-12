@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 0ba4cddc8530d754bbd5210cb6e1c4e5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base 1
+    100002: Base 2
+    100004: BaseLamparas
+    100006: Lamparita
+    100008: LamparitaBase
+    100010: LamparitaBase001
+    100012: LamparitaBase002
+    100014: LamparitaBase003
+    100016: LamparitaBase004
+    100018: LamparitaBase005
+    100020: LamparitaBase006
+    100022: LamparitaBase007
+    100024: LamparitaBase008
+    100026: LamparitaBase009
+    100028: LamparitaBase010
+    100030: LamparitaBase011
+    100032: LamparitaBase012
+    100034: LamparitaBase013
+    100036: LamparitaBase014
+    100038: LamparitaBase015
+    100040: LamparitaBase016
+    100042: LamparitaBase017
+    100044: LamparitaBase018
+    100046: LamparitaBase019
+    100048: LamparitaBase020
+    100050: LamparitaBase021
+    100052: LamparitaBase022
+    100054: LamparitaBase023
+    100056: LamparitaBase024
+    100058: LamparitaBase025
+    100060: LamparitaBase026
+    100062: LamparitaBase027
+    100064: LamparitaBase028
+    100066: LamparitaBase029
+    100068: Lamparitas
+    100070: LuzEmergencia
+    100072: LuzEmergencia 1
+    100074: //RootNode
+    100076: P2
+    100078: P2_Techo
+    100080: Vidrio
+    400000: Base 1
+    400002: Base 2
+    400004: BaseLamparas
+    400006: Lamparita
+    400008: LamparitaBase
+    400010: LamparitaBase001
+    400012: LamparitaBase002
+    400014: LamparitaBase003
+    400016: LamparitaBase004
+    400018: LamparitaBase005
+    400020: LamparitaBase006
+    400022: LamparitaBase007
+    400024: LamparitaBase008
+    400026: LamparitaBase009
+    400028: LamparitaBase010
+    400030: LamparitaBase011
+    400032: LamparitaBase012
+    400034: LamparitaBase013
+    400036: LamparitaBase014
+    400038: LamparitaBase015
+    400040: LamparitaBase016
+    400042: LamparitaBase017
+    400044: LamparitaBase018
+    400046: LamparitaBase019
+    400048: LamparitaBase020
+    400050: LamparitaBase021
+    400052: LamparitaBase022
+    400054: LamparitaBase023
+    400056: LamparitaBase024
+    400058: LamparitaBase025
+    400060: LamparitaBase026
+    400062: LamparitaBase027
+    400064: LamparitaBase028
+    400066: LamparitaBase029
+    400068: Lamparitas
+    400070: LuzEmergencia
+    400072: LuzEmergencia 1
+    400074: //RootNode
+    400076: P2
+    400078: P2_Techo
+    400080: Vidrio
+    2100000: No Name
+    2300000: Base 1
+    2300002: Base 2
+    2300004: BaseLamparas
+    2300006: Lamparita
+    2300008: LamparitaBase
+    2300010: LamparitaBase001
+    2300012: LamparitaBase002
+    2300014: LamparitaBase003
+    2300016: LamparitaBase004
+    2300018: LamparitaBase005
+    2300020: LamparitaBase006
+    2300022: LamparitaBase007
+    2300024: LamparitaBase008
+    2300026: LamparitaBase009
+    2300028: LamparitaBase010
+    2300030: LamparitaBase011
+    2300032: LamparitaBase012
+    2300034: LamparitaBase013
+    2300036: LamparitaBase014
+    2300038: LamparitaBase015
+    2300040: LamparitaBase016
+    2300042: LamparitaBase017
+    2300044: LamparitaBase018
+    2300046: LamparitaBase019
+    2300048: LamparitaBase020
+    2300050: LamparitaBase021
+    2300052: LamparitaBase022
+    2300054: LamparitaBase023
+    2300056: LamparitaBase024
+    2300058: LamparitaBase025
+    2300060: LamparitaBase026
+    2300062: LamparitaBase027
+    2300064: LamparitaBase028
+    2300066: LamparitaBase029
+    2300068: P2_Techo
+    2300070: Vidrio
+    3300000: Base 1
+    3300002: Base 2
+    3300004: BaseLamparas
+    3300006: Lamparita
+    3300008: LamparitaBase
+    3300010: LamparitaBase001
+    3300012: LamparitaBase002
+    3300014: LamparitaBase003
+    3300016: LamparitaBase004
+    3300018: LamparitaBase005
+    3300020: LamparitaBase006
+    3300022: LamparitaBase007
+    3300024: LamparitaBase008
+    3300026: LamparitaBase009
+    3300028: LamparitaBase010
+    3300030: LamparitaBase011
+    3300032: LamparitaBase012
+    3300034: LamparitaBase013
+    3300036: LamparitaBase014
+    3300038: LamparitaBase015
+    3300040: LamparitaBase016
+    3300042: LamparitaBase017
+    3300044: LamparitaBase018
+    3300046: LamparitaBase019
+    3300048: LamparitaBase020
+    3300050: LamparitaBase021
+    3300052: LamparitaBase022
+    3300054: LamparitaBase023
+    3300056: LamparitaBase024
+    3300058: LamparitaBase025
+    3300060: LamparitaBase026
+    3300062: LamparitaBase027
+    3300064: LamparitaBase028
+    3300066: LamparitaBase029
+    3300068: P2_Techo
+    3300070: Vidrio
+    4300000: P2_Techo
+    4300002: Vidrio
+    4300004: LamparitaBase
+    4300006: LamparitaBase001
+    4300008: LamparitaBase002
+    4300010: LamparitaBase003
+    4300012: LamparitaBase004
+    4300014: LamparitaBase005
+    4300016: LamparitaBase006
+    4300018: LamparitaBase007
+    4300020: LamparitaBase008
+    4300022: LamparitaBase009
+    4300024: LamparitaBase010
+    4300026: LamparitaBase011
+    4300028: LamparitaBase012
+    4300030: LamparitaBase013
+    4300032: LamparitaBase014
+    4300034: LamparitaBase015
+    4300036: LamparitaBase016
+    4300038: LamparitaBase017
+    4300040: LamparitaBase018
+    4300042: LamparitaBase019
+    4300044: LamparitaBase020
+    4300046: LamparitaBase021
+    4300048: LamparitaBase022
+    4300050: LamparitaBase023
+    4300052: LamparitaBase024
+    4300054: LamparitaBase025
+    4300056: LamparitaBase026
+    4300058: LamparitaBase027
+    4300060: LamparitaBase028
+    4300062: LamparitaBase029
+    4300064: Lamparita
+    4300066: BaseLamparas
+    4300068: Base 2
+    4300070: Base 1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
