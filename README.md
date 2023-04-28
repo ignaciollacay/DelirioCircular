@@ -11,4 +11,4 @@ https://www.youtube.com/watch?v=MwvTvcQsvVs
 https://www.youtube.com/watch?v=gNpsYCKzRrc
 
 ## Acerca de
-Videojuego que desarrollé y presenté como proyecto final de la carrera de Diseño de Imagen y Sonido en la Facultad de Arquitectura, Diseño y Urbanismo de la Universidad de Buenos Aires. Se exhibió en 
+Videojuego que desarrollé y presenté como proyecto final de la carrera de Diseño de Imagen y Sonido en la Facultad de Arquitectura, Diseño y Urbanismo de la Universidad de Buenos Aires.
